@@ -1,0 +1,526 @@
+{
+  "title": "LSAT Logical Reasoning Section 1 Practice Exam 07",
+  "section": "logical_reasoning_1",
+  "questions": [
+    {
+      "id": "LSAT-LR1-07-001",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A city parks department argues that requiring dog owners to obtain a $25 annual permit to use the city's off-leash dog parks will significantly reduce dog-related injury incidents at those parks, since permit applicants must complete a short online course covering basic dog behavior and park safety guidelines before receiving their permit.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "Owners who complete the required online course will apply what they learn about dog behavior and safety guidelines in ways that reduce injury incidents at the parks.",
+        "B": "The $25 permit fee will generate enough revenue to fund additional park staff.",
+        "C": "Most dog owners currently visit off-leash parks more than once per week.",
+        "D": "Other cities require permits for off-leash dog parks.",
+        "E": "Dogs of certain breeds are more likely to be involved in injury incidents."
+      },
+      "correct": "A",
+      "correctAnswerText": "Owners who complete the required online course will apply what they learn about dog behavior and safety guidelines in ways that reduce injury incidents at the parks.",
+      "explanation": "Choice A is necessary: applying the negation test, if owners did not actually apply what they learned in ways that changed their behavior at the parks, requiring the course would not be expected to reduce injury incidents, defeating the conclusion. Choice B is wrong because revenue generation is irrelevant to whether injuries decrease. Choice C is wrong because visit frequency is irrelevant to the conclusion about injury reduction. Choice D is wrong because other cities' requirements have no bearing on whether this program will work here. Choice E is wrong because breed-specific injury rates are irrelevant to whether the permit and course requirement reduces injuries.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-002",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A shopping mall installed an autonomous parking valet system, in which sensors and robotic platforms park customers' cars without a human driver, in one of its parking garages. In the six months since installation, the average time customers spend searching for a parking spot in that garage has decreased by 70 percent compared with the mall's other garages, which still require customers to park their own cars. Mall management concluded that the autonomous valet system caused the decrease in search time.\n\nQuestion:\nWhich of the following, if true, would most strengthen management's conclusion?",
+      "choices": {
+        "A": "During the same six months, the garage with the autonomous valet system underwent no other changes to its layout, entrance signage, or number of available parking spaces, and customer traffic volume in that garage remained similar to the mall's other garages.",
+        "B": "The autonomous valet system uses cameras to identify available parking spaces.",
+        "C": "The mall's other garages were built before the autonomous valet garage.",
+        "D": "Customers must download a mobile app to use the autonomous valet system.",
+        "E": "Other shopping malls have expressed interest in autonomous valet systems."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same six months, the garage with the autonomous valet system underwent no other changes to its layout, entrance signage, or number of available parking spaces, and customer traffic volume in that garage remained similar to the mall's other garages.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as layout, signage, capacity, or traffic volume differences, for the decrease in search time, supporting attribution to the autonomous valet system specifically. Choice B is wrong because describing the camera mechanism does not provide evidence ruling out alternative causes. Choice C is wrong because relative construction dates are irrelevant to the causal claim. Choice D is wrong because the app requirement is irrelevant to whether the system caused the decrease. Choice E is wrong because other malls' interest has no bearing on this mall's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-003",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "A state increased funding for its public defender's office, allowing it to hire additional attorneys and reduce the average caseload per attorney by 30 percent. In the year since the funding increase, the proportion of public defender clients who accepted plea deals rather than going to trial decreased by 15 percent. State officials concluded that the reduced caseload caused the decrease in plea deal acceptance, since attorneys with lighter caseloads have more time to prepare stronger defenses for trial.\n\nQuestion:\nWhich of the following, if true, most weakens the officials' conclusion?",
+      "choices": {
+        "A": "During the same year, the state also revised its sentencing guidelines to reduce the harshness of standard plea deal terms, making trial a comparatively more attractive option regardless of attorney caseload, independent of the funding increase.",
+        "B": "Public defenders are required to pass a state bar examination.",
+        "C": "The public defender's office represents clients who cannot afford private attorneys.",
+        "D": "Some public defender clients have prior criminal records.",
+        "E": "Trials generally take longer to conclude than plea deals."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same year, the state also revised its sentencing guidelines to reduce the harshness of standard plea deal terms, making trial a comparatively more attractive option regardless of attorney caseload, independent of the funding increase.",
+      "explanation": "Choice A weakens the conclusion by identifying an alternative, sufficient explanation, revised sentencing guidelines making plea terms less attractive, for the shift toward trial, undermining the attribution to reduced caseload specifically. Choice B is wrong because bar examination requirements are irrelevant to the causal claim. Choice C is wrong because this is background information about the office's clientele, not a competing causal explanation. Choice D is wrong because prior criminal records are irrelevant to what caused the shift in plea acceptance rates. Choice E is wrong because trial duration in general does not address the specific causal question about what changed clients' decisions.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-004",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Statistical reasoning",
+      "category": "Flaw",
+      "prompt": "A rodeo association examined 120 professional bull riders who received a top-ten ranking in the association's annual standings and found that 75 percent of them had, at some point in their careers, switched to using a particular brand of riding rope endorsed by past champions. The association concluded that using this brand of riding rope is a key factor in achieving a top-ten ranking.\n\nQuestion:\nThe association's reasoning is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "fails to consider riders who switched to the endorsed brand of riding rope but did not achieve a top-ten ranking, or riders who achieved a top-ten ranking without switching, which would be necessary to establish that using the rope is actually correlated with top-ten rankings",
+        "B": "fails to define what qualifies as a \"top-ten ranking\" in the association's standings",
+        "C": "assumes that all 120 riders competed in the same events",
+        "D": "presumes that the rope's endorsement by past champions is genuine",
+        "E": "overlooks the possibility that some riders switched to the rope more recently than others"
+      },
+      "correct": "A",
+      "correctAnswerText": "fails to consider riders who switched to the endorsed brand of riding rope but did not achieve a top-ten ranking, or riders who achieved a top-ten ranking without switching, which would be necessary to establish that using the rope is actually correlated with top-ten rankings",
+      "explanation": "Choice A correctly identifies the flaw: the association examines only riders who already achieved a top-ten ranking, without any comparison to riders who used the rope but did not rank, or ranked without using it, so no actual correlation has been established. Choice B is wrong because the ranking system itself is not shown to be ambiguous in a way that affects the argument's validity. Choice C is wrong because whether riders competed in the same events is not the source of the argument's logical gap. Choice D is wrong because whether the endorsement is genuine is irrelevant to the correlation flaw being tested. Choice E is wrong because timing of the rope switch is not the source of the specific missing-comparison flaw.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-005",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Conditional logic",
+      "category": "Inference",
+      "prompt": "A medical devices regulatory agency certifies an autonomous navigation wheelchair model only if it passes both a terrain-adaptability test and an emergency-stop reliability test. Wheelchair model V passed the emergency-stop reliability test but was not certified by the agency.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "Wheelchair model V did not pass the terrain-adaptability test.",
+        "B": "Wheelchair model V will never be certified by the agency.",
+        "C": "The terrain-adaptability test is more difficult to pass than the emergency-stop reliability test.",
+        "D": "Other wheelchair models have been certified by the agency.",
+        "E": "The agency's certification standards are the strictest in the medical device industry."
+      },
+      "correct": "A",
+      "correctAnswerText": "Wheelchair model V did not pass the terrain-adaptability test.",
+      "explanation": "Choice A follows validly: certification requires passing both tests, and since model V was not certified despite passing the emergency-stop reliability test, it must have failed the terrain-adaptability test. Choice B is unsupported because the passage describes the current situation, not a permanent outcome; nothing rules out future retesting and certification. Choice C is unsupported because the relative difficulty of the two tests is not addressed by the passage. Choice D is unsupported because no information about other wheelchair models is given. Choice E is unsupported because no comparison to other regulatory agencies is provided.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-006",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argumentative strategy",
+      "category": "Method of Reasoning",
+      "prompt": "Labor economist: Companies that adopt a four-day workweek without reducing employee pay generally do not experience a decline in overall output, since employees compensate for the reduced hours by working more efficiently and taking fewer unproductive breaks during the days they do work. Business consultant responds that this claim rests primarily on self-reported productivity surveys from participating companies, which are unreliable because employees and managers invested in a program's success have an incentive to overstate its benefits. The economist replies that this objection, while reasonable regarding self-reported surveys, does not address the independent studies the economist cites, which measured objective output metrics, such as units produced and sales completed, rather than relying on self-reported perceptions.\n\nQuestion:\nThe economist's reply to the consultant proceeds by",
+      "choices": {
+        "A": "clarifying that the objection targets a type of evidence different from the evidence the economist's claim actually relies on",
+        "B": "conceding that self-reported surveys are unreliable and abandoning the original claim",
+        "C": "arguing that the consultant has a financial interest in opposing the four-day workweek",
+        "D": "presenting new self-reported survey data from additional companies",
+        "E": "questioning whether output can be accurately measured in any industry"
+      },
+      "correct": "A",
+      "correctAnswerText": "clarifying that the objection targets a type of evidence different from the evidence the economist's claim actually relies on",
+      "explanation": "Choice A accurately describes the method: the economist grants that the objection has force against self-reported surveys but points out that the claim is also supported by independent studies using objective output metrics, a different category of evidence the objection does not address. Choice B is wrong because the economist does not abandon the original claim; the reply defends it using different evidence. Choice C is wrong because no discussion of the consultant's motives occurs. Choice D is wrong because the economist cites objective metrics, not additional self-reported survey data. Choice E is wrong because no general claim about the impossibility of measuring output is made.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-007",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Conditional logic",
+      "category": "Parallel Reasoning",
+      "prompt": "A student cannot participate in the university's on-campus housing lottery unless she has submitted a housing deposit by the March deadline. Student Torres did not submit a housing deposit by the March deadline. Therefore, Torres cannot participate in the on-campus housing lottery.\n\nQuestion:\nWhich of the following arguments is most similar in its logical structure to the argument above?",
+      "choices": {
+        "A": "A vendor cannot sell food at the street fair unless it has submitted a health permit application by the April deadline. This vendor did not submit a health permit application by the April deadline. Therefore, the vendor cannot sell food at the street fair.",
+        "B": "A candidate cannot appear on the ballot unless she collects the required number of signatures. This candidate collected the required number of signatures. Therefore, she will appear on the ballot.",
+        "C": "A team cannot host the tournament final unless it finishes first in its division. This team finished first in its division. Therefore, it will host the tournament final.",
+        "D": "A researcher cannot access the archive unless she obtains written approval from the director. This researcher obtained written approval from the director. Therefore, she will access the archive.",
+        "E": "A vehicle cannot pass emissions testing unless its catalytic converter is functional. This vehicle did not pass emissions testing. Therefore, its catalytic converter is not functional."
+      },
+      "correct": "A",
+      "correctAnswerText": "A vendor cannot sell food at the street fair unless it has submitted a health permit application by the April deadline. This vendor did not submit a health permit application by the April deadline. Therefore, the vendor cannot sell food at the street fair.",
+      "explanation": "Choice A matches the original's structure: the necessary condition, submitting the permit application by the deadline, is denied, so the argument validly concludes the main claim, selling food at the fair, is also false, mirroring the original's valid modus tollens pattern. Choice B is wrong because it affirms that the necessary condition, collecting signatures, was met and invalidly concludes the candidate will appear on the ballot, reversing the valid direction of inference. Choice C is wrong because it commits the same invalid pattern, affirming a necessary condition, finishing first, and treating it as sufficient to guarantee the outcome. Choice D is wrong because it again affirms that a necessary condition, director approval, was met and treats it as guaranteeing the conclusion. Choice E is wrong because it denies the main claim and invalidly infers that the necessary condition is also false, a distinct fallacy, denying the antecedent, not found in the original argument.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-008",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Main point identification",
+      "category": "Main Point",
+      "prompt": "Coastal restoration projects increasingly focus on rebuilding oyster reefs, which were historically abundant along many shorelines but have been depleted by overharvesting and pollution. Proponents emphasize that oyster reefs filter water and reduce shoreline erosion by absorbing wave energy before it reaches the coast. Skeptics note that many restored reefs fail to become self-sustaining, requiring continual human intervention such as adding new oyster shell substrate, and argue this dependency undermines claims that restoration creates a lasting ecological solution. However, researchers examining failed restoration sites have found that most failures share a common cause: the site's water quality remained too degraded, due to ongoing pollution, to support the bacteria and larvae oysters need to reproduce naturally. Restoration projects undertaken alongside meaningful upstream pollution reduction have shown substantially higher rates of self-sustaining reef establishment, suggesting the dependency skeptics observe reflects insufficient attention to water quality rather than an inherent limitation of reef restoration itself.\n\nQuestion:\nWhich of the following most accurately expresses the main point of the passage?",
+      "choices": {
+        "A": "The dependency of restored oyster reefs on continual human intervention reflects insufficient upstream pollution reduction rather than an inherent limitation of reef restoration as an ecological solution.",
+        "B": "Oyster reefs provide no meaningful benefits to shoreline erosion control.",
+        "C": "All restored oyster reefs eventually fail without continual human intervention.",
+        "D": "Overharvesting is the primary cause of historical oyster reef depletion.",
+        "E": "Restoration projects should never add new oyster shell substrate to failing reefs."
+      },
+      "correct": "A",
+      "correctAnswerText": "The dependency of restored oyster reefs on continual human intervention reflects insufficient upstream pollution reduction rather than an inherent limitation of reef restoration as an ecological solution.",
+      "explanation": "Choice A restates the passage's central claim: the dependency skeptics point to stems from inadequate water quality management, not a fundamental flaw in reef restoration itself, as shown by higher self-sustaining rates when pollution reduction accompanies restoration. Choice B is wrong because the passage affirms, rather than disputes, oyster reefs' erosion-control benefits. Choice C is wrong because the passage explicitly notes that restoration accompanied by pollution reduction achieves substantially higher self-sustaining rates, contradicting a universal claim of failure. Choice D is wrong because this is background information about historical depletion, not the passage's main point about the cause of restoration dependency. Choice E is wrong because no such prescriptive claim about shell substrate is made.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-009",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Resolve the Paradox",
+      "prompt": "An international airport introduced a new automated document-verification system at its security checkpoints, designed to reduce the time each passenger spends at the checkpoint. In the six months since the system was introduced, however, the average total wait time passengers report experiencing at security has increased.\n\nQuestion:\nWhich of the following, if true, most helps to explain the discrepancy described above?",
+      "choices": {
+        "A": "During the same six months, the airport added several new international routes, leading to a substantial increase in the total number of passengers passing through security each day, a volume increase larger than the capacity gained from faster per-passenger processing.",
+        "B": "The automated document-verification system uses facial recognition technology.",
+        "C": "Passengers are required to remove electronic devices from their bags before screening.",
+        "D": "The airport has multiple terminals.",
+        "E": "Airlines recommend passengers arrive two hours before domestic flights."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same six months, the airport added several new international routes, leading to a substantial increase in the total number of passengers passing through security each day, a volume increase larger than the capacity gained from faster per-passenger processing.",
+      "explanation": "Choice A resolves the paradox: even though each passenger is processed faster, a passenger volume increase larger than the resulting capacity gain would still produce longer total wait times, reconciling faster individual processing with longer overall waits. Choice B is wrong because the underlying technology used does not explain the wait time discrepancy. Choice C is wrong because this is a static screening requirement unrelated to the change in wait times. Choice D is wrong because the number of terminals is irrelevant to explaining the discrepancy. Choice E is wrong because general arrival recommendations do not explain the change in actual measured wait times.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-010",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A home improvement company argues that installing its water softener system, which removes calcium and magnesium minerals from a home's water supply, will substantially extend the lifespan of a household's water heater, since mineral buildup from hard water is a leading cause of premature water heater failure according to plumbing industry data.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "The household's water supply currently contains hard water minerals at a level sufficient to be a significant contributor to water heater wear, rather than the water already being naturally soft or the heater's wear stemming primarily from other factors.",
+        "B": "The water softener system requires periodic replacement of salt pellets.",
+        "C": "Water softener systems are more common in some regions than others.",
+        "D": "The company offers a warranty on its water softener systems.",
+        "E": "Soft water tastes different from hard water to some people."
+      },
+      "correct": "A",
+      "correctAnswerText": "The household's water supply currently contains hard water minerals at a level sufficient to be a significant contributor to water heater wear, rather than the water already being naturally soft or the heater's wear stemming primarily from other factors.",
+      "explanation": "Choice A is necessary: by the negation test, if the household's water were not significantly hard, or if heater wear stemmed mainly from other factors, installing the softener would not be expected to substantially extend the heater's lifespan, undermining the conclusion. Choice B is wrong because maintenance requirements are irrelevant to the conclusion about lifespan extension. Choice C is wrong because regional prevalence is irrelevant to whether the system works for this household. Choice D is wrong because warranty coverage is irrelevant to the causal claim. Choice E is wrong because taste differences are irrelevant to the lifespan conclusion.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-011",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A city community garden began requiring lottery applicants to attend a mandatory orientation session covering basic gardening techniques before being assigned a plot. In the growing season since the requirement began, the proportion of assigned plots that were properly maintained throughout the season, rather than abandoned partway through, increased from 60 percent to 85 percent. Garden coordinators concluded that the orientation requirement caused the increase in plot maintenance.\n\nQuestion:\nWhich of the following, if true, would most strengthen the coordinators' conclusion?",
+      "choices": {
+        "A": "During the same growing season, the garden made no other changes to plot assignment criteria, watering infrastructure, or the number of plots available.",
+        "B": "The orientation session lasts approximately two hours.",
+        "C": "Community garden plots are assigned annually through a lottery system.",
+        "D": "Some gardeners have participated in the lottery for multiple years.",
+        "E": "Other community gardens in the region have longer waiting lists."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same growing season, the garden made no other changes to plot assignment criteria, watering infrastructure, or the number of plots available.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as changes to assignment criteria, infrastructure, or plot availability, for the increase in maintenance, supporting attribution to the orientation requirement specifically. Choice B is wrong because session length is irrelevant to the causal claim. Choice C is wrong because this is background information about the lottery system, not evidence bearing on causation. Choice D is wrong because participants' prior tenure is irrelevant to what caused this season's improvement. Choice E is wrong because other gardens' waiting lists have no bearing on this garden's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-012",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "A state passed a law requiring companies with more than 100 employees to publicly disclose salary ranges for all job postings. In the year since the law took effect, the average gender pay gap among covered companies in the state narrowed by 6 percent. Lawmakers concluded that the salary transparency requirement caused the narrowing of the pay gap.\n\nQuestion:\nWhich of the following, if true, most weakens the lawmakers' conclusion?",
+      "choices": {
+        "A": "During the same year, several of the largest companies covered by the law also completed previously planned, unrelated compensation audits and adjusted salaries to address internal pay inconsistencies identified through those audits, independent of the new disclosure law.",
+        "B": "The law applies only to companies with more than 100 employees.",
+        "C": "Job postings covered by the law must include both minimum and maximum salary figures.",
+        "D": "Salary transparency laws have been considered in several other states.",
+        "E": "Company compensation data is reported annually to a state labor agency."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same year, several of the largest companies covered by the law also completed previously planned, unrelated compensation audits and adjusted salaries to address internal pay inconsistencies identified through those audits, independent of the new disclosure law.",
+      "explanation": "Choice A weakens the conclusion by identifying an alternative, sufficient explanation, unrelated compensation audits and adjustments, for the narrowing pay gap, undermining the attribution to the disclosure law specifically. Choice B is wrong because the law's scope of applicability doesn't provide an alternative explanation for the observed change. Choice C is wrong because this describes a mechanism of the law, not an alternative cause. Choice D is wrong because other states' consideration of similar laws is irrelevant to this state's own causal claim. Choice E is wrong because reporting procedures are irrelevant to what caused the pay gap to narrow.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-013",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Ambiguity and equivocation",
+      "category": "Flaw",
+      "prompt": "A freelance work platform defines a \"top-rated\" freelancer as one who has received an average client rating of at least 4.8 out of 5 stars across a minimum of 50 completed projects. Since freelancer Chen has received an average client rating of 4.9 out of 5 stars, Chen must qualify as a top-rated freelancer under the platform's definition.\n\nQuestion:\nThe reasoning above is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "treats meeting the average rating threshold alone as sufficient to qualify as top-rated, when the platform's own definition also requires a minimum number of completed projects, which the argument never establishes Chen has met",
+        "B": "fails to specify how client ratings are calculated",
+        "C": "assumes that all of Chen's clients rated the same project",
+        "D": "presumes that a 4.9 rating is unusually high for the platform",
+        "E": "fails to consider whether Chen has received any negative reviews"
+      },
+      "correct": "A",
+      "correctAnswerText": "treats meeting the average rating threshold alone as sufficient to qualify as top-rated, when the platform's own definition also requires a minimum number of completed projects, which the argument never establishes Chen has met",
+      "explanation": "Choice A correctly identifies the flaw: the platform's definition of top-rated requires both a rating threshold and a minimum project count, but the argument establishes only that Chen meets the rating threshold, leaving the project count requirement unaddressed. Choice B is wrong because how ratings are calculated is not the source of the specific gap being tested. Choice C is wrong because the argument does not depend on assumptions about individual client ratings across projects. Choice D is wrong because whether 4.9 is unusually high is irrelevant to the definitional gap identified. Choice E is wrong because the presence or absence of negative reviews is not addressed by or relevant to the argument's specific logical gap.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-014",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Disagreement identification",
+      "category": "Point at Issue",
+      "prompt": "Professor A: The university should require all large lecture courses to be recorded and made available online, since this would allow students who miss class due to illness or other conflicts to keep up with course material without falling behind.\nProfessor B: Requiring recordings would not meaningfully help students who miss class, because our department's own data show that students who frequently miss live lectures also rarely watch the recordings made available for optional courses, suggesting recordings do not substitute for engagement students are already failing to maintain.\n\nQuestion:\nOn the basis of their statements, Professor A and Professor B are committed to disagreeing about which of the following?",
+      "choices": {
+        "A": "Whether requiring lecture recordings would meaningfully help students who miss class keep up with course material",
+        "B": "Whether some students currently miss large lecture courses due to illness or other conflicts",
+        "C": "Whether recordings are currently made available for optional courses in the department",
+        "D": "Whether students who miss live lectures also tend to miss other course requirements",
+        "E": "Whether the university currently records any of its lecture courses"
+      },
+      "correct": "A",
+      "correctAnswerText": "Whether requiring lecture recordings would meaningfully help students who miss class keep up with course material",
+      "explanation": "Choice A is the crux of their disagreement: Professor A argues recordings would help students keep up, while Professor B argues the department's data show recordings do not substitute for the engagement these students already fail to maintain. Choice B is wrong because both professors' statements are consistent with students missing class for various reasons; this is not disputed. Choice C is wrong because Professor B's factual claim about existing optional recordings is not disputed by Professor A. Choice D is wrong because neither professor makes a general claim about students missing other course requirements. Choice E is wrong because Professor B's data point presupposes some recordings already exist for optional courses, and this is not contested by Professor A.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-015",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Principle application",
+      "category": "Principle",
+      "prompt": "Principle: A public defender should not recommend that a client accept a plea deal on the basis of the attorney's own caseload or scheduling convenience, unless the attorney reasonably believes the plea deal serves the client's own legal interests better than proceeding to trial.\n\nQuestion:\nWhich of the following judgments most closely conforms to the principle above?",
+      "choices": {
+        "A": "A public defender does not recommend a plea deal to a client despite having a heavy caseload that week, since the attorney does not believe the deal serves the client's interests better than going to trial.",
+        "B": "A public defender recommends a plea deal to a client primarily because the attorney has three other trials scheduled that month, even though the attorney does not believe the deal serves the client's interests better than trial.",
+        "C": "A public defender recommends a plea deal to a client primarily to avoid a scheduling conflict with a personal vacation, even though the attorney does not believe the deal serves the client's interests better than trial.",
+        "D": "A public defender recommends a plea deal to a client primarily because the attorney's caseload has become unmanageable, even though the attorney does not believe the deal serves the client's interests better than trial.",
+        "E": "A public defender recommends a plea deal to a client primarily to free up time for a more high-profile case, even though the attorney does not believe the deal serves the client's interests better than trial."
+      },
+      "correct": "A",
+      "correctAnswerText": "A public defender does not recommend a plea deal to a client despite having a heavy caseload that week, since the attorney does not believe the deal serves the client's interests better than going to trial.",
+      "explanation": "Choice A conforms because the attorney declines to let caseload convenience drive the recommendation, consistent with the principle's requirement that plea recommendations be grounded in the client's interests. Choice B violates the principle because the recommendation is based on scheduling convenience without the required belief that the deal serves the client's interests. Choice C violates the principle because the recommendation is based on personal scheduling convenience without the required belief. Choice D violates the principle because the recommendation is based on caseload convenience without the required belief. Choice E violates the principle because the recommendation is based on scheduling convenience for another case without the required belief.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-016",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Deductive reasoning",
+      "category": "Inference",
+      "prompt": "If a fire station is staffed at full capacity around the clock, emergency response times to calls within its service area average no more than five minutes. Station 12 has been staffed at full capacity around the clock for the past six years, yet its average emergency response time over that period has been nine minutes.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "The general relationship described between full staffing and average emergency response time does not hold without exception at Station 12.",
+        "B": "Station 12 has not actually been staffed at full capacity for the past six years.",
+        "C": "Station 12's average response time will eventually decrease to five minutes.",
+        "D": "Other fire stations staffed at full capacity have longer average response times than Station 12.",
+        "E": "Station 12's service area is larger than that of other fire stations."
+      },
+      "correct": "A",
+      "correctAnswerText": "The general relationship described between full staffing and average emergency response time does not hold without exception at Station 12.",
+      "explanation": "Choice A must be true: since the stated conditions for the general rule were met at Station 12, yet the predicted response time did not hold, the relationship as generally described admits at least one exception there. Choice B contradicts the passage, which states Station 12 has been staffed at full capacity for six years. Choice C is unsupported speculation, since the passage gives no basis for predicting future response times, especially given the already-observed exception. Choice D is unsupported because the passage provides no data about other stations. Choice E is unsupported overreach, since the passage does not establish a comparative ranking of service area sizes.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-017",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Evaluating evidence",
+      "category": "Evaluate",
+      "prompt": "A national archive is considering expanding its pilot digitization project, which has made a small selection of historical documents available online with searchable transcriptions, to its entire collection, citing a pilot analysis showing that researchers who used the digitized documents completed their research projects faster than researchers who requested physical access to undigitized documents. Archive administrators project that expanding digitization to the entire collection will significantly reduce research completion times across the board.\n\nQuestion:\nIn evaluating the administrators' projection, it would be most useful to know which of the following?",
+      "choices": {
+        "A": "Whether the transcription accuracy achieved for the pilot's selected documents can be maintained when applied to the full collection, which includes documents that may be more difficult to digitize accurately, such as handwritten or damaged materials",
+        "B": "How much the digitization project has cost so far",
+        "C": "Whether researchers who used the pilot documents were graduate students or professional historians",
+        "D": "How many documents are included in the archive's entire collection",
+        "E": "Whether other national archives have undertaken similar digitization projects"
+      },
+      "correct": "A",
+      "correctAnswerText": "Whether the transcription accuracy achieved for the pilot's selected documents can be maintained when applied to the full collection, which includes documents that may be more difficult to digitize accurately, such as handwritten or damaged materials",
+      "explanation": "Choice A is most useful because the pilot's speed benefit likely depended on accurate, searchable transcriptions, and the full collection includes more varied and potentially harder-to-digitize materials; whether the same transcription quality can be maintained directly tests whether the pilot's results would generalize. Choice B is wrong because cost bears on feasibility, not on whether completion times would actually decrease. Choice C is wrong because researcher type is a secondary consideration relative to the untested question about transcription quality at scale. Choice D is wrong because the total document count is a secondary detail not central to whether the causal mechanism would hold. Choice E is wrong because other archives' projects elsewhere do not address whether this archive's own expansion will reduce completion times.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-018",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argument structure",
+      "category": "Argument Structure",
+      "prompt": "Some environmental engineers argue that installing microplastic filtration systems on washing machines is an effective way to reduce microplastic pollution entering waterways, since synthetic clothing sheds thousands of microplastic fibers per wash load, and these filters can capture a large majority of shed fibers before wastewater leaves the home. Critics respond that voluntary adoption of such filters has been low even in regions where they are commercially available, suggesting the approach will have limited real-world impact regardless of its technical effectiveness. However, regions that have made filter installation mandatory for new washing machines, rather than relying on voluntary adoption, have seen substantial reductions in microplastic concentrations in nearby waterways, indicating that the technology's real-world impact depends heavily on whether adoption is mandated rather than left voluntary.\n\nQuestion:\nWhich of the following most accurately describes the role played by the claim that \"voluntary adoption of such filters has been low even in regions where they are commercially available\"?",
+      "choices": {
+        "A": "It is an objection raised against the engineers' position, which the argument then qualifies by identifying the difference mandatory adoption makes.",
+        "B": "It is the main conclusion the passage seeks to establish.",
+        "C": "It is evidence directly supporting the claim that microplastic filtration is technically effective.",
+        "D": "It is an assumption the environmental engineers rely on without providing supporting evidence.",
+        "E": "It is a claim the passage shows to be entirely false."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is an objection raised against the engineers' position, which the argument then qualifies by identifying the difference mandatory adoption makes.",
+      "explanation": "Choice A accurately captures the role: this claim is introduced as critics' objection to the engineers' position, which the passage then qualifies by showing that mandatory, rather than voluntary, adoption produces substantial real-world reductions. Choice B is wrong because the passage's main point is that real-world impact depends on whether adoption is mandated, not this specific claim about voluntary adoption rates. Choice C is wrong because this claim actually cuts against, not supports, the case for real-world effectiveness under voluntary conditions. Choice D is wrong because the claim is attributed to critics responding to the engineers, not treated as an assumption of the engineers' own argument. Choice E is wrong because the passage does not show the claim entirely false; it acknowledges low voluntary adoption while showing mandatory adoption changes the outcome.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-019",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A construction technology company argues that its 3D-printed concrete housing method will significantly reduce construction time for single-family homes in the region compared with traditional wood-frame construction, since the 3D printer can complete the printing of a home's structural walls in under 48 hours, far faster than the several weeks typically required to frame walls by hand.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "The time required for other stages of home construction, such as foundation work, plumbing, electrical installation, and interior finishing, will not offset the time saved on wall construction to the point that overall construction time is not significantly reduced.",
+        "B": "3D-printed concrete homes are more resistant to extreme weather than wood-frame homes.",
+        "C": "The 3D printer requires specialized operators to run it safely.",
+        "D": "Most homebuyers in the region currently prefer wood-frame construction.",
+        "E": "3D-printed concrete costs less per square foot than traditional lumber."
+      },
+      "correct": "A",
+      "correctAnswerText": "The time required for other stages of home construction, such as foundation work, plumbing, electrical installation, and interior finishing, will not offset the time saved on wall construction to the point that overall construction time is not significantly reduced.",
+      "explanation": "Choice A is necessary: by the negation test, if other construction stages took long enough to offset the time saved on wall printing, overall construction time might not be significantly reduced, undermining the conclusion. Choice B is wrong because weather resistance is irrelevant to the construction time conclusion. Choice C is wrong because operator requirements are irrelevant to the time-reduction conclusion. Choice D is wrong because buyer preferences are irrelevant to whether construction time is reduced. Choice E is wrong because relative material cost is irrelevant to the time-based conclusion.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-020",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A coastal town restored a decommissioned 19th-century lighthouse and opened it to the public as a paid tourist attraction. In the three years since the restoration was completed, total tourism revenue for local businesses in the town has increased by 18 percent. Town officials concluded that the restored lighthouse caused the increase in tourism revenue.\n\nQuestion:\nWhich of the following, if true, would most strengthen the officials' conclusion?",
+      "choices": {
+        "A": "During the same three years, the town opened no other new tourist attractions and did not increase its tourism marketing budget beyond promoting the lighthouse.",
+        "B": "The lighthouse was originally built in the 1880s.",
+        "C": "Visitors to the lighthouse are required to purchase tickets in advance online.",
+        "D": "The town's population has remained stable over the past three years.",
+        "E": "Other coastal towns have also restored historic lighthouses in recent years."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same three years, the town opened no other new tourist attractions and did not increase its tourism marketing budget beyond promoting the lighthouse.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as other new attractions or broader marketing efforts, for the increase in tourism revenue, supporting attribution to the lighthouse specifically. Choice B is wrong because the lighthouse's original construction date is irrelevant to the causal claim. Choice C is wrong because the ticketing method is irrelevant to whether the lighthouse caused the revenue increase. Choice D is wrong because population stability, while ruling out one confound, is less directly tied to tourism revenue than ruling out other new attractions and marketing efforts. Choice E is wrong because other towns' unrelated restorations have no bearing on this town's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-021",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "A university adopted new plagiarism detection software for all submitted student essays. In the semester after adoption, the number of essays formally flagged for academic integrity violations decreased by 40 percent compared with the previous semester, which used an older detection system. University administrators concluded that the new software caused an actual decrease in the rate of student plagiarism.\n\nQuestion:\nWhich of the following, if true, most weakens the administrators' conclusion?",
+      "choices": {
+        "A": "The new plagiarism detection software checks submitted essays against a smaller database of reference sources than the older system did, potentially missing instances of plagiarism from sources outside its narrower database.",
+        "B": "The new software generates its results within minutes of essay submission.",
+        "C": "Students are informed in advance that their essays will be checked by the software.",
+        "D": "The university's academic integrity policy has not changed in several years.",
+        "E": "The software is used by several other universities in the region."
+      },
+      "correct": "A",
+      "correctAnswerText": "The new plagiarism detection software checks submitted essays against a smaller database of reference sources than the older system did, potentially missing instances of plagiarism from sources outside its narrower database.",
+      "explanation": "Choice A weakens the conclusion by suggesting an alternative explanation for the drop in flags: the new software may simply detect fewer actual instances of plagiarism due to its narrower database, rather than actual plagiarism having decreased. Choice B is wrong because processing speed is irrelevant to whether actual plagiarism decreased. Choice C is wrong because advance notice does not clearly weaken the causal claim and could even be consistent with a genuine deterrent effect. Choice D is wrong because stable policy, if anything, rules out a confound rather than weakening the conclusion. Choice E is wrong because use by other universities is irrelevant to what the flag decrease indicates at this university.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-022",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Ambiguity and equivocation",
+      "category": "Flaw",
+      "prompt": "A rental car company's late fee policy states that a customer will not be charged a late fee if the vehicle is returned within a \"reasonable grace period\" after the scheduled time, and defines this grace period as up to 29 minutes for normal returns and up to 24 hours for returns delayed by a documented flight cancellation. A customer's flight was cancelled, delaying her return by 20 hours, and she provided documentation of the cancellation upon return. Since her return fell outside the standard 29-minute grace period, the company charged her a late fee, and company representatives argued this charge was consistent with company policy because her return was, in their words, clearly \"late\" under any ordinary understanding of the term.\n\nQuestion:\nThe reasoning offered by the company representatives is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "applies an ordinary, undefined sense of \"late\" to override the company's own specific policy definition, which explicitly extends the grace period to 24 hours for documented flight cancellations, a category the customer's return falls squarely within",
+        "B": "fails to specify how long the customer's flight was delayed",
+        "C": "assumes that all flight cancellations are equally disruptive to travel plans",
+        "D": "presumes that the customer could have anticipated the flight cancellation in advance",
+        "E": "fails to consider whether the customer provided documentation for previous rentals"
+      },
+      "correct": "A",
+      "correctAnswerText": "applies an ordinary, undefined sense of \"late\" to override the company's own specific policy definition, which explicitly extends the grace period to 24 hours for documented flight cancellations, a category the customer's return falls squarely within",
+      "explanation": "Choice A correctly identifies the flaw: the company's own policy specifically defines a 24-hour grace period for documented flight-cancellation delays, a category this customer's return falls within, so invoking an ordinary, undefined sense of \"late\" to justify the charge ignores the company's own governing definition. Choice B is wrong because the delay length, 20 hours, is specified in the passage and is not the source of the flaw. Choice C is wrong because the argument does not depend on comparing the disruptiveness of different cancellations. Choice D is wrong because whether the cancellation was foreseeable is irrelevant to the policy's stated terms. Choice E is wrong because documentation from previous rentals is irrelevant to evaluating this specific charge.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-023",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argumentative strategy",
+      "category": "Method of Reasoning",
+      "prompt": "Biotech executive: Allowing companies to patent naturally occurring gene sequences discovered through their research is essential to incentivizing continued investment in genetic research, since without patent protection, competitors could freely use a company's costly discoveries without bearing any of the research costs. Patient advocate responds that gene patents have been shown to raise the cost of genetic testing for patients, since patent holders can charge monopoly prices without competition from other testing providers. The executive replies that this objection addresses a real cost of gene patents but does not show that the benefits, namely continued research investment, are outweighed by that cost, since the advocate has not compared the magnitude of foregone research investment against the magnitude of increased testing costs.\n\nQuestion:\nThe executive's reply to the patient advocate proceeds by",
+      "choices": {
+        "A": "arguing that the advocate's objection, even if accurate, does not by itself establish the conclusion, because it addresses only one side of a comparison that has not been completed",
+        "B": "presenting data showing that genetic testing costs have not actually increased",
+        "C": "arguing that patient advocates have no legitimate concern for testing costs",
+        "D": "conceding that gene patents should be banned but arguing the timeline should be delayed",
+        "E": "questioning whether the advocate accurately identified which companies hold gene patents"
+      },
+      "correct": "A",
+      "correctAnswerText": "arguing that the advocate's objection, even if accurate, does not by itself establish the conclusion, because it addresses only one side of a comparison that has not been completed",
+      "explanation": "Choice A accurately describes the method: the executive grants the factual premise about increased testing costs but argues that establishing a cost alone does not show the practice is net harmful, since the advocate has not weighed that cost against the foregone research investment the executive claims would result without patents. Choice B is wrong because the executive does not dispute the claim about increased testing costs. Choice C is wrong because no discussion of the advocate's legitimacy or motives occurs. Choice D is wrong because the executive does not concede that gene patents should be banned. Choice E is wrong because the executive does not question which companies hold patents; that is not in dispute.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-024",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Flawed analogy",
+      "category": "Parallel Flaw",
+      "prompt": "A craft distillery launched an online ordering system that allows customers to purchase bottles for local delivery without visiting the distillery's tasting room. In the following quarter, the distillery's total bottle sales increased by 24 percent compared to the same quarter the previous year. Distillery owners concluded that the online ordering system caused the increase in bottle sales.\n\nQuestion:\nWhich of the following arguments contains a flaw most similar to the flaw in the argument above?",
+      "choices": {
+        "A": "A study found that craft distilleries with online ordering systems tend to have higher average customer satisfaction ratings than distilleries without such systems. Analysts concluded that adding online ordering systems causes higher satisfaction.",
+        "B": "A bakery introduced an online ordering system for custom cakes, allowing customers to place orders without calling the shop directly, and the bakery's custom cake sales increased by 21 percent over the following six months compared to the same period the previous year. The bakery concluded that the online ordering system caused the increase in custom cake sales.",
+        "C": "A distillery introduced a customer feedback survey, and the number of complaints about order delays dropped by 25 percent over the following year. Distillery management concluded that customer satisfaction with order fulfillment had improved.",
+        "D": "A distillery launched an online ordering system and simultaneously introduced a new, highly reviewed limited-edition spirit, and total sales increased by 35 percent over the following year. Distillery management concluded that the online ordering system alone caused the increase in sales.",
+        "E": "A survey found that distillery customers who order online report higher overall satisfaction than customers who order in person. The distillery concluded that all customers should be required to order online to increase their satisfaction."
+      },
+      "correct": "B",
+      "correctAnswerText": "A bakery introduced an online ordering system for custom cakes, allowing customers to place orders without calling the shop directly, and the bakery's custom cake sales increased by 21 percent over the following six months compared to the same period the previous year. The bakery concluded that the online ordering system caused the increase in custom cake sales.",
+      "explanation": "Choice B matches the original's flaw: like the original, it introduces a single change, observes a subsequent improvement in a directly measured, non-proxy outcome relative to the same period a year earlier, and concludes the change caused the improvement without ruling out any alternative explanations, the same specific post hoc flaw as the original. Choice A is wrong because this argument extrapolates from a cross-sectional correlation across different distilleries to a causal claim, a different structure from the original's single-entity, before-and-after comparison. Choice C is wrong because this argument's flaw involves treating a change in self-reported complaints, a proxy measure, as equivalent to an actual change in satisfaction, a flaw not present in the original, which is based on a directly measured, objective outcome. Choice D is wrong because this argument explicitly acknowledges a second simultaneous change, the new spirit release, and then misattributes the effect to only one of the two changes, a more specific flaw than the original's failure to consider any alternative explanation at all. Choice E is wrong because this argument generalizes from a correlation observed across subgroups into a universal prescription, a different structure from the original's single before-and-after causal inference.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-025",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Analogical reasoning",
+      "category": "Assumption",
+      "prompt": "A state university system argues that expanding its open textbook initiative, which provides free, openly licensed textbooks for select courses in place of commercial textbooks, from its current handful of participating courses to all introductory-level courses will significantly improve course completion rates among low-income students systemwide. They cite the experience of a comparable university system that expanded its own open textbook initiative to a similarly broad range of introductory courses, where course completion rates among low-income students increased by 12 percent within two years.\n\nQuestion:\nThe argument depends on which of the following assumptions?",
+      "choices": {
+        "A": "No factors specific to the comparable university system's expansion, and absent from this system's planned expansion, were primarily responsible for the increase in course completion rates there.",
+        "B": "The comparable university system enrolls more low-income students overall than this university system.",
+        "C": "Low-income students in this university system are less academically prepared than those in the comparable system.",
+        "D": "This university system's tuition rates are identical to those of the comparable system.",
+        "E": "The comparable system's open textbook initiative was more expensive to administer than this system's planned expansion."
+      },
+      "correct": "A",
+      "correctAnswerText": "No factors specific to the comparable university system's expansion, and absent from this system's planned expansion, were primarily responsible for the increase in course completion rates there.",
+      "explanation": "Choice A is necessary: by the negation test, if factors unique to the comparable system's expansion were actually responsible for its increase in completion rates, the inference that a similar expansion will produce similar results here would be undermined. Choice B is wrong because relative enrollment numbers are not required for the comparison to support the conclusion. Choice C is wrong because relative academic preparedness between systems' students is not required for the argument's inference to hold. Choice D is wrong because this is far stronger than necessary; the argument requires only that no relevant disanalogy undermines the comparison, not identical tuition rates. Choice E is wrong because relative administrative costs are irrelevant to whether the expansion will improve completion rates similarly.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-07-026",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Deductive reasoning",
+      "category": "Inference",
+      "prompt": "An airline grants elite frequent flyer status to a customer requesting a status match only if the customer provides documentation of equivalent elite status with a partner airline and completes at least one paid flight with the airline within 90 days of the match request. Customer Whitfield was granted elite frequent flyer status through a status match last month.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "Whitfield provided documentation of equivalent elite status with a partner airline and completed at least one paid flight with the airline within 90 days of the match request.",
+        "B": "Whitfield has flown with the airline more than once in the past year.",
+        "C": "Whitfield's elite status with the partner airline was earned through frequent business travel.",
+        "D": "The airline has granted status matches to other customers in the past.",
+        "E": "The paid flight Whitfield completed was an international flight."
+      },
+      "correct": "A",
+      "correctAnswerText": "Whitfield provided documentation of equivalent elite status with a partner airline and completed at least one paid flight with the airline within 90 days of the match request.",
+      "explanation": "Choice A follows validly: since granting status match requires both documentation of equivalent elite status and completion of a paid flight within 90 days, and Whitfield was granted status, both conditions must have been satisfied. Choice B is unsupported because the requirement specifies only one paid flight, not multiple flights over a year. Choice C is unsupported because the passage does not address how Whitfield's partner airline status was earned. Choice D is unsupported because the passage describes only this specific status match, with no information about the airline's history with other customers. Choice E is unsupported because the passage does not specify whether the qualifying flight was domestic or international.",
+      "credits": 1
+    }
+  ]
+}

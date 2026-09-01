@@ -1,0 +1,114 @@
+{
+  "examId": "lsat",
+  "brandName": "LSAT Logical Reasoning Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/lsat/assets/logo.png?v=2",
+  "accessPassword": "LSATREADY",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "logical_reasoning",
+      "label": "LSAT Logical Reasoning",
+      "timeMin": 35,
+      "examQuestions": 26,
+      "type": "mcq",
+      "sourceSections": [
+        "logical_reasoning_1"
+      ],
+      "examFiles": []
+    },
+    {
+      "id": "logical_reasoning_1",
+      "label": "Internal Logical Reasoning Source 1",
+      "timeMin": 35,
+      "examQuestions": 26,
+      "type": "mcq",
+      "examFiles": [
+        "lsat_logical_reasoning_1_exam_01.json",
+        "lsat_logical_reasoning_1_exam_02.json",
+        "lsat_logical_reasoning_1_exam_03.json",
+        "lsat_logical_reasoning_1_exam_04.json",
+        "lsat_logical_reasoning_1_exam_05.json",
+        "lsat_logical_reasoning_1_exam_06.json",
+        "lsat_logical_reasoning_1_exam_07.json",
+        "lsat_logical_reasoning_1_exam_08.json",
+        "lsat_logical_reasoning_1_exam_09.json",
+        "lsat_logical_reasoning_1_exam_10.json",
+        "lsat_logical_reasoning_1_exam_11.json",
+        "lsat_logical_reasoning_1_exam_12.json",
+        "lsat_logical_reasoning_1_exam_13.json",
+        "lsat_logical_reasoning_1_exam_14.json",
+        "lsat_logical_reasoning_1_exam_15.json"
+      ],
+      "hidden": true
+    }
+  ],
+  "printables": [
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 01",
+      "file": "lsat_practice_exam_01_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 02",
+      "file": "lsat_practice_exam_04_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 03",
+      "file": "lsat_practice_exam_07_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 04",
+      "file": "lsat_practice_exam_10_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 05",
+      "file": "lsat_practice_exam_13_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 06",
+      "file": "lsat_practice_exam_16_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 07",
+      "file": "lsat_practice_exam_19_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 08",
+      "file": "lsat_practice_exam_22_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 09",
+      "file": "lsat_practice_exam_25_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 10",
+      "file": "lsat_practice_exam_28_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 11",
+      "file": "lsat_practice_exam_31_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 12",
+      "file": "lsat_practice_exam_34_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 13",
+      "file": "lsat_practice_exam_37_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 14",
+      "file": "lsat_practice_exam_40_logical_reasoning.pdf"
+    },
+    {
+      "label": "LSAT Logical Reasoning Practice Exam 15",
+      "file": "lsat_practice_exam_43_logical_reasoning.pdf"
+    }
+  ],
+  "brand": "LSAT Logical Reasoning Exam Simulator"
+}

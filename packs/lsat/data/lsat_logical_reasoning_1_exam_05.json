@@ -1,0 +1,526 @@
+{
+  "title": "LSAT Logical Reasoning Section 1 Practice Exam 05",
+  "section": "logical_reasoning_1",
+  "questions": [
+    {
+      "id": "LSAT-LR1-05-001",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "An environmental coalition argues that requiring all new outdoor commercial lighting fixtures in the county to be shielded, directing light downward rather than outward and upward, will significantly reduce disorientation-related deaths among migratory birds passing through the county, since artificial light scattering into the night sky is a leading cause of such disorientation according to ornithological research.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "Commercial lighting fixtures account for a significant enough share of the county's total upward-scattered light that shielding them would meaningfully reduce overall sky glow.",
+        "B": "Migratory birds pass through the county only at night.",
+        "C": "Shielded lighting fixtures cost more to manufacture than unshielded fixtures.",
+        "D": "Most residents support environmental protection measures.",
+        "E": "Bird populations in the county have declined over the past decade."
+      },
+      "correct": "A",
+      "correctAnswerText": "Commercial lighting fixtures account for a significant enough share of the county's total upward-scattered light that shielding them would meaningfully reduce overall sky glow.",
+      "explanation": "Choice A is necessary: applying the negation test, if commercial fixtures contributed only a negligible share of the county's total sky-scattered light, shielding them would not meaningfully reduce disorientation, defeating the conclusion. Choice B is wrong because the timing of migration is irrelevant to whether shielding commercial fixtures reduces disorientation. Choice C is wrong because relative manufacturing cost is irrelevant to the conclusion. Choice D is wrong because resident support is a separate feasibility issue, not something the physical claim depends on. Choice E is wrong because past population trends are irrelevant to the argument about future deaths.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-002",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A forest management agency began conducting regular, small-scale controlled burns in a national forest to reduce accumulated underbrush and dead vegetation. In the five years since the program began, the size of the largest wildfire in the forest each year has decreased by an average of 45 percent compared with the five years before the program began. Agency officials concluded that the controlled burns caused the reduction in wildfire size.\n\nQuestion:\nWhich of the following, if true, would most strengthen the officials' conclusion?",
+      "choices": {
+        "A": "During the same ten-year period, there were no significant changes in regional rainfall patterns, average temperatures, or wildfire suppression staffing and equipment.",
+        "B": "Controlled burns are conducted only during specific weather conditions to minimize the risk of the burns themselves spreading uncontrollably.",
+        "C": "The agency consulted with fire ecology experts before designing the program.",
+        "D": "Controlled burns release smoke that can temporarily affect local air quality.",
+        "E": "Other national forests have also begun conducting controlled burns."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same ten-year period, there were no significant changes in regional rainfall patterns, average temperatures, or wildfire suppression staffing and equipment.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as weather trends or changes in suppression resources, for the reduction in wildfire size, supporting attribution to the controlled burns specifically. Choice B is wrong because safety precautions taken during the burns do not address whether the burns caused the wildfire reduction. Choice C is wrong because expert consultation in designing the program is irrelevant to the causal question. Choice D is wrong because air quality effects are irrelevant to the wildfire size conclusion. Choice E is wrong because other forests' unrelated programs have no bearing on this forest's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-003",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "A city passed an ordinance requiring all electric scooter rental companies to cap scooter speeds at 10 miles per hour within downtown areas. In the year after the ordinance took effect, the number of scooter-related injuries reported to city hospitals decreased by 20 percent. City officials concluded that the speed cap caused the decrease in injuries.\n\nQuestion:\nWhich of the following, if true, most weakens the officials' conclusion?",
+      "choices": {
+        "A": "During the same year, the city also installed dedicated scooter lanes separated from vehicle traffic on all major downtown streets, independent of the speed cap ordinance.",
+        "B": "Scooter rental companies charge higher fees for rides in the downtown area.",
+        "C": "The speed cap applies only to scooters, not to bicycles or other micromobility devices.",
+        "D": "Most scooter injuries involve falls rather than collisions with vehicles.",
+        "E": "The city has several scooter rental companies operating downtown."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same year, the city also installed dedicated scooter lanes separated from vehicle traffic on all major downtown streets, independent of the speed cap ordinance.",
+      "explanation": "Choice A weakens the conclusion by identifying an alternative, sufficient explanation, dedicated scooter lanes, for the drop in injuries, undermining the attribution to the speed cap specifically. Choice B is wrong because pricing has no bearing on the causal claim about injuries. Choice C is wrong because the scope of the cap's applicability doesn't provide an alternative explanation for the observed change. Choice D is wrong because the composition of injury types doesn't address what caused the overall decrease. Choice E is wrong because the number of companies operating is irrelevant to the causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-004",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Statistical reasoning",
+      "category": "Flaw",
+      "prompt": "A legal research firm examined 200 patent infringement lawsuits filed by non-practicing entities, commonly called patent trolls, against technology startups, and found that 70 percent of startups that settled quickly, within three months of being sued, remained in business five years later. The firm concluded that settling quickly with patent trolls is a key factor in a startup's long-term survival.\n\nQuestion:\nThe firm's reasoning is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "fails to consider startups that settled quickly but nonetheless went out of business, or startups that did not settle quickly but survived, which would be necessary to establish that quick settlement is actually correlated with survival",
+        "B": "fails to define what qualifies as a \"non-practicing entity\"",
+        "C": "assumes that all 200 lawsuits involved similar patent claims",
+        "D": "presumes that patent litigation is common in the technology industry",
+        "E": "overlooks the possibility that some startups settled more than three months after being sued"
+      },
+      "correct": "A",
+      "correctAnswerText": "fails to consider startups that settled quickly but nonetheless went out of business, or startups that did not settle quickly but survived, which would be necessary to establish that quick settlement is actually correlated with survival",
+      "explanation": "Choice A correctly identifies the flaw: the firm examines only the settlement histories of a fixed group without any full comparison across all four possible combinations of settlement speed and survival outcome, so no actual correlation between quick settlement and survival has been established. Choice B is wrong because the term \"non-practicing entity\" is not shown to be ambiguous in a way that affects the argument's validity. Choice C is wrong because similarity of patent claims across lawsuits is not the source of the argument's logical gap. Choice D is wrong because how common patent litigation is in the industry is irrelevant to the flaw being tested. Choice E is wrong because startups that settled later are not discussed and are not the source of the specific missing-comparison flaw.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-005",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Conditional logic",
+      "category": "Inference",
+      "prompt": "A national safety standards board certifies an autonomous robotic lawn mower model only if it passes both a boundary-detection test and an obstacle-recognition test. Mower model H passed the boundary-detection test but was not certified by the board.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "Mower model H did not pass the obstacle-recognition test.",
+        "B": "Mower model H will never be certified by the board.",
+        "C": "The obstacle-recognition test is more difficult to pass than the boundary-detection test.",
+        "D": "Other mower models have been certified by the board.",
+        "E": "The board's certification standards are the strictest in the industry."
+      },
+      "correct": "A",
+      "correctAnswerText": "Mower model H did not pass the obstacle-recognition test.",
+      "explanation": "Choice A follows validly: certification requires passing both tests, and since model H was not certified despite passing the boundary-detection test, it must have failed the obstacle-recognition test. Choice B is unsupported because the passage describes the current situation, not a permanent outcome; nothing rules out future retesting and certification. Choice C is unsupported because the relative difficulty of the two tests is not addressed by the passage. Choice D is unsupported because no information about other mower models is given. Choice E is unsupported because no comparison to other standards boards is provided.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-006",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argumentative strategy",
+      "category": "Method of Reasoning",
+      "prompt": "Consumer advocate: The city should build and operate its own municipal broadband internet service, since private internet providers in the city have failed to expand high-speed access to underserved neighborhoods despite years of complaints. Industry representative responds that municipal broadband projects in other cities have frequently run over budget and failed to achieve projected subscriber numbers, making public investment risky. The advocate replies that this objection rests on examples drawn primarily from small cities with limited populations to spread infrastructure costs across, and that municipal broadband projects in cities of comparable size to this one have generally met or exceeded their budget and subscriber projections.\n\nQuestion:\nThe advocate's reply to the industry representative proceeds by",
+      "choices": {
+        "A": "arguing that the examples underlying the representative's objection are not relevantly comparable to the situation under discussion",
+        "B": "conceding that municipal broadband projects often fail, but arguing the benefits outweigh the risks regardless",
+        "C": "presenting evidence that private providers have a financial motive to oppose municipal broadband",
+        "D": "arguing that internet access is a fundamental right",
+        "E": "questioning whether the representative accurately reported the failed projects' budgets"
+      },
+      "correct": "A",
+      "correctAnswerText": "arguing that the examples underlying the representative's objection are not relevantly comparable to the situation under discussion",
+      "explanation": "Choice A accurately describes the method: the advocate distinguishes the representative's examples, drawn from small cities, from cities of comparable size to this one, where outcomes have generally been favorable, challenging the relevance of the comparison rather than the facts themselves. Choice B is wrong because the advocate does not concede that projects often fail; the reply disputes the generality of that claim for comparably sized cities. Choice C is wrong because no discussion of the representative's motives occurs. Choice D is wrong because no claim about internet access as a fundamental right is made. Choice E is wrong because the advocate does not dispute the accuracy of the reported budgets in the small-city examples, only their relevance to this situation.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-007",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Conditional logic",
+      "category": "Parallel Reasoning",
+      "prompt": "A player cannot compete in the regional esports championship unless the player has maintained an active roster spot with a registered team for at least 90 consecutive days before the tournament. Player Nakamura has not maintained an active roster spot with a registered team for at least 90 consecutive days before the tournament. Therefore, Nakamura cannot compete in the regional esports championship.\n\nQuestion:\nWhich of the following arguments is most similar in its logical structure to the argument above?",
+      "choices": {
+        "A": "A horse cannot race in the derby unless it has completed a qualifying time trial. This horse has not completed a qualifying time trial. Therefore, the horse cannot race in the derby.",
+        "B": "A dancer cannot audition for the touring company unless she submits a video recording in advance. This dancer submitted a video recording in advance. Therefore, she will audition for the touring company.",
+        "C": "A team cannot advance to the playoffs unless it wins at least 10 games. This team won at least 10 games. Therefore, it will advance to the playoffs.",
+        "D": "A climber cannot attempt the summit unless she has acclimatized at base camp for at least five days. This climber acclimatized at base camp for at least five days. Therefore, she will attempt the summit.",
+        "E": "A vehicle cannot be entered in the vintage car show unless it is at least 25 years old. This vehicle was not entered in the vintage car show. Therefore, it is not at least 25 years old."
+      },
+      "correct": "A",
+      "correctAnswerText": "A horse cannot race in the derby unless it has completed a qualifying time trial. This horse has not completed a qualifying time trial. Therefore, the horse cannot race in the derby.",
+      "explanation": "Choice A matches the original's structure: the necessary condition, completing the qualifying time trial, is denied, so the argument validly concludes the main claim, racing in the derby, is also false, mirroring the original's valid modus tollens pattern. Choice B is wrong because it affirms that the necessary condition, submitting the video, was met and invalidly concludes the dancer will audition, reversing the valid direction of inference. Choice C is wrong because it commits the same invalid pattern, affirming a necessary condition, the win total, and treating it as sufficient to guarantee the outcome. Choice D is wrong because it again affirms that a necessary condition, acclimatization days, was met and treats it as guaranteeing the conclusion. Choice E is wrong because it denies the main claim and invalidly infers that the necessary condition is also false, a distinct fallacy, denying the antecedent, not found in the original argument.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-008",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Main point identification",
+      "category": "Main Point",
+      "prompt": "Regulators in some countries classify gene-edited crops, in which existing genes are modified using precise editing tools without introducing DNA from other species, under the same strict regulatory framework as traditional genetically modified organisms, which involve inserting foreign genetic material. Critics of this approach argue that gene-edited crops often produce changes indistinguishable from those achievable through conventional selective breeding, only achieved more quickly and precisely, and that subjecting them to the same lengthy approval process as foreign-gene GMOs imposes costs and delays disproportionate to any distinct risk they pose. A regulatory framework calibrated to the nature of the genetic change involved, rather than treating all forms of genetic modification identically, would better balance safety oversight with the practical realities of crop development.\n\nQuestion:\nWhich of the following most accurately expresses the main point of the passage?",
+      "choices": {
+        "A": "Because gene-edited crops often involve changes achievable through conventional breeding, regulating them identically to foreign-gene GMOs imposes disproportionate costs, and a framework calibrated to the nature of the genetic change would be preferable.",
+        "B": "Gene-edited crops pose no risks and should not be regulated at all.",
+        "C": "Traditional GMOs involving foreign genetic material should be banned.",
+        "D": "Selective breeding is a safer method of crop development than genetic modification.",
+        "E": "All countries currently regulate gene-edited crops the same way as traditional GMOs."
+      },
+      "correct": "A",
+      "correctAnswerText": "Because gene-edited crops often involve changes achievable through conventional breeding, regulating them identically to foreign-gene GMOs imposes disproportionate costs, and a framework calibrated to the nature of the genetic change would be preferable.",
+      "explanation": "Choice A restates the passage's central claim: because gene-edited crops often resemble outcomes achievable through conventional breeding, identical regulation imposes disproportionate costs, and a calibrated framework would be preferable. Choice B is wrong because the passage never claims gene-edited crops pose no risk or should be unregulated, only that regulation should be calibrated. Choice C is wrong because no recommendation to ban traditional GMOs is made. Choice D is wrong because no comparative safety claim about selective breeding versus genetic modification is made. Choice E is wrong because the passage specifies \"some countries,\" not all, use identical regulation.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-009",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Resolve the Paradox",
+      "prompt": "A state transportation department built several wildlife crossing structures, including underpasses and fencing, along a highway known for frequent vehicle-animal collisions, specifically to reduce roadkill incidents. In the two years since the crossings were completed, the number of roadkill incidents formally reported along that highway segment has increased compared with the two years before construction.\n\nQuestion:\nWhich of the following, if true, most helps to explain the discrepancy described above?",
+      "choices": {
+        "A": "The wildlife crossing project included installation of motion-activated cameras along the highway that have detected and formally logged roadkill incidents that previously went unreported and uncounted.",
+        "B": "The wildlife crossings were designed based on studies of animal movement patterns in the region.",
+        "C": "The highway segment includes several sharp curves with limited visibility.",
+        "D": "Local wildlife organizations praised the department for constructing the crossings.",
+        "E": "The crossings cost more to construct than initially budgeted."
+      },
+      "correct": "A",
+      "correctAnswerText": "The wildlife crossing project included installation of motion-activated cameras along the highway that have detected and formally logged roadkill incidents that previously went unreported and uncounted.",
+      "explanation": "Choice A resolves the paradox by showing that the apparent increase in reported incidents may reflect improved detection and logging rather than an actual rise in roadkill, consistent with the crossings genuinely reducing collisions while reported figures still rise due to a reporting artifact. Choice B is wrong because the design basis of the crossings does not explain the reporting discrepancy. Choice C is wrong because this is a static feature of the highway present both before and after construction, so it cannot explain a change over time. Choice D is wrong because public praise is irrelevant to explaining the reported incident numbers. Choice E is wrong because construction cost is irrelevant to the discrepancy in reported incidents.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-010",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A conservation organization argues that increasing funding for its regional seed bank, which stores seeds from wild plant species at risk of habitat loss, will substantially improve the long-term genetic diversity available for future ecological restoration efforts, since additional funding will allow the seed bank to collect and store seeds from a much wider range of at-risk species than it currently can.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "Seeds collected and stored by the seed bank will remain viable for germination by the time they are needed for future restoration efforts.",
+        "B": "The seed bank currently stores seeds from more species than any other seed bank in the region.",
+        "C": "Increasing funding will allow the seed bank to hire additional staff.",
+        "D": "Ecological restoration efforts are more successful when using locally sourced seeds.",
+        "E": "At-risk plant species are more valuable than common plant species."
+      },
+      "correct": "A",
+      "correctAnswerText": "Seeds collected and stored by the seed bank will remain viable for germination by the time they are needed for future restoration efforts.",
+      "explanation": "Choice A is necessary: by the negation test, if the stored seeds lost viability before they were needed, expanding the collection would not actually improve the usable genetic diversity available for future restoration, undermining the conclusion. Choice B is wrong because comparison to other seed banks is irrelevant to whether this seed bank's expanded collection improves restoration outcomes. Choice C is wrong because hiring additional staff is one possible means, not a required assumption of the argument's logic. Choice D is wrong because the argument does not depend on a claim about locally sourced seeds specifically. Choice E is wrong because no such value comparison between species is required.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-011",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A city began piloting small autonomous delivery robots that travel on sidewalks to deliver packages, replacing some delivery van trips. In the six months since the pilot began, the number of pedestrian-vehicle collisions reported near delivery routes in the pilot area decreased by 15 percent. Pilot program administrators concluded that the delivery robots caused the decrease in pedestrian-vehicle collisions by reducing the number of delivery vans operating in the area.\n\nQuestion:\nWhich of the following, if true, would most strengthen the administrators' conclusion?",
+      "choices": {
+        "A": "During the same six months, the pilot area experienced no other changes to traffic patterns, road construction, or pedestrian infrastructure.",
+        "B": "The delivery robots travel at a maximum speed of 6 miles per hour.",
+        "C": "Residents in the pilot area have expressed curiosity about the delivery robots.",
+        "D": "The delivery robots are equipped with cameras to document their routes.",
+        "E": "Other cities have expressed interest in piloting similar delivery robot programs."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same six months, the pilot area experienced no other changes to traffic patterns, road construction, or pedestrian infrastructure.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as traffic pattern or infrastructure changes, for the drop in collisions, supporting attribution to the delivery robots specifically. Choice B is wrong because the robots' speed is irrelevant to the causal claim about collisions. Choice C is wrong because resident curiosity does not establish that the robots caused the collision decrease. Choice D is wrong because documentation capability is irrelevant to the causal claim. Choice E is wrong because other cities' interest has no bearing on this pilot area's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-012",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "An online retailer shortened its return window from 90 days to 30 days for most products. In the year after the change, the retailer's overall product return rate dropped from 18 percent to 11 percent. Retailer executives concluded that the shorter return window caused the decrease in the return rate.\n\nQuestion:\nWhich of the following, if true, most weakens the executives' conclusion?",
+      "choices": {
+        "A": "During the same year, the retailer significantly improved the accuracy of its online product descriptions and sizing charts, reducing the likelihood that customers would receive items that did not match their expectations, independent of the return window change.",
+        "B": "Customers have complained about the shorter return window on social media.",
+        "C": "The retailer's return policy applies to most, but not all, product categories.",
+        "D": "The retailer processes millions of orders each year.",
+        "E": "Competing retailers offer return windows longer than 30 days."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same year, the retailer significantly improved the accuracy of its online product descriptions and sizing charts, reducing the likelihood that customers would receive items that did not match their expectations, independent of the return window change.",
+      "explanation": "Choice A weakens the conclusion by identifying an alternative, sufficient explanation, improved product descriptions and sizing accuracy, for the drop in returns, undermining the attribution to the shorter return window specifically. Choice B is wrong because customer complaints do not address the causal question about the return rate. Choice C is wrong because the scope of the policy's applicability doesn't provide an alternative explanation for the observed change. Choice D is wrong because order volume is irrelevant to the causal claim. Choice E is wrong because competitors' policies have no bearing on this retailer's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-013",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Ambiguity and equivocation",
+      "category": "Flaw",
+      "prompt": "A language technology company advertises that its translation software achieves \"human-level accuracy.\" In an internal test, the software's translations of individual sentences were rated as grammatically correct by human evaluators 98 percent of the time. Since the software achieves grammatical correctness at a rate comparable to human translators, the company's claim of human-level accuracy is justified.\n\nQuestion:\nThe reasoning above is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "treats grammatical correctness in isolated sentences as equivalent to overall translation accuracy, when accurate translation also requires preserving meaning, tone, and context across connected passages, which grammatical correctness alone does not guarantee",
+        "B": "fails to specify which languages were included in the internal test",
+        "C": "assumes that all human evaluators had equivalent language expertise",
+        "D": "presumes that human translators never make grammatical errors",
+        "E": "fails to consider whether the software's translations were produced faster than human translations"
+      },
+      "correct": "A",
+      "correctAnswerText": "treats grammatical correctness in isolated sentences as equivalent to overall translation accuracy, when accurate translation also requires preserving meaning, tone, and context across connected passages, which grammatical correctness alone does not guarantee",
+      "explanation": "Choice A correctly identifies the flaw: grammatical correctness in isolated sentences does not establish that meaning, tone, and context are preserved across connected passages, which are also essential components of translation accuracy, so the argument conflates one narrow measure with the broader claim of human-level accuracy. Choice B is wrong because the languages tested are not shown to be relevant to the logical gap being tested. Choice C is wrong because evaluator expertise variation is not the source of the argument's core flaw. Choice D is wrong because the argument does not require assuming human translators are flawless; the flaw concerns what grammatical correctness alone can establish. Choice E is wrong because translation speed is irrelevant to the accuracy claim being evaluated.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-014",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Disagreement identification",
+      "category": "Point at Issue",
+      "prompt": "Executive A: Our company should prioritize hiring remote employees from anywhere in the country rather than requiring candidates to live near our offices, since expanding our applicant pool nationally has allowed us to fill specialized technical roles that went unfilled for months when we restricted hiring to local candidates.\nExecutive B: The recent success in filling technical roles is better explained by the significant salary increases we implemented for those specific roles last quarter, not by the shift to remote hiring, since local candidates would likely have applied at similar rates had the same salary increases been offered.\n\nQuestion:\nOn the basis of their statements, Executive A and Executive B are committed to disagreeing about which of the following?",
+      "choices": {
+        "A": "Whether the shift to remote hiring is responsible for the recent success in filling specialized technical roles",
+        "B": "Whether specialized technical roles went unfilled for months under local-only hiring",
+        "C": "Whether salary increases were implemented for technical roles last quarter",
+        "D": "Whether local candidates are as qualified as remote candidates for technical roles",
+        "E": "Whether the company should continue hiring remote employees in the future"
+      },
+      "correct": "A",
+      "correctAnswerText": "Whether the shift to remote hiring is responsible for the recent success in filling specialized technical roles",
+      "explanation": "Choice A is the crux of their disagreement: Executive A attributes the success to expanding the applicant pool nationally, while Executive B attributes it to the salary increases, independent of remote hiring. Choice B is wrong because both executives accept that roles went unfilled for months under local-only hiring; this is common ground. Choice C is wrong because Executive A does not dispute that salary increases were implemented; this fact is not shown to be contested. Choice D is wrong because neither executive makes a general claim comparing candidate qualifications. Choice E is wrong because neither executive explicitly addresses future hiring policy in these terms; their dispute concerns the cause of the recent success.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-015",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Principle application",
+      "category": "Principle",
+      "prompt": "Principle: An instructor should not adjust a student's grade on an assignment based on any factor unrelated to the quality of the student's work as measured against the assignment's stated criteria.\n\nQuestion:\nWhich of the following judgments most closely conforms to the principle above?",
+      "choices": {
+        "A": "An instructor does not raise a student's grade on a research paper despite the student's frequent class participation, since class participation is not among the paper's stated grading criteria.",
+        "B": "An instructor lowers a student's grade on an essay because the student submitted it using a font the instructor personally finds difficult to read, even though font choice is not among the stated grading criteria.",
+        "C": "An instructor raises a student's grade on a project because the student's family made a donation to the department, even though the donation is not among the stated grading criteria.",
+        "D": "An instructor lowers a student's grade on a presentation because the student has been late to class several times this semester, even though attendance is not among the presentation's stated grading criteria.",
+        "E": "An instructor raises a student's grade on an exam because the student is on the class's athletic team, even though team membership is not among the exam's stated grading criteria."
+      },
+      "correct": "A",
+      "correctAnswerText": "An instructor does not raise a student's grade on a research paper despite the student's frequent class participation, since class participation is not among the paper's stated grading criteria.",
+      "explanation": "Choice A conforms because class participation is unrelated to the paper's stated grading criteria, and the instructor declines to factor it into the grade. Choice B violates the principle because the grade is lowered based on an unrelated factor, font preference. Choice C violates the principle because the grade is raised based on an unrelated factor, a donation. Choice D violates the principle because the grade is lowered based on an unrelated factor, attendance, not part of the presentation's stated criteria. Choice E violates the principle because the grade is raised based on an unrelated factor, athletic team membership.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-016",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Deductive reasoning",
+      "category": "Inference",
+      "prompt": "If a city's stormwater drainage system is upgraded to handle a 100-year flood event, the city experiences street flooding no more than once every 100 years on average. Springfield upgraded its stormwater drainage system to handle a 100-year flood event twelve years ago, yet the city has already experienced street flooding on four separate occasions since the upgrade.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "The general relationship described between a 100-year flood upgrade and the frequency of street flooding does not hold without exception in Springfield.",
+        "B": "Springfield's stormwater drainage system was not actually upgraded twelve years ago.",
+        "C": "Springfield will not experience street flooding again for at least 96 years.",
+        "D": "Other cities with 100-year flood upgrades have experienced street flooding more frequently than Springfield.",
+        "E": "Springfield's stormwater drainage system is inferior to those of other cities."
+      },
+      "correct": "A",
+      "correctAnswerText": "The general relationship described between a 100-year flood upgrade and the frequency of street flooding does not hold without exception in Springfield.",
+      "explanation": "Choice A must be true: since the stated conditions for the general rule were met in Springfield, yet the predicted flooding frequency did not hold, the relationship as generally described admits at least one exception there. Choice B contradicts the passage, which states the upgrade occurred twelve years ago. Choice C is unsupported speculation, since the passage gives no basis for predicting future flooding frequency, especially given the already-observed exception. Choice D is unsupported because the passage provides no data about other cities. Choice E is unsupported overreach, since the passage does not establish a comparative ranking of drainage system quality.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-017",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Evaluating evidence",
+      "category": "Evaluate",
+      "prompt": "A meal kit delivery company is considering extending its current 20 percent discount for new subscribers from the first month to the first three months, citing a pilot analysis showing that subscribers who received the extended discount had a higher three-month retention rate than subscribers who received only the standard one-month discount. Company executives project that extending the discount company-wide will improve overall long-term subscriber retention.\n\nQuestion:\nIn evaluating the executives' projection, it would be most useful to know which of the following?",
+      "choices": {
+        "A": "Whether subscribers who received the extended discount continued their subscriptions at a similar rate after the discount period ended, compared with subscribers who received only the standard discount",
+        "B": "How much the extended discount will cost the company per new subscriber",
+        "C": "Whether the pilot subscribers live in urban or rural areas",
+        "D": "How many meal kit options the company currently offers",
+        "E": "Whether competing meal kit companies offer similar discounts"
+      },
+      "correct": "A",
+      "correctAnswerText": "Whether subscribers who received the extended discount continued their subscriptions at a similar rate after the discount period ended, compared with subscribers who received only the standard discount",
+      "explanation": "Choice A is most useful because the executives' projection concerns long-term retention, but the pilot data only shows higher retention during the three-month discount period itself; knowing whether retention persisted after the discount ended directly tests whether the effect is genuinely long-term rather than merely tied to the discount period. Choice B is wrong because cost per subscriber bears on feasibility, not on whether retention will actually improve long-term. Choice C is wrong because urban versus rural location is a secondary consideration relative to the untested persistence of the retention effect. Choice D is wrong because the number of meal kit options is irrelevant to the retention question. Choice E is wrong because competitors' discount offerings do not address whether this company's own long-term retention will improve.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-018",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argument structure",
+      "category": "Argument Structure",
+      "prompt": "Some energy policy experts argue that streamlining the regulatory licensing process for new nuclear power plants is essential to meeting national clean energy targets, since current licensing timelines, often exceeding a decade, make nuclear projects financially unworkable for most utility companies. Critics respond that lengthy licensing timelines reflect necessary safety review processes developed in response to past incidents, and that shortening these timelines risks compromising safety oversight. However, a review of licensing delays at several recent projects found that the majority of delay time stemmed not from safety review itself but from administrative backlogs and duplicated paperwork requirements across separate regulatory bodies, suggesting that licensing timelines could be substantially shortened through administrative streamlining without reducing the scope or rigor of safety review.\n\nQuestion:\nWhich of the following most accurately describes the role played by the claim that \"lengthy licensing timelines reflect necessary safety review processes developed in response to past incidents\"?",
+      "choices": {
+        "A": "It is an objection raised against the experts' position, which the argument then qualifies by identifying the actual source of most licensing delays.",
+        "B": "It is the main conclusion the passage seeks to establish.",
+        "C": "It is evidence directly supporting the claim that licensing timelines should be shortened.",
+        "D": "It is an assumption the energy policy experts rely on without providing supporting evidence.",
+        "E": "It is a claim the passage shows to be entirely false."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is an objection raised against the experts' position, which the argument then qualifies by identifying the actual source of most licensing delays.",
+      "explanation": "Choice A accurately captures the role: this claim is introduced as critics' objection to the experts' position, which the passage then qualifies by identifying administrative backlogs, rather than safety review, as the primary source of delay. Choice B is wrong because the passage's main point is that timelines could be shortened through administrative streamlining without reducing safety review, not this specific claim about safety review's necessity. Choice C is wrong because this claim actually cuts against, not supports, the case for shortening timelines. Choice D is wrong because the claim is attributed to critics responding to the experts, not treated as an assumption of the experts' own argument. Choice E is wrong because the passage does not show the claim entirely false; it acknowledges that safety review does account for some delay while showing most delay comes from elsewhere.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-019",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A ski resort argues that increasing the frequency of controlled avalanche-triggering explosions, used to proactively release unstable snow before it accumulates dangerously, from once daily to three times daily during high-risk periods will substantially reduce the risk of uncontrolled avalanches affecting resort guests, since more frequent triggering prevents unstable snow from accumulating to the degree it currently does between single daily triggerings.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "Increasing the frequency of controlled triggering will not itself create conditions, such as disturbed snowpack layers, that increase the likelihood of a large uncontrolled avalanche occurring between triggerings.",
+        "B": "Controlled avalanche triggering is conducted using explosive charges placed by trained personnel.",
+        "C": "The resort has more high-risk periods than most ski resorts in the region.",
+        "D": "Resort guests are informed when controlled triggering is taking place.",
+        "E": "Increasing the frequency of triggering will require hiring additional personnel."
+      },
+      "correct": "A",
+      "correctAnswerText": "Increasing the frequency of controlled triggering will not itself create conditions, such as disturbed snowpack layers, that increase the likelihood of a large uncontrolled avalanche occurring between triggerings.",
+      "explanation": "Choice A is necessary: by the negation test, if more frequent triggering itself created new instability that increased the risk of a large uncontrolled avalanche between triggerings, the conclusion that overall risk decreases would fail. Choice B is wrong because how triggering is conducted is a descriptive detail, not a required assumption. Choice C is wrong because comparison to other resorts is irrelevant to the argument. Choice D is wrong because guest notification is irrelevant to whether the risk itself is reduced. Choice E is wrong because staffing needs are irrelevant to the risk-reduction conclusion.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-020",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A city passed an ordinance legalizing small-scale beekeeping on residential properties, and a local environmental group began offering free introductory beekeeping classes shortly after the ordinance passed. In the three years since, the estimated population of wild pollinator species in the city's community gardens has increased by 20 percent. The environmental group concluded that the increase in registered urban beehives caused the increase in wild pollinator populations.\n\nQuestion:\nWhich of the following, if true, would most strengthen the environmental group's conclusion?",
+      "choices": {
+        "A": "During the same three years, the city made no other changes to pesticide regulations, green space development, or community garden management practices.",
+        "B": "Beekeeping classes offered by the environmental group are free of charge.",
+        "C": "Honeybees are not native to the region where the city is located.",
+        "D": "The city's community gardens are maintained by volunteer residents.",
+        "E": "Other cities have also legalized small-scale beekeeping in recent years."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same three years, the city made no other changes to pesticide regulations, green space development, or community garden management practices.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as pesticide, green space, or management changes, for the increase in wild pollinator populations, supporting attribution to the increase in urban beehives specifically. Choice B is wrong because the cost of classes is irrelevant to the causal question about pollinator populations. Choice C is wrong because honeybee origin does not address what caused the wild pollinator increase. Choice D is wrong because who maintains the gardens is irrelevant to the causal claim. Choice E is wrong because other cities' unrelated policies have no bearing on this city's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-021",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "A real estate technology company introduced an automated home appraisal algorithm intended to reduce racial bias in home valuations by removing human appraisers from the process entirely. In the year since the algorithm was adopted by several major lenders, the gap between average home appraisal values in majority-white neighborhoods and majority-Black neighborhoods narrowed by 10 percent. The company concluded that removing human appraisers caused the narrowing of the appraisal gap.\n\nQuestion:\nWhich of the following, if true, most weakens the company's conclusion?",
+      "choices": {
+        "A": "During the same year, several of the lenders using the algorithm also implemented new mandatory bias-awareness training for their loan officers and adopted updated comparable-sales data covering a wider range of neighborhoods, independent of the appraisal algorithm.",
+        "B": "The algorithm was developed using historical home sales data spanning twenty years.",
+        "C": "Home appraisal values affect the loan amounts lenders are willing to approve.",
+        "D": "Some homeowners have expressed skepticism about algorithmic home appraisals.",
+        "E": "The algorithm is used by lenders in multiple states."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same year, several of the lenders using the algorithm also implemented new mandatory bias-awareness training for their loan officers and adopted updated comparable-sales data covering a wider range of neighborhoods, independent of the appraisal algorithm.",
+      "explanation": "Choice A weakens the conclusion by identifying alternative, sufficient explanations, bias-awareness training and updated comparable-sales data, for the narrowing gap, undermining the attribution to the algorithm specifically. Choice B is wrong because the historical scope of the training data does not provide a competing explanation for the observed change. Choice C is wrong because this is background information about the significance of appraisals, not a competing causal explanation. Choice D is wrong because homeowner skepticism is irrelevant to what caused the gap to narrow. Choice E is wrong because the algorithm's geographic reach is irrelevant to the causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-022",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Ambiguity and equivocation",
+      "category": "Flaw",
+      "prompt": "A consumer watchdog group defines a \"dark pattern\" as any website design intended to make it more difficult for users to complete an action, such as canceling a subscription, than to initiate it. A streaming service's cancellation process requires users to click through four confirmation screens, while its sign-up process requires only one screen. Since canceling requires more steps than signing up, the streaming service's cancellation process must be intentionally designed to make cancellation more difficult, and therefore constitutes a dark pattern under the group's definition.\n\nQuestion:\nThe reasoning above is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "treats a difference in the number of steps between two processes as sufficient to establish intent to make one process more difficult, when the definition requires the design to be intentional, and additional steps could result from unrelated factors such as legal disclosure requirements rather than deliberate obstruction",
+        "B": "fails to specify how many total streaming subscribers use the cancellation process",
+        "C": "assumes that all streaming services have similar cancellation processes",
+        "D": "presumes that consumers prefer fewer steps in any online process",
+        "E": "fails to consider whether the sign-up process could be shortened further"
+      },
+      "correct": "A",
+      "correctAnswerText": "treats a difference in the number of steps between two processes as sufficient to establish intent to make one process more difficult, when the definition requires the design to be intentional, and additional steps could result from unrelated factors such as legal disclosure requirements rather than deliberate obstruction",
+      "explanation": "Choice A correctly identifies the flaw: the definition of a dark pattern requires intentional design to create difficulty, but a difference in step count alone does not establish intent, since additional steps could result from unrelated factors such as required legal disclosures rather than deliberate obstruction. Choice B is wrong because subscriber counts are not relevant to the specific inferential gap being tested. Choice C is wrong because comparisons to other streaming services are not the source of the argument's logical gap. Choice D is wrong because a general consumer preference is not required by or relevant to the argument's flaw. Choice E is wrong because whether the sign-up process could be shortened further is irrelevant to whether the cancellation process was intentionally designed to be difficult.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-023",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Principle application",
+      "category": "Principle",
+      "prompt": "Principle: An insurer should not deny a policyholder's claim on the basis of a policy exclusion unless the exclusion was clearly and specifically disclosed to the policyholder before the policy took effect.\n\nQuestion:\nWhich of the following judgments most closely conforms to the principle above?",
+      "choices": {
+        "A": "An insurer pays a policyholder's claim for water damage despite a general exclusion for \"certain types of property damage,\" since the exclusion's application to water damage specifically was never clearly disclosed to the policyholder before the policy took effect.",
+        "B": "An insurer denies a policyholder's claim for fire damage based on a fire-related exclusion that was never mentioned in any policy document provided to the policyholder.",
+        "C": "An insurer denies a policyholder's claim for storm damage based on an exclusion buried in a supplementary document never provided to the policyholder before the policy took effect.",
+        "D": "An insurer denies a policyholder's claim for theft damage based on an exclusion that was added to the policy after the policy had already taken effect.",
+        "E": "An insurer denies a policyholder's claim for mold damage based on a vague exclusion for \"environmental issues\" that was never specifically explained to the policyholder before the policy took effect."
+      },
+      "correct": "A",
+      "correctAnswerText": "An insurer pays a policyholder's claim for water damage despite a general exclusion for \"certain types of property damage,\" since the exclusion's application to water damage specifically was never clearly disclosed to the policyholder before the policy took effect.",
+      "explanation": "Choice A conforms because the exclusion was not clearly and specifically disclosed, so the insurer appropriately pays the claim rather than denying it on that basis. Choice B violates the principle because the insurer denies a claim based on an exclusion never disclosed at all. Choice C violates the principle because the exclusion was never provided to the policyholder before the policy took effect. Choice D violates the principle because the exclusion was added after the policy took effect, meaning it could not have been disclosed beforehand. Choice E violates the principle because the exclusion was never specifically explained to the policyholder before the policy took effect.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-024",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Flawed analogy",
+      "category": "Parallel Flaw",
+      "prompt": "A gym chain launched a redesigned mobile app that lets members book classes with one tap instead of three. In the following quarter, the gym chain's class attendance rate increased by 14 percent compared to the same quarter the previous year. Gym executives concluded that the app redesign caused the increase in class attendance.\n\nQuestion:\nWhich of the following arguments contains a flaw most similar to the flaw in the argument above?",
+      "choices": {
+        "A": "A study found that gyms with easier class-booking processes tend to have higher member retention rates than gyms with more cumbersome booking processes. Analysts concluded that simplifying booking processes causes higher retention.",
+        "B": "A retail pharmacy simplified its prescription refill request process from a phone call to a single mobile app tap, and the number of on-time prescription refills increased by 19 percent over the following six months compared to the same period the previous year. The pharmacy concluded that the simplified refill process caused the increase in on-time refills.",
+        "C": "A gym introduced a member feedback kiosk, and the number of complaints logged about class scheduling dropped by 20 percent over the following year. Gym management concluded that member satisfaction with class scheduling had improved.",
+        "D": "A gym redesigned its app and simultaneously hired several new popular instructors, and class attendance increased by 30 percent over the following year. Gym management concluded that the app redesign alone caused the increase in attendance.",
+        "E": "A survey found that gym members who use the mobile app to book classes report higher overall satisfaction than members who do not use the app. The gym concluded that all members should be required to use the app to increase their satisfaction."
+      },
+      "correct": "B",
+      "correctAnswerText": "A retail pharmacy simplified its prescription refill request process from a phone call to a single mobile app tap, and the number of on-time prescription refills increased by 19 percent over the following six months compared to the same period the previous year. The pharmacy concluded that the simplified refill process caused the increase in on-time refills.",
+      "explanation": "Choice B matches the original's flaw: like the original, it introduces a single change, observes a subsequent improvement in a directly measured, non-proxy outcome relative to the same period a year earlier, and concludes the change caused the improvement without ruling out any alternative explanations, the same specific post hoc flaw as the original. Choice A is wrong because this argument extrapolates from a cross-sectional correlation across different gyms to a causal claim, a different structure from the original's single-entity, before-and-after comparison. Choice C is wrong because this argument's flaw involves treating a change in self-reported complaints, a proxy measure, as equivalent to an actual change in satisfaction, a flaw not present in the original, which is based on a directly measured, objective outcome. Choice D is wrong because this argument explicitly acknowledges a second simultaneous change, hiring new instructors, and then misattributes the effect to only one of the two changes, a more specific flaw than the original's failure to consider any alternative explanation at all. Choice E is wrong because this argument generalizes from a correlation observed across subgroups into a universal prescription, a different structure from the original's single before-and-after causal inference.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-025",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Analogical reasoning",
+      "category": "Assumption",
+      "prompt": "A city arts council argues that expanding its discounted ticket subsidy program, which allows low-income residents to purchase tickets to local theater productions at reduced prices, to two additional theater venues will significantly increase overall theater attendance among low-income residents citywide. They cite the experience of a comparable city's arts council that expanded its own ticket subsidy program to similarly sized venues, where low-income theater attendance increased by 25 percent within two years.\n\nQuestion:\nThe argument depends on which of the following assumptions?",
+      "choices": {
+        "A": "No factors specific to the comparable city's expansion, and absent from this city's planned expansion, were primarily responsible for the increase in low-income theater attendance there.",
+        "B": "The comparable city has more theater venues overall than this city.",
+        "C": "Low-income residents in this city are less interested in theater than those in the comparable city.",
+        "D": "This city's theater ticket prices are identical to those of the comparable city.",
+        "E": "The comparable city's subsidy program was more expensive to administer than this city's planned expansion."
+      },
+      "correct": "A",
+      "correctAnswerText": "No factors specific to the comparable city's expansion, and absent from this city's planned expansion, were primarily responsible for the increase in low-income theater attendance there.",
+      "explanation": "Choice A is necessary: by the negation test, if factors unique to the comparable city's expansion were actually responsible for its increase in attendance, the inference that a similar expansion will produce similar results here would be undermined. Choice B is wrong because relative venue counts are not required for the comparison to support the conclusion. Choice C is wrong because relative interest levels between cities' residents are not required for the argument's inference to hold. Choice D is wrong because this is far stronger than necessary; the argument requires only that no relevant disanalogy undermines the comparison, not identical ticket prices. Choice E is wrong because relative administrative costs are irrelevant to whether the expansion will increase attendance similarly.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-05-026",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Deductive reasoning",
+      "category": "Inference",
+      "prompt": "A blood donation center accepts a donor's blood for use in transfusions only if the donor has not traveled to a malaria-endemic region within the past three years and passes a hemoglobin screening test on the day of donation. Grace's blood was accepted by the center for use in transfusions last week.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "Grace has not traveled to a malaria-endemic region within the past three years, and she passed the hemoglobin screening test on the day of her donation.",
+        "B": "Grace has never traveled outside the country.",
+        "C": "Grace's blood type is compatible with most transfusion recipients.",
+        "D": "Grace has donated blood at this center on previous occasions.",
+        "E": "The hemoglobin screening test is the most important factor in blood donation eligibility."
+      },
+      "correct": "A",
+      "correctAnswerText": "Grace has not traveled to a malaria-endemic region within the past three years, and she passed the hemoglobin screening test on the day of her donation.",
+      "explanation": "Choice A follows validly: since acceptance requires both that the donor has not traveled to a malaria-endemic region within three years and that the donor passed the hemoglobin screening test, and Grace's blood was accepted, both conditions must have been satisfied. Choice B is unsupported because the requirement concerns malaria-endemic regions specifically, not all travel outside the country. Choice C is unsupported because blood type compatibility is not addressed by the passage's eligibility criteria. Choice D is unsupported because the passage describes only this specific donation, with no information about donation history. Choice E is unsupported because no ranking of the relative importance of the two eligibility criteria is established.",
+      "credits": 1
+    }
+  ]
+}

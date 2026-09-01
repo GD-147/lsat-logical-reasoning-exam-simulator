@@ -1,0 +1,526 @@
+{
+  "title": "LSAT Logical Reasoning Section 1 Practice Exam 02",
+  "section": "logical_reasoning_1",
+  "questions": [
+    {
+      "id": "LSAT-LR1-02-001",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A city planner claims that converting unused rooftop space in the downtown district into community gardens will meaningfully reduce the district's summer cooling costs, since gardens on rooftops absorb sunlight that would otherwise heat the buildings beneath them. Currently, none of downtown's flat-roofed buildings has any rooftop vegetation.\n\nQuestion:\nThe planner's conclusion depends on assuming which of the following?",
+      "choices": {
+        "A": "Heat transmitted through the buildings' roofs constitutes a significant portion of their overall cooling costs.",
+        "B": "Rooftop gardens are less expensive to install than traditional cooling systems.",
+        "C": "Most downtown building owners support the community garden initiative.",
+        "D": "Rooftop gardens require regular maintenance and irrigation.",
+        "E": "Other cities that have implemented similar rooftop garden programs have reported increased property values."
+      },
+      "correct": "A",
+      "correctAnswerText": "Heat transmitted through the buildings' roofs constitutes a significant portion of their overall cooling costs.",
+      "explanation": "Choice A is necessary: applying the negation test, if roof heat gain constitutes only a negligible fraction of cooling costs, then even fully offsetting it via rooftop gardens would not meaningfully reduce those costs, defeating the conclusion. The argument therefore depends on assuming roof heat gain is a significant contributor. Choice B is wrong because relative installation cost has no bearing on whether the gardens would meaningfully reduce cooling costs. Choice C is wrong because owner support is a separate feasibility issue, not something the physical claim about cost reduction depends on. Choice D is wrong because maintenance requirements do not bear on whether the gardens, once installed, would reduce cooling costs. Choice E is wrong because property value trends elsewhere are irrelevant to the specific claim about cooling costs.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-002",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A solar panel manufacturer switched to a new automated assembly process six months ago. Since the switch, the rate of manufacturing defects reported in quality control has dropped from 4 percent to 1.5 percent. The company's quality director concluded that the automated process is responsible for the improved defect rate.\n\nQuestion:\nWhich of the following, if true, would most strengthen the quality director's conclusion?",
+      "choices": {
+        "A": "During the same six months, the company made no other changes to its raw material suppliers, workforce, or quality control procedures.",
+        "B": "The automated assembly process cost more to implement than the company had originally budgeted.",
+        "C": "A competing manufacturer also automated part of its assembly process around the same time.",
+        "D": "Employees have expressed enthusiasm about working alongside the new automated equipment.",
+        "E": "The company plans to expand automation to other product lines next year."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same six months, the company made no other changes to its raw material suppliers, workforce, or quality control procedures.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as supplier, workforce, or procedure changes, for the drop in defects, supporting attribution to automation specifically. Choice B is wrong because cost overruns are irrelevant to whether automation caused the defect reduction. Choice C is wrong because another company's separate automation effort has no bearing on this company's own causal claim. Choice D is wrong because employee sentiment about the equipment does not address whether automation caused fewer defects. Choice E is wrong because future expansion plans are irrelevant to explaining the defect rate change that has already occurred.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-003",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "A sports nutrition company markets a new electrolyte supplement, claiming it improves endurance performance. In an internal study, cyclists who used the supplement during a 100-kilometer race finished on average 8 minutes faster than cyclists who did not use it. The company cited this result as proof that the supplement improves endurance performance.\n\nQuestion:\nWhich of the following, if true, most weakens the company's conclusion?",
+      "choices": {
+        "A": "Cyclists who chose to use the supplement were, on average, more experienced racers who had completed more long-distance races in the past year than those who did not use it.",
+        "B": "The supplement contains electrolytes commonly found in other sports drinks.",
+        "C": "The race took place on a course with several steep hill climbs.",
+        "D": "The supplement is more expensive than comparable products on the market.",
+        "E": "Cyclists in both groups were required to complete a pre-race medical screening."
+      },
+      "correct": "A",
+      "correctAnswerText": "Cyclists who chose to use the supplement were, on average, more experienced racers who had completed more long-distance races in the past year than those who did not use it.",
+      "explanation": "Choice A weakens the conclusion by exposing a self-selection confound: more experienced racers may finish faster regardless of the supplement, so the observed time difference may reflect experience rather than the supplement's effect. Choice B is wrong because shared ingredients with other products does not address whether this supplement caused the performance difference. Choice C is wrong because course difficulty applied equally to both groups and does not explain the differential result between them. Choice D is wrong because price is irrelevant to whether the supplement improves performance. Choice E is wrong because a shared screening requirement does not address the causal question and applies equally to both groups.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-004",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Flaw",
+      "prompt": "Marine biologists observed that coral reefs near popular tourist diving sites have, on average, lower coral bleaching rates than reefs in remote, rarely visited areas. A tourism board official concluded that diver traffic actually protects coral reefs from bleaching, and proposed increasing tourist access to remote reefs to help preserve them.\n\nQuestion:\nThe official's reasoning is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "overlooks the possibility that popular diving sites were selected for tourism specifically because their reefs were already healthier and less prone to bleaching",
+        "B": "fails to consider that some tourists may not be experienced divers",
+        "C": "presumes that all remote reefs are identical in their susceptibility to bleaching",
+        "D": "does not specify how many diving sites were included in the observation",
+        "E": "overlooks the possibility that bleaching rates vary by season"
+      },
+      "correct": "A",
+      "correctAnswerText": "overlooks the possibility that popular diving sites were selected for tourism specifically because their reefs were already healthier and less prone to bleaching",
+      "explanation": "Choice A identifies the flaw: healthier reefs may have been chosen as tourist destinations precisely because they were already less prone to bleaching, reversing the causal direction the official assumes, rather than diver traffic causing the health. Choice B is wrong because diver experience level is not relevant to the comparison of bleaching rates between site types. Choice C is wrong because the argument does not require remote reefs to be identical; this is not the central logical gap. Choice D is wrong because, while sample size could be questioned generally, it does not identify the specific reversed-causation error being tested. Choice E is wrong because seasonal variation is not indicated as a relevant factor in the passage and does not address the reversed-causation flaw.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-005",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Conditional logic",
+      "category": "Inference",
+      "prompt": "A regulatory agency certifies a self-driving vehicle model only if it passes both the obstacle-avoidance test and the emergency-braking test. Vehicle model Q passed the emergency-braking test but was not certified by the agency.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "Vehicle model Q did not pass the obstacle-avoidance test.",
+        "B": "Vehicle model Q will never be certified by the agency.",
+        "C": "The obstacle-avoidance test is more difficult to pass than the emergency-braking test.",
+        "D": "Other vehicle models have passed both tests.",
+        "E": "The agency's certification requirements are stricter than those of other regulatory agencies."
+      },
+      "correct": "A",
+      "correctAnswerText": "Vehicle model Q did not pass the obstacle-avoidance test.",
+      "explanation": "Choice A follows validly: certification requires passing both tests, and since Q was not certified despite passing the emergency-braking test, it must have failed the obstacle-avoidance test. Choice B is unsupported because the passage describes the current situation, not a permanent outcome; nothing rules out future retesting and certification. Choice C is unsupported because the relative difficulty of the two tests is not addressed by the passage. Choice D is unsupported because no information about other vehicle models' test results is given. Choice E is unsupported because no comparison to other agencies' requirements is provided.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-006",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argumentative strategy",
+      "category": "Method of Reasoning",
+      "prompt": "Opponents of raising the minimum wage argue that doing so will force small businesses to lay off workers, since higher labor costs will exceed what many small businesses can afford. Proponents respond that this argument assumes small businesses cannot respond to higher wages in any way other than layoffs, ignoring options such as modestly raising prices, absorbing lower profit margins, or improving operational efficiency, any of which could offset higher labor costs without job losses.\n\nQuestion:\nThe proponents respond to the opponents' argument by",
+      "choices": {
+        "A": "identifying an unstated assumption in the opponents' argument and offering alternative possibilities that the assumption excludes",
+        "B": "presenting empirical data showing that layoffs have not occurred in regions that raised the minimum wage",
+        "C": "arguing that small businesses do not employ a significant portion of the workforce",
+        "D": "conceding that layoffs will occur but arguing they are outweighed by benefits to workers who keep their jobs",
+        "E": "questioning whether small businesses genuinely oppose minimum wage increases"
+      },
+      "correct": "A",
+      "correctAnswerText": "identifying an unstated assumption in the opponents' argument and offering alternative possibilities that the assumption excludes",
+      "explanation": "Choice A accurately describes the method: proponents identify the unstated assumption, that layoffs are the only possible response to higher costs, and offer alternative responses the argument overlooks. Choice B is wrong because no empirical data is cited; the response is conceptual, pointing out overlooked possibilities. Choice C is wrong because the passage does not address what share of the workforce small businesses employ. Choice D is wrong because proponents do not concede that layoffs will occur; they challenge the premise that layoffs are inevitable. Choice E is wrong because the passage does not question opponents' motives or sincerity, only the logical completeness of their argument.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-007",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Conditional logic",
+      "category": "Parallel Reasoning",
+      "prompt": "A tenant cannot renew her apartment lease unless she has maintained a satisfactory payment history for the previous twelve months. Priya has not maintained a satisfactory payment history for the previous twelve months. Therefore, Priya cannot renew her lease.\n\nQuestion:\nWhich of the following arguments is most similar in its logical structure to the argument above?",
+      "choices": {
+        "A": "A patient cannot receive the experimental treatment unless she has completed the required screening tests. Fatima has not completed the required screening tests. Therefore, Fatima cannot receive the experimental treatment.",
+        "B": "An applicant cannot be hired unless she passes the background check. This applicant passed the background check. Therefore, she will be hired.",
+        "C": "A book cannot be checked out unless the borrower has a valid library card. This borrower has a valid library card. Therefore, the book will be checked out.",
+        "D": "A runner cannot compete in the finals unless she qualifies in the preliminary round. This runner qualified in the preliminary round. Therefore, she will compete in the finals.",
+        "E": "A film cannot win the festival's top prize unless it receives a unanimous jury vote. This film did not win the top prize. Therefore, it did not receive a unanimous jury vote."
+      },
+      "correct": "A",
+      "correctAnswerText": "A patient cannot receive the experimental treatment unless she has completed the required screening tests. Fatima has not completed the required screening tests. Therefore, Fatima cannot receive the experimental treatment.",
+      "explanation": "Choice A matches the original's structure: the necessary condition, completed screening tests, is denied, so the argument validly concludes the main claim, receiving treatment, is also false, mirroring the original's valid modus tollens pattern. Choice B is wrong because it affirms that the necessary condition, the background check, was met and invalidly concludes the applicant will be hired, reversing the valid direction of inference. Choice C is wrong because it commits the same invalid pattern as B, affirming a necessary condition, a valid library card, and treating it as sufficient to guarantee the outcome. Choice D is wrong because it again affirms that a necessary condition, qualifying in the preliminaries, was met and treats it as guaranteeing the conclusion. Choice E is wrong because it denies the main claim and invalidly infers that the necessary condition is also false, a distinct fallacy, denying the antecedent, not found in the original argument.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-008",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Principle application",
+      "category": "Principle",
+      "prompt": "Principle: An employer should not discipline an employee for publicly criticizing company policy unless the criticism discloses confidential information or is demonstrably false.\n\nQuestion:\nWhich of the following judgments most closely conforms to the principle above?",
+      "choices": {
+        "A": "A company does not discipline an employee who posted an accurate, public critique of the company's new expense-reimbursement policy, since the critique disclosed no confidential information and was factually accurate.",
+        "B": "A company disciplines an employee who posted an accurate critique of the company's remote work policy, even though the critique disclosed no confidential information.",
+        "C": "A company disciplines an employee who posted a public critique of the company's parking policy that contained no confidential information and was later confirmed to be accurate in every respect.",
+        "D": "A company disciplines an employee who posted a public critique of the dress code policy, based solely on the critique being unpopular among senior management, even though it disclosed no confidential information and was factually accurate.",
+        "E": "A company disciplines an employee who posted a public critique of the company's overtime policy that disclosed no confidential information and has not been shown to be inaccurate in any way."
+      },
+      "correct": "A",
+      "correctAnswerText": "A company does not discipline an employee who posted an accurate, public critique of the company's new expense-reimbursement policy, since the critique disclosed no confidential information and was factually accurate.",
+      "explanation": "Choice A conforms because the critique disclosed no confidential information and was accurate, so neither exception applies, and the company appropriately refrains from discipline. Choice B violates the principle because the company disciplines the employee even though the critique disclosed no confidential information and its accuracy is not disputed. Choice C violates the principle because the critique contained no confidential information and was confirmed accurate, so imposing discipline is not justified. Choice D violates the principle because discipline is based solely on the critique being unpopular, with neither exception met. Choice E violates the principle because the critique disclosed no confidential information and has not been shown inaccurate, so discipline is unjustified.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-009",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Resolve the Paradox",
+      "prompt": "A new vaccine for a seasonal respiratory illness was shown in clinical trials to reduce infection risk by 70 percent among recipients. However, in the first year after the vaccine's introduction in Country Z, the total number of reported cases of the illness increased compared with the previous year.\n\nQuestion:\nWhich of the following, if true, most helps to explain the discrepancy described above?",
+      "choices": {
+        "A": "The vaccine's introduction was accompanied by a significant expansion of free testing programs, leading to a higher proportion of actual cases being detected and reported than in previous years.",
+        "B": "The vaccine requires two doses spaced one month apart for full effectiveness.",
+        "C": "The vaccine is recommended for individuals over the age of six months.",
+        "D": "Clinical trial participants were monitored for adverse reactions for six weeks after vaccination.",
+        "E": "The vaccine was developed using a novel technology platform."
+      },
+      "correct": "A",
+      "correctAnswerText": "The vaccine's introduction was accompanied by a significant expansion of free testing programs, leading to a higher proportion of actual cases being detected and reported than in previous years.",
+      "explanation": "Choice A resolves the paradox by showing that the apparent increase in cases may reflect improved detection and reporting rather than an actual rise in infections, consistent with the vaccine being effective at the individual level while reported case counts still rise due to a reporting artifact. Choice B is wrong because the dosing schedule does not explain the discrepancy between trial efficacy and reported case counts. Choice C is wrong because age eligibility criteria do not bear on the discrepancy. Choice D is wrong because adverse reaction monitoring is irrelevant to case count trends. Choice E is wrong because the underlying technology platform does not explain why reported cases increased.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-010",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A craft brewery's owner argues: Expanding our distribution to three neighboring states will increase our annual revenue, because a market research report shows that consumer interest in craft beer is growing rapidly in those states, and interested consumers who can access our product are likely to purchase it.\n\nQuestion:\nWhich of the following is an assumption required by the owner's argument?",
+      "choices": {
+        "A": "The brewery has the production capacity to meet increased demand from the three neighboring states without compromising its ability to supply its existing markets.",
+        "B": "Craft beer is more popular in the three neighboring states than in the brewery's home state.",
+        "C": "The three neighboring states have lower business taxes than the brewery's home state.",
+        "D": "Other craft breweries have successfully expanded into multiple states.",
+        "E": "Consumers in the three neighboring states prefer craft beer over mass-produced beer."
+      },
+      "correct": "A",
+      "correctAnswerText": "The brewery has the production capacity to meet increased demand from the three neighboring states without compromising its ability to supply its existing markets.",
+      "explanation": "Choice A is necessary: by the negation test, if the brewery lacked capacity to meet the new demand without harming supply to existing markets, the expansion could fail to produce a net revenue increase, so the argument depends on assuming adequate capacity exists. Choice B is wrong because relative popularity between states is not required; the argument only needs sufficient growing interest in the new states, not a comparison to the home state. Choice C is wrong because tax rates are irrelevant to the revenue conclusion based on consumer demand and access. Choice D is wrong because other breweries' past success is not required for this brewery's own expansion to increase revenue. Choice E is wrong because this is stronger than necessary; the argument only requires interested consumers to purchase when given access, not an overall preference over all other beer.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-011",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A tutoring company offers an intensive eight-week test-preparation course. Students who completed the course scored, on average, 150 points higher on a standardized college entrance exam than students who did not take the course. The company advertises that its course causes this score improvement.\n\nQuestion:\nWhich of the following, if true, would most strengthen the company's claim?",
+      "choices": {
+        "A": "Students were randomly assigned to either take the course or not, and both groups had similar average baseline scores on a practice exam before the course began.",
+        "B": "The course costs less than many competing test-preparation programs.",
+        "C": "The company has been offering the course for over ten years.",
+        "D": "Students who completed the course reported enjoying the instructors' teaching style.",
+        "E": "The standardized exam is required for admission to most four-year colleges."
+      },
+      "correct": "A",
+      "correctAnswerText": "Students were randomly assigned to either take the course or not, and both groups had similar average baseline scores on a practice exam before the course began.",
+      "explanation": "Choice A strengthens the claim by showing random assignment and comparable baseline scores, ruling out the possibility that students with stronger baseline ability self-selected into the course, thereby supporting a genuine causal link between the course and the score improvement. Choice B is wrong because relative cost is irrelevant to whether the course caused the improvement. Choice C is wrong because length of time offering the course does not address the causal question. Choice D is wrong because enjoyment of teaching style does not establish that the course caused the score increase. Choice E is wrong because the exam's role in admissions does not bear on whether the course caused higher scores.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-012",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "Over the past decade, a city planted 50,000 new trees along its major roadways. During the same period, the city's average air quality index improved by 15 percent. City officials cited the tree-planting initiative as the primary reason for the improved air quality.\n\nQuestion:\nWhich of the following, if true, most weakens the officials' claim?",
+      "choices": {
+        "A": "During the same decade, the city closed a large coal-fired power plant and required all city buses to switch to electric engines.",
+        "B": "Trees along roadways can take several years to reach full maturity.",
+        "C": "The city's tree-planting initiative was more expensive than initially budgeted.",
+        "D": "Some of the newly planted trees did not survive the first year.",
+        "E": "Similar tree-planting initiatives in other cities have also been implemented recently."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same decade, the city closed a large coal-fired power plant and required all city buses to switch to electric engines.",
+      "explanation": "Choice A weakens the claim by identifying substantial alternative causes, the power plant closure and bus electrification, for the air quality improvement, undermining the attribution to tree planting specifically. Choice B is wrong because, while tree maturation timing is a real consideration, it does not provide a competing causal explanation for the observed improvement as directly as A does. Choice C is wrong because budget overruns are irrelevant to whether trees caused the air quality improvement. Choice D is wrong because tree survival issues would, if anything, suggest the tree effect was smaller, but this is a weaker challenge than an outright alternative cause. Choice E is wrong because other cities' unrelated initiatives have no bearing on the causal claim about this city's air quality improvement.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-013",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Statistical reasoning",
+      "category": "Flaw",
+      "prompt": "A regulatory analyst studied 50 industries in which two leading companies merged over the past twenty years and found that in 40 of these industries, consumer prices rose within two years of the merger. The analyst concluded that mergers between leading companies in an industry generally cause consumer prices to rise.\n\nQuestion:\nThe analyst's reasoning is most vulnerable to criticism because it",
+      "choices": {
+        "A": "fails to consider whether prices in these industries would have risen by a similar or greater amount even without the mergers, due to general inflation or other market trends",
+        "B": "fails to specify the exact percentage by which prices rose in each industry",
+        "C": "assumes that all 50 industries are governed by the same regulatory framework",
+        "D": "presumes that consumers were aware of the price increases when they occurred",
+        "E": "overlooks the possibility that some of the 50 industries have since seen prices decrease again"
+      },
+      "correct": "A",
+      "correctAnswerText": "fails to consider whether prices in these industries would have risen by a similar or greater amount even without the mergers, due to general inflation or other market trends",
+      "explanation": "Choice A identifies the central flaw: the analyst does not rule out that prices might have risen anyway due to inflation or broader market trends, so the observed correlation between mergers and price increases does not establish that mergers caused those increases. Choice B is wrong because the exact magnitude of price increases in each case is not necessary to identify the argument's core flaw, which concerns a missing baseline comparison. Choice C is wrong because nothing in the argument depends on a shared regulatory framework across industries. Choice D is wrong because consumer awareness of price increases has no bearing on whether the mergers actually caused those increases. Choice E is wrong because subsequent price decreases, while potentially relevant to long-term effects, do not address the argument's core flaw of failing to rule out a baseline trend as the actual cause.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-014",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Main point identification",
+      "category": "Main Point",
+      "prompt": "Proponents of deep-sea mining argue that extracting metals like cobalt and nickel from the ocean floor will supply the materials needed for clean-energy technologies without the environmental damage associated with terrestrial mining, such as deforestation and habitat destruction. But this comparison is incomplete: deep-sea ecosystems, though less visible to the public, are extraordinarily slow to recover from disturbance, with some seafloor communities showing little recovery even decades after mining tests ended. A full accounting of the environmental costs of deep-sea mining must weigh this extremely slow recovery against the more visible, but often faster-recovering, damage caused by terrestrial mining.\n\nQuestion:\nWhich of the following most accurately expresses the main point of the passage?",
+      "choices": {
+        "A": "Proponents' comparison between deep-sea and terrestrial mining is incomplete because it fails to account for the extremely slow recovery of disturbed deep-sea ecosystems.",
+        "B": "Deep-sea mining should be banned entirely.",
+        "C": "Terrestrial mining causes more environmental damage than deep-sea mining.",
+        "D": "Clean-energy technologies require metals such as cobalt and nickel.",
+        "E": "Deep-sea ecosystems have never recovered from mining disturbances."
+      },
+      "correct": "A",
+      "correctAnswerText": "Proponents' comparison between deep-sea and terrestrial mining is incomplete because it fails to account for the extremely slow recovery of disturbed deep-sea ecosystems.",
+      "explanation": "Choice A captures the passage's central claim: that the proponents' environmental comparison is incomplete because it does not weigh the slow recovery of deep-sea ecosystems. Choice B is wrong because the passage does not call for banning deep-sea mining, only for a fuller accounting of its environmental costs. Choice C is wrong because the passage does not claim terrestrial mining is worse overall; it argues the comparison as typically presented is incomplete. Choice D is wrong because this is a background premise about clean-energy needs, not the passage's main point. Choice E is wrong because it overstates the passage's claim, which describes little recovery even decades later, not permanent, total non-recovery.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-015",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Disagreement identification",
+      "category": "Point at Issue",
+      "prompt": "Manager A: Requiring employees to work from the office at least three days per week has improved our team's collaboration, since in-person brainstorming sessions have become more frequent and employees report feeling more connected to their colleagues.\nManager B: The apparent improvement in collaboration is better explained by the new project management software we adopted around the same time, which makes it much easier to coordinate tasks regardless of whether employees are working in person or remotely. Teams that remained fully remote have shown similar gains in coordination since adopting the software.\n\nQuestion:\nOn the basis of their statements, Manager A and Manager B are committed to disagreeing about which of the following?",
+      "choices": {
+        "A": "Whether the in-office attendance requirement is responsible for the recent improvement in team collaboration",
+        "B": "Whether team collaboration has recently improved",
+        "C": "Whether the new project management software has been adopted by the team",
+        "D": "Whether fully remote teams have also shown gains in coordination",
+        "E": "Whether in-person brainstorming sessions are more effective than virtual ones in general"
+      },
+      "correct": "A",
+      "correctAnswerText": "Whether the in-office attendance requirement is responsible for the recent improvement in team collaboration",
+      "explanation": "Choice A is the crux of their disagreement: Manager A attributes the improvement to the office attendance policy, while Manager B attributes it to the new software, unrelated to attendance requirements. Choice B is wrong because both managers accept that collaboration or coordination has improved; this is common ground. Choice C is wrong because Manager A does not address the software at all, so there is no basis to say the two disagree specifically about whether it was adopted. Choice D is wrong because only Manager B discusses fully remote teams' outcomes; Manager A takes no position on this specific point. Choice E is wrong because neither manager makes a general claim comparing in-person and virtual brainstorming effectiveness across all contexts.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-016",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Deductive reasoning",
+      "category": "Inference",
+      "prompt": "If an artifact was crafted using bronze-casting techniques, it must date to after the onset of the Bronze Age in the region where it was found. Every artifact recovered from the Highland excavation site uses bronze-casting techniques, yet researchers date the entire Highland site, based on stratigraphic layering, to a period predating the conventionally accepted onset of the Bronze Age in that region.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "Either the artifacts do not actually use bronze-casting techniques, the stratigraphic dating of the site is inaccurate, or the conventionally accepted onset of the Bronze Age in the region is later than it should be.",
+        "B": "The stratigraphic dating method is unreliable in general.",
+        "C": "The Highland excavation site does not actually predate the Bronze Age.",
+        "D": "Bronze-casting techniques were used earlier in the Highland region than researchers previously believed.",
+        "E": "The artifacts recovered from the Highland site were misidentified."
+      },
+      "correct": "A",
+      "correctAnswerText": "Either the artifacts do not actually use bronze-casting techniques, the stratigraphic dating of the site is inaccurate, or the conventionally accepted onset of the Bronze Age in the region is later than it should be.",
+      "explanation": "Choice A must be true: since the general rule and the two specific claims about the Highland site cannot all be true together, at least one of them must be mistaken, and this choice captures that disjunction without over-specifying which one, making it the only properly supported inference. Choice B is wrong because it overgeneralizes beyond this specific case to a claim about the method's reliability generally. Choice C is wrong because it selects one specific resolution to the apparent contradiction rather than the more modest disjunctive conclusion the passage actually supports. Choice D is wrong for the same reason as C, favoring one specific explanation without basis. Choice E is wrong because it likewise picks one specific resolution that the passage gives no particular reason to prefer over the others.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-017",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Evaluating evidence",
+      "category": "Evaluate",
+      "prompt": "A restaurant franchise is considering requiring all of its 200 locations to switch to a new, more efficient kitchen layout that reduced average order preparation time by 20 percent in a pilot program at five locations. Franchise executives project that adopting the new layout chainwide will increase overall customer satisfaction, since faster service is generally associated with higher satisfaction ratings.\n\nQuestion:\nIn evaluating the executives' projection, it would be most useful to know which of the following?",
+      "choices": {
+        "A": "Whether customer satisfaction ratings at the five pilot locations actually increased after the new kitchen layout was implemented",
+        "B": "How much it will cost to renovate the kitchens at all 200 locations",
+        "C": "Whether the five pilot locations are franchise-owned or independently owned",
+        "D": "How many employees work in the kitchens at each of the five pilot locations",
+        "E": "Whether other restaurant chains have adopted similar kitchen layouts"
+      },
+      "correct": "A",
+      "correctAnswerText": "Whether customer satisfaction ratings at the five pilot locations actually increased after the new kitchen layout was implemented",
+      "explanation": "Choice A is most useful because the executives' projection relies on a general association between speed and satisfaction rather than direct evidence from the pilot; knowing whether satisfaction actually rose at the pilot locations would directly test the specific claim being made. Choice B is wrong because renovation cost bears on feasibility, not on whether satisfaction would actually increase. Choice C is wrong because ownership structure is a secondary consideration compared to directly checking the pilot's own satisfaction outcomes. Choice D is wrong because staffing levels in pilot kitchens have no clear bearing on the customer satisfaction question. Choice E is wrong because other chains' adoption decisions do not address whether this franchise's own projection about its customers will hold true.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-018",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argument structure",
+      "category": "Argument Structure",
+      "prompt": "Some economists argue that widespread remote work has permanently reduced worker productivity, citing surveys in which managers report perceiving lower output from remote employees compared to in-office employees. Skeptics respond that manager perceptions are an unreliable measure of actual productivity, since managers who cannot directly observe remote employees may simply assume lower effort in the absence of visible activity. Company-level data measuring actual output per employee, however, shows no significant difference between firms that shifted to remote work and those that remained primarily in-office. This suggests that the productivity decline reported by managers reflects a perception gap rather than an actual change in output.\n\nQuestion:\nWhich of the following most accurately describes the role played by the claim that \"managers who cannot directly observe remote employees may simply assume lower effort in the absence of visible activity\" in the passage's argument?",
+      "choices": {
+        "A": "It offers a possible explanation for why manager-reported perceptions might diverge from actual productivity outcomes, supporting the argument's skepticism toward the perception-based evidence.",
+        "B": "It is the main conclusion the passage seeks to establish.",
+        "C": "It is evidence directly supporting the claim that remote work reduces productivity.",
+        "D": "It is a concession to economists who argue remote work reduces productivity.",
+        "E": "It is a claim that is later contradicted by the company-level output data."
+      },
+      "correct": "A",
+      "correctAnswerText": "It offers a possible explanation for why manager-reported perceptions might diverge from actual productivity outcomes, supporting the argument's skepticism toward the perception-based evidence.",
+      "explanation": "Choice A accurately describes the role: this claim explains why manager perceptions might be unreliable, providing a reason to doubt the survey-based evidence and supporting the passage's ultimate skepticism toward the productivity-decline claim. Choice B is wrong because the passage's main conclusion is that the reported decline reflects a perception gap, not this specific explanatory claim about manager assumptions. Choice C is wrong because this claim actually undermines, rather than supports, the case that remote work reduces productivity. Choice D is wrong because the passage does not concede anything to the economists who cite manager perceptions; it challenges the reliability of that evidence. Choice E is wrong because this claim is consistent with, not contradicted by, the company-level data showing no actual productivity difference.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-019",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A pharmaceutical company argues that extending patent protection for a newly developed drug by an additional five years will increase the company's investment in research for new treatments, since the company plans to reinvest a fixed percentage of profits from patented drugs into research and development, and a longer patent period will increase the drug's total profits by delaying competition from generic versions.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "The additional five years of patent protection will not be offset by a corresponding decrease in the drug's profits during the same period due to other market factors.",
+        "B": "Generic versions of the drug are typically cheaper than the patented version.",
+        "C": "The company currently invests more in research and development than its competitors.",
+        "D": "The drug being patented treats a rare medical condition.",
+        "E": "Patent extensions are common in the pharmaceutical industry."
+      },
+      "correct": "A",
+      "correctAnswerText": "The additional five years of patent protection will not be offset by a corresponding decrease in the drug's profits during the same period due to other market factors.",
+      "explanation": "Choice A is necessary: by the negation test, if other market factors reduced the drug's profits enough to offset the extension's benefit, the conclusion that the extension increases total profits, and thus research investment, would fail. Choice B is wrong because relative pricing of generics compared to the patented version is not required for the argument's internal logic about profits and reinvestment. Choice C is wrong because how the company's research spending compares to competitors is irrelevant to whether the extension itself increases its own investment. Choice D is wrong because the rarity of the condition treated has no bearing on the argument about patent length and profit-driven reinvestment. Choice E is wrong because how common patent extensions are elsewhere in the industry does not bear on whether this specific extension will increase this company's profits and investment.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-020",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A city's public library system eliminated late fees for overdue books two years ago. Since then, the percentage of books returned within 30 days of their due date has increased by 22 percent. Library administrators concluded that eliminating late fees caused patrons to return books more promptly.\n\nQuestion:\nWhich of the following, if true, would most strengthen the administrators' conclusion?",
+      "choices": {
+        "A": "During the same two years, the library made no other changes to its return policies, reminder notification systems, or book renewal procedures.",
+        "B": "The library's overall budget increased during the same two-year period.",
+        "C": "Late fees at the library had previously been a source of complaints from patrons.",
+        "D": "Other library systems in neighboring cities have also considered eliminating late fees.",
+        "E": "The library added several new branches during the two-year period."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same two years, the library made no other changes to its return policies, reminder notification systems, or book renewal procedures.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as notification system or renewal procedure changes, for the increase in prompt returns, supporting attribution to the fee elimination specifically. Choice B is wrong because overall budget changes are irrelevant to the specific causal claim about late fees and return promptness. Choice C is wrong because prior patron complaints about fees reflect sentiment, not evidence about what caused the change in return behavior. Choice D is wrong because other cities' considerations have no bearing on this library's own causal claim. Choice E is wrong because new branches could themselves explain more convenient, prompter returns, which would actually undermine, not strengthen, the attribution to fee elimination specifically.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-021",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "A corporation introduced a voluntary workplace wellness program, including free gym memberships and nutrition counseling, three years ago. Employees who participate in the program have, on average, 30 percent lower annual healthcare costs than employees who do not participate. The corporation's benefits director concluded that the wellness program is responsible for the lower healthcare costs among participants.\n\nQuestion:\nWhich of the following, if true, most weakens the benefits director's conclusion?",
+      "choices": {
+        "A": "Employees who chose to participate in the wellness program were already, on average, healthier and had fewer chronic health conditions than employees who did not participate.",
+        "B": "The wellness program costs the corporation a substantial amount to administer each year.",
+        "C": "Participation in the wellness program has increased steadily since it was introduced.",
+        "D": "The gym memberships offered through the program are with a well-known national gym chain.",
+        "E": "Nutrition counseling sessions are offered twice per month to participating employees."
+      },
+      "correct": "A",
+      "correctAnswerText": "Employees who chose to participate in the wellness program were already, on average, healthier and had fewer chronic health conditions than employees who did not participate.",
+      "explanation": "Choice A weakens the conclusion by identifying a self-selection confound: employees who were already healthier may have been more likely to choose to participate, so the lower costs may reflect pre-existing health differences rather than any effect of the program itself. Choice B is wrong because program administration cost is irrelevant to whether the program caused lower healthcare costs among participants. Choice C is wrong because rising participation over time does not address the causal question of what produced the cost difference. Choice D is wrong because the specific gym chain involved has no bearing on the causal claim. Choice E is wrong because the frequency of counseling sessions does not address whether the program caused the cost difference.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-022",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Ambiguity and equivocation",
+      "category": "Flaw",
+      "prompt": "A supplier's contract requires it to use \"reasonable efforts\" to deliver goods on time. Last month, the supplier delivered goods to every client within the agreed timeframe. Since delivering on time for every client requires substantial effort, the supplier must have used reasonable efforts to meet its contractual obligation.\n\nQuestion:\nThe reasoning above is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "treats the achievement of an outcome as proof that a particular standard of effort was used to bring it about, when the outcome could have resulted from other causes, such as favorable circumstances unrelated to effort",
+        "B": "fails to define what counts as a \"client\" under the contract",
+        "C": "assumes that all clients received identical delivery timeframes",
+        "D": "presumes that the supplier's contract is legally enforceable",
+        "E": "fails to consider whether the supplier delivered goods to clients outside the scope of the contract"
+      },
+      "correct": "A",
+      "correctAnswerText": "treats the achievement of an outcome as proof that a particular standard of effort was used to bring it about, when the outcome could have resulted from other causes, such as favorable circumstances unrelated to effort",
+      "explanation": "Choice A correctly identifies the flaw: on-time delivery for every client could result from favorable circumstances unrelated to effort, such as unusually light demand or the absence of shipping disruptions, so achieving the outcome does not by itself establish that reasonable efforts, a standard concerning process rather than mere result, were used. Choice B is wrong because the term \"client\" is not shown to be ambiguous in a way that affects the argument's validity. Choice C is wrong because whether timeframes were identical across clients is not the source of the argument's logical gap. Choice D is wrong because contract enforceability is irrelevant to whether the specific inference about effort is valid. Choice E is wrong because deliveries outside the contract's scope are not discussed or relevant to the inference being criticized.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-023",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Flawed analogy",
+      "category": "Parallel Flaw",
+      "prompt": "A department store launched a new loyalty rewards app six months ago, and total quarterly sales have increased by 12 percent compared to the same quarter last year. Store management concluded that the loyalty app caused the increase in sales.\n\nQuestion:\nWhich of the following arguments contains a flaw most similar to the flaw in the argument above?",
+      "choices": {
+        "A": "A city noticed that neighborhoods with more streetlights have lower crime rates than neighborhoods with fewer streetlights. The city concluded that installing more streetlights in high-crime neighborhoods will reduce crime rates there.",
+        "B": "A hotel chain introduced a new online booking system eight months ago, and its customer occupancy rate has risen by 10 percent compared to the same period last year. Hotel executives concluded that the new booking system caused the increase in occupancy.",
+        "C": "A company introduced an anonymous employee complaint hotline, and complaints received dropped by 20 percent over the following year. Management concluded that workplace conditions improved.",
+        "D": "A store increased its advertising budget by 50 percent at the same time it also renovated its interior, and sales increased by 25 percent over the following year. Store management concluded that the advertising increase alone caused the sales increase.",
+        "E": "A gym found that members who worked out at least four times a week for a year lost more weight on average than members who worked out less. The gym concluded that all members should work out at least four times a week to lose weight."
+      },
+      "correct": "B",
+      "correctAnswerText": "A hotel chain introduced a new online booking system eight months ago, and its customer occupancy rate has risen by 10 percent compared to the same period last year. Hotel executives concluded that the new booking system caused the increase in occupancy.",
+      "explanation": "Choice B matches the original's flaw: like the original, it introduces a single initiative, observes a subsequent improvement in a directly measured, non-proxy outcome relative to the same period a year earlier, and concludes the initiative caused the improvement without ruling out any alternative explanations, the same specific post hoc flaw as the original. Choice A is wrong because this argument extrapolates from a cross-sectional correlation across different neighborhoods to a policy recommendation, a different structure from the original's single-entity, before-and-after comparison. Choice C is wrong because this argument's flaw involves treating a change in self-reported complaints, a proxy measure, as equivalent to an actual change in conditions, a flaw not present in the original, which is based on a directly measured, objective outcome. Choice D is wrong because this argument explicitly acknowledges a second simultaneous change, the renovation, and then misattributes the effect to only one of the two changes, a more specific flaw than the original's failure to consider any alternative explanation at all. Choice E is wrong because this argument generalizes from a correlation observed across subgroups into a universal prescription, a different structure from the original's single before-and-after causal inference.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-024",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Principle application",
+      "category": "Principle",
+      "prompt": "Principle: A news organization should not withhold publication of a factually verified story that serves the public interest solely because publication might embarrass a powerful individual or institution named in the story.\n\nQuestion:\nWhich of the following judgments conforms most closely to the principle above?",
+      "choices": {
+        "A": "A newspaper publishes a verified story about a public official's misuse of taxpayer funds, even though the official strongly objects and the story will embarrass him, because the story serves the public interest and its facts have been confirmed.",
+        "B": "A newspaper withholds a verified story about a corporation's safety violations, serving the public interest, solely because the corporation is a major advertiser and publication would embarrass its executives.",
+        "C": "A newspaper withholds a verified story about unsafe conditions in a local hospital, serving the public interest, solely because the hospital's board includes several prominent donors to the newspaper's publisher.",
+        "D": "A newspaper withholds a verified story revealing a university's mishandling of research funds, serving the public interest, solely because the university's president is a close personal friend of the newspaper's editor.",
+        "E": "A newspaper withholds a verified story about a city council member's undisclosed financial conflicts of interest, serving the public interest, solely because publishing it would embarrass the council member."
+      },
+      "correct": "A",
+      "correctAnswerText": "A newspaper publishes a verified story about a public official's misuse of taxpayer funds, even though the official strongly objects and the story will embarrass him, because the story serves the public interest and its facts have been confirmed.",
+      "explanation": "Choice A conforms because the story is verified and serves the public interest, and the newspaper publishes it despite the embarrassment it causes a powerful individual, consistent with the principle. Choice B violates the principle because the newspaper withholds a verified, public-interest story solely because publication would embarrass a powerful institution, exactly what the principle prohibits. Choice C violates the principle because the hospital story is verified and serves the public interest, yet withheld solely due to the board's prominence and potential embarrassment to the publisher's donors. Choice D violates the principle because the story is verified and serves the public interest, yet withheld solely because of a personal relationship that would make publication embarrassing. Choice E violates the principle because the story is verified and serves the public interest, yet withheld solely to avoid embarrassing the council member.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-025",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Analogical reasoning",
+      "category": "Assumption",
+      "prompt": "A city transportation department argues that installing protected bike lanes on Main Street will substantially increase the number of residents who commute by bicycle. They cite the experience of a comparable city that installed protected bike lanes on a similarly busy commercial street, where bicycle commuting increased by 35 percent within two years.\n\nQuestion:\nThe argument depends on which of the following assumptions?",
+      "choices": {
+        "A": "No factors specific to the comparable city, and absent in this city, were primarily responsible for the increase in bicycle commuting there.",
+        "B": "The comparable city has a larger population than this city.",
+        "C": "Residents of this city currently commute by car more often than residents of the comparable city.",
+        "D": "This city's climate is identical to that of the comparable city throughout the year.",
+        "E": "The protected bike lanes in the comparable city cost more to install than the lanes proposed for Main Street."
+      },
+      "correct": "A",
+      "correctAnswerText": "No factors specific to the comparable city, and absent in this city, were primarily responsible for the increase in bicycle commuting there.",
+      "explanation": "Choice A is necessary: by the negation test, if factors unique to the comparable city and absent here were actually responsible for its increase in bicycle commuting, the inference that similar lanes will produce a similar increase here would be undermined. Choice B is wrong because relative population size is not required for the comparison to support the argument's conclusion. Choice C is wrong because current car-commuting rates in each city are not required to be compared for the argument's inference to hold. Choice D is wrong because this is far stronger than necessary; the argument requires only that no relevant disanalogy undermines the comparison, not identical climates year-round. Choice E is wrong because relative installation costs are irrelevant to whether the lanes will produce a similar increase in bicycle commuting.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-02-026",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Deductive reasoning",
+      "category": "Inference",
+      "prompt": "In the publishing industry, a company can pursue either a mass-market strategy, prioritizing high sales volume through low per-unit prices, or a prestige strategy, prioritizing critical acclaim through limited, carefully curated releases, but a company cannot pursue both simultaneously, since the editorial and marketing resources each strategy requires are mutually exclusive. Falcon House currently releases a small, carefully selected number of titles each year, each marketed heavily for literary awards consideration.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "Falcon House does not pursue a mass-market strategy.",
+        "B": "Falcon House sells fewer books per year than every other publisher in the industry.",
+        "C": "Falcon House will eventually be acquired by a mass-market publisher.",
+        "D": "No other publisher in the industry has pursued a prestige strategy.",
+        "E": "Falcon House's per-unit prices are lower than those of mass-market publishers."
+      },
+      "correct": "A",
+      "correctAnswerText": "Falcon House does not pursue a mass-market strategy.",
+      "explanation": "Choice A follows validly: since a company can pursue only one of the two strategies, and Falcon House's small, curated, awards-focused releases identify it as pursuing a prestige strategy, it cannot simultaneously pursue a mass-market strategy. Choice B overreaches because the passage does not provide a basis for comparing Falcon House's sales volume to every other publisher in the industry. Choice C is unsupported because the passage describes current strategic positioning, not future ownership outcomes. Choice D is unsupported because the passage says nothing about whether other publishers have also pursued a prestige strategy. Choice E is unsupported because, while plausible, the passage does not provide pricing information to establish this specific comparison.",
+      "credits": 1
+    }
+  ]
+}

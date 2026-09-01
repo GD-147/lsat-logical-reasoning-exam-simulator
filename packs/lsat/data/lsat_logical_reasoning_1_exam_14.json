@@ -1,0 +1,526 @@
+{
+  "title": "LSAT Logical Reasoning Section 1 Practice Exam 14",
+  "section": "logical_reasoning_1",
+  "questions": [
+    {
+      "id": "LSAT-LR1-14-001",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A winery argues that switching from natural cork closures to screw cap closures across its entire product line will substantially reduce the winery's rate of spoiled bottles reaching consumers, since cork taint, a spoilage defect caused by a chemical compound that can develop in natural cork, is the leading cause of spoiled bottles identified in the winery's own quality control records.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "Screw cap closures will not themselves introduce a comparably significant new source of bottle spoilage that offsets the reduction in cork taint.",
+        "B": "Screw cap closures are less expensive to produce than natural cork closures.",
+        "C": "Most wineries in the region have already switched to screw cap closures.",
+        "D": "The winery produces both red and white wine varieties.",
+        "E": "Consumers prefer the aesthetic appearance of natural cork closures."
+      },
+      "correct": "A",
+      "correctAnswerText": "Screw cap closures will not themselves introduce a comparably significant new source of bottle spoilage that offsets the reduction in cork taint.",
+      "explanation": "Choice A is necessary: applying the negation test, if screw caps introduced a comparably significant new source of spoilage, the reduction in cork taint would be offset and the overall spoilage rate would not substantially decrease, defeating the conclusion. Choice B is wrong because relative production cost is irrelevant to the spoilage conclusion. Choice C is wrong because other wineries' adoption choices are irrelevant to this winery's own outcome. Choice D is wrong because the variety of wines produced is irrelevant to the argument. Choice E is wrong because consumer aesthetic preference is irrelevant to whether the switch reduces spoilage.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-002",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A laundromat installed a card-based payment system on all of its washers and dryers, replacing its previous coin-operated machines. In the year since installation, the laundromat's total monthly revenue increased by 33 percent. Laundromat owners concluded that the card payment system caused the increase in monthly revenue.\n\nQuestion:\nWhich of the following, if true, would most strengthen the owners' conclusion?",
+      "choices": {
+        "A": "During the same year, the laundromat made no other changes to its machine count, its hours of operation, or its wash and dry cycle pricing.",
+        "B": "The card payment system allows customers to reload their cards using a mobile application.",
+        "C": "The laundromat is located near a large apartment complex.",
+        "D": "The installation was completed ahead of the laundromat's original renovation schedule.",
+        "E": "Other laundromats have expressed interest in similar card payment systems."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same year, the laundromat made no other changes to its machine count, its hours of operation, or its wash and dry cycle pricing.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as changes to machine count, hours, or pricing, for the increase in revenue, supporting attribution to the card payment system specifically. Choice B is wrong because the reload feature does not provide evidence ruling out alternative causes. Choice C is wrong because location is background information, not evidence bearing on causation. Choice D is wrong because installation timing is irrelevant to the causal claim. Choice E is wrong because other laundromats' interest has no bearing on this laundromat's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-003",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "An indoor climbing gym changed its route-setting schedule from resetting climbing routes once per month to once every two weeks. In the six months since the schedule change, the gym's membership renewal rate increased by 22 percent. Gym management concluded that the more frequent route-setting schedule caused the increase in membership renewals.\n\nQuestion:\nWhich of the following, if true, most weakens management's conclusion?",
+      "choices": {
+        "A": "During the same six months, the gym also introduced a discounted annual membership rate and hired several well-known professional climbers as coaches, independent of the route-setting schedule change.",
+        "B": "Resetting routes more frequently requires the gym to purchase more climbing holds.",
+        "C": "The climbing gym offers both bouldering and roped climbing areas.",
+        "D": "Some members left reviews praising the variety of new routes.",
+        "E": "Other climbing gyms have also increased their route-setting frequency."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same six months, the gym also introduced a discounted annual membership rate and hired several well-known professional climbers as coaches, independent of the route-setting schedule change.",
+      "explanation": "Choice A weakens the conclusion by identifying alternative, sufficient explanations, a discounted annual rate and newly hired well-known coaches, for the increase in renewals, undermining the attribution to the route-setting schedule specifically. Choice B is wrong because hold purchasing costs are irrelevant to what caused the renewal increase. Choice C is wrong because the types of climbing areas offered are irrelevant to the causal claim. Choice D is wrong because positive reviews do not establish that the schedule change caused the renewal increase. Choice E is wrong because other gyms' unrelated changes have no bearing on this gym's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-004",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Flaw",
+      "prompt": "A professional beer certification organization grants the title of \"Certified Cicerone\" only to candidates who pass a beer styles and service exam, a brewing process and ingredients exam, and a tasting and flaw-detection exam. Candidate Marchetti passed both the beer styles and service exam and the brewing process and ingredients exam with the highest scores the organization has recorded this year. Since Marchetti's scores on these two exams were exceptional, Marchetti must have earned the title of Certified Cicerone.\n\nQuestion:\nThe reasoning above is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "treats exceptional performance on two of the three required exams as sufficient to establish that Marchetti earned the title, when the organization's own requirements also include a tasting and flaw-detection exam, which the argument never establishes Marchetti passed",
+        "B": "fails to specify how many candidates seek Certified Cicerone status each year",
+        "C": "assumes that all three components of the assessment are equally difficult",
+        "D": "presumes that the organization's scoring records are accurate",
+        "E": "fails to consider whether Marchetti has previously failed any of the exams"
+      },
+      "correct": "A",
+      "correctAnswerText": "treats exceptional performance on two of the three required exams as sufficient to establish that Marchetti earned the title, when the organization's own requirements also include a tasting and flaw-detection exam, which the argument never establishes Marchetti passed",
+      "explanation": "Choice A correctly identifies the flaw: the title requires passing all three components, but the argument establishes exceptional performance on only two of them, leaving the required tasting and flaw-detection exam entirely unaddressed. Choice B is wrong because the number of candidates is irrelevant to the argument's logical gap. Choice C is wrong because relative difficulty is not required for the flaw to apply. Choice D is wrong because the accuracy of scoring records is not in question; the flaw concerns an unaddressed requirement. Choice E is wrong because prior exam attempts are irrelevant to the specific gap identified.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-005",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Conditional logic",
+      "category": "Inference",
+      "prompt": "A regional fire agency authorizes a firefighter to serve as a wildland crew boss only if the firefighter has completed the agency's incident command training course and has served at least three full seasons on a wildland fire crew. Firefighter Guzman has served at least three full seasons on a wildland fire crew but has not been authorized to serve as a crew boss.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "Guzman has not completed the agency's incident command training course.",
+        "B": "Guzman will never be authorized to serve as a wildland crew boss.",
+        "C": "The incident command training course is more difficult to complete than serving three full seasons.",
+        "D": "Other firefighters at the agency have been authorized to serve as crew bosses.",
+        "E": "The agency's certification requirements are stricter than those of other fire agencies."
+      },
+      "correct": "A",
+      "correctAnswerText": "Guzman has not completed the agency's incident command training course.",
+      "explanation": "Choice A follows validly: authorization requires both completing the incident command training course and serving at least three full seasons, and since Guzman was not authorized despite meeting the seasons requirement, Guzman must not have completed the training course. Choice B is unsupported because the passage describes the current situation, not a permanent outcome; nothing rules out future authorization once the course is completed. Choice C is unsupported because the relative difficulty of the two requirements is not addressed. Choice D is unsupported because no information about other firefighters is given. Choice E is unsupported because no comparison to other fire agencies is provided.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-006",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argumentative strategy",
+      "category": "Method of Reasoning",
+      "prompt": "Museum director: Our museum should switch to a tiered membership pricing model, charging different rates based on the number of visits included, rather than a single flat annual rate, since a tiered model would better align pricing with actual visitation and could increase overall membership revenue. Development officer responds that tiered pricing has, at other museums, led many occasional visitors to decline membership entirely rather than choose among usage tiers, meaning the projected revenue gains may not materialize if a substantial share of occasional visitors decline to join at all. The director replies that the other museums cited by the development officer all implemented tiered pricing without offering any low-cost unlimited-visit tier for budget-conscious members, whereas the model under consideration here includes such a tier, addressing the specific concern that drove visitors away at those other museums.\n\nQuestion:\nThe director's reply to the development officer proceeds by",
+      "choices": {
+        "A": "arguing that the examples underlying the development officer's objection lack a specific policy feature present in the proposal under consideration",
+        "B": "presenting data showing that no visitors have ever declined membership after a pricing change",
+        "C": "arguing that the development officer has a personal preference for flat-rate pricing",
+        "D": "conceding that declines are likely but arguing the revenue gains justify it regardless",
+        "E": "questioning whether the other museums actually implemented tiered pricing"
+      },
+      "correct": "A",
+      "correctAnswerText": "arguing that the examples underlying the development officer's objection lack a specific policy feature present in the proposal under consideration",
+      "explanation": "Choice A accurately describes the method: the director points out that the cited museums' tiered systems lacked a low-cost unlimited-visit tier, a feature included in the current proposal that addresses the specific concern driving membership declines. Choice B is wrong because no data ruling out all declines is presented; the reply addresses why declines are less likely here. Choice C is wrong because no discussion of the development officer's personal preferences occurs. Choice D is wrong because the director does not concede that declines are likely under this proposal. Choice E is wrong because the director does not dispute that the cited museums implemented tiered pricing, only that their policies differed in a relevant way.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-007",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Conditional logic",
+      "category": "Parallel Reasoning",
+      "prompt": "A veterinary clinic cannot renew a veterinarian's surgical privileges unless the clinic's credentialing committee has approved a written continuing education record showing the required annual hours. The credentialing committee has not approved a written continuing education record showing the required annual hours for Dr. Ferraro. Therefore, the clinic cannot renew Dr. Ferraro's surgical privileges.\n\nQuestion:\nWhich of the following arguments is most similar in its logical structure to the argument above?",
+      "choices": {
+        "A": "A hospital cannot renew a physician's admitting privileges unless the credentialing board has approved a written peer review record showing no unresolved complaints. The credentialing board has not approved a written peer review record showing no unresolved complaints for Dr. Okonjo. Therefore, the hospital cannot renew Dr. Okonjo's admitting privileges.",
+        "B": "A law firm cannot promote an associate to partner unless the associate has passed the bar exam. This associate passed the bar exam. Therefore, she will be promoted to partner.",
+        "C": "A pharmacist cannot dispense a controlled substance unless she holds a valid state license. This pharmacist holds a valid state license. Therefore, she will dispense the controlled substance.",
+        "D": "A truck driver cannot operate a commercial vehicle unless he passes a medical fitness exam. This driver passed the medical fitness exam. Therefore, he will operate the commercial vehicle.",
+        "E": "A cargo plane cannot take off unless it passes a weight inspection. This cargo plane did not take off. Therefore, it did not pass the weight inspection."
+      },
+      "correct": "A",
+      "correctAnswerText": "A hospital cannot renew a physician's admitting privileges unless the credentialing board has approved a written peer review record showing no unresolved complaints. The credentialing board has not approved a written peer review record showing no unresolved complaints for Dr. Okonjo. Therefore, the hospital cannot renew Dr. Okonjo's admitting privileges.",
+      "explanation": "Choice A matches the original's structure: the necessary condition, an approved written record showing the required standard was met, is denied, so the argument validly concludes the main claim, renewing privileges, is also false, mirroring the original's valid modus tollens pattern. Choice B is wrong because it affirms that the necessary condition, passing the bar exam, was met and invalidly concludes the associate will be promoted, reversing the valid direction of inference. Choice C is wrong because it commits the same invalid pattern, affirming a necessary condition, the valid license, and treating it as sufficient to guarantee the outcome. Choice D is wrong because it again affirms that a necessary condition, passing the fitness exam, was met and treats it as guaranteeing the conclusion. Choice E is wrong because it denies the main claim and invalidly infers that the necessary condition is also false, a distinct fallacy, denying the antecedent, not found in the original argument.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-008",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Main point identification",
+      "category": "Main Point",
+      "prompt": "Piano tuning has increasingly required certification through standardized examinations covering acoustic theory, mechanical regulation, and pitch calibration, a shift some longtime tuners view as an unnecessary bureaucratic burden on a trade historically learned through years of apprenticeship with an established tuner. Certification proponents counter that as piano tuning work has expanded from serving individual households into serving concert halls and conservatories across the country, clients increasingly need a reliable way to verify a tuner's competence without personally evaluating years of the tuner's past work, something a standardized credential can provide that informal reputation alone cannot as the client base grows beyond a small, local network. This suggests that formal certification serves a verification function that becomes more necessary as a trade's client base expands beyond networks where reputation can be personally verified.\n\nQuestion:\nWhich of the following most accurately expresses the main point of the passage?",
+      "choices": {
+        "A": "Formal certification serves a verification function that becomes more necessary as a trade's client base expands beyond networks where reputation can be personally verified.",
+        "B": "Apprenticeship with an established tuner is an ineffective way to learn piano tuning.",
+        "C": "Concert halls require more frequent tuning than individual households do.",
+        "D": "All longtime tuners oppose certification requirements.",
+        "E": "Conservatories should only hire certified piano tuners."
+      },
+      "correct": "A",
+      "correctAnswerText": "Formal certification serves a verification function that becomes more necessary as a trade's client base expands beyond networks where reputation can be personally verified.",
+      "explanation": "Choice A restates the passage's central claim, matching its concluding sentence about certification's verification function becoming more necessary as client networks expand. Choice B is wrong because the passage never claims apprenticeship is ineffective, only that it does not provide the same verification function for distant clients. Choice C is wrong because no such comparative claim is made. Choice D is wrong because the passage says \"some longtime tuners,\" not all, view certification as burdensome. Choice E is wrong because no such prescriptive claim is stated in the passage.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-009",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Resolve the Paradox",
+      "prompt": "A meat packing plant raised the minimum certification standards required for its food safety inspectors, adding a more rigorous contamination-detection assessment to the certification process. In the two years since the new standards took effect, the number of reported contamination findings during routine plant inspections has increased compared with the two years before the change.\n\nQuestion:\nWhich of the following, if true, most helps to explain the discrepancy described above?",
+      "choices": {
+        "A": "During the same two years, the plant also revised its inspection logging guidelines to require inspectors to formally record any contamination finding, even minor ones previously addressed without documentation, a category of finding that often went unreported under the plant's older guidelines.",
+        "B": "The new certification standards require inspectors to be recertified every three years.",
+        "C": "The plant processes both beef and poultry products.",
+        "D": "The contamination-detection assessment includes a written examination component.",
+        "E": "The plant operates processing lines across multiple shifts."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same two years, the plant also revised its inspection logging guidelines to require inspectors to formally record any contamination finding, even minor ones previously addressed without documentation, a category of finding that often went unreported under the plant's older guidelines.",
+      "explanation": "Choice A resolves the paradox by showing that the apparent increase reflects more thorough logging of a broader category of findings rather than an actual rise in contamination, consistent with the more rigorous certification genuinely improving inspector competence. Choice B is wrong because recertification frequency does not explain the reported increase. Choice C is wrong because the mix of products processed is unrelated static information that does not explain the change over time. Choice D is wrong because the assessment's content does not explain the reporting discrepancy. Choice E is wrong because operating across multiple shifts is irrelevant to the discrepancy.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-010",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A home energy auditor argues that adding blown-in insulation to a homeowner's attic will substantially reduce the homeowner's winter heating costs, since heat loss through an under-insulated attic is the leading cause of excess winter heating costs in homes of this era, according to the auditor's own inspection data.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "This homeowner's attic is currently under-insulated to a degree that is contributing significantly to heat loss and excess winter heating costs.",
+        "B": "Blown-in insulation is more effective than batt insulation in all climates.",
+        "C": "Most homes in the region were built in the same era as this home.",
+        "D": "The auditor has performed insulation audits in other homes in the past.",
+        "E": "Winter heating costs are higher than summer cooling costs for most homes."
+      },
+      "correct": "A",
+      "correctAnswerText": "This homeowner's attic is currently under-insulated to a degree that is contributing significantly to heat loss and excess winter heating costs.",
+      "explanation": "Choice A is necessary: by the negation test, if this homeowner's attic were not actually under-insulated to a significant degree, adding more insulation would not be expected to substantially reduce winter heating costs, undermining the conclusion. Choice B is wrong because a general comparison between insulation types across all climates is irrelevant to this specific home's outcome. Choice C is wrong because the era of other homes in the region is irrelevant to this specific home's outcome. Choice D is wrong because the auditor's prior experience is irrelevant to the causal claim. Choice E is wrong because a general comparison between heating and cooling costs is irrelevant to the argument's conclusion.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-011",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A city installed smart soil-moisture sensors in its public parks, allowing irrigation systems to water lawns and gardens only when soil moisture falls below a set threshold, replacing its previous fixed daily watering schedule. In the year since installation, the city's total water usage for park irrigation decreased by 38 percent. City officials concluded that the smart sensor system caused the decrease in irrigation water usage.\n\nQuestion:\nWhich of the following, if true, would most strengthen the officials' conclusion?",
+      "choices": {
+        "A": "During the same year, the city made no other changes to the total acreage of parkland irrigated, the types of grass and plants grown, or the irrigation equipment used to deliver water.",
+        "B": "The smart sensor system can be monitored remotely using a central management dashboard.",
+        "C": "The city's parks are used most heavily on weekends.",
+        "D": "The sensor installation was completed ahead of the city's original schedule.",
+        "E": "Other cities have expressed interest in similar smart sensor irrigation systems."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same year, the city made no other changes to the total acreage of parkland irrigated, the types of grass and plants grown, or the irrigation equipment used to deliver water.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as changes to irrigated acreage, plant types, or equipment, for the decrease in water usage, supporting attribution to the smart sensor system specifically. Choice B is wrong because remote monitoring capability does not provide evidence ruling out alternative causes. Choice C is wrong because park usage patterns are background information, not evidence bearing on causation. Choice D is wrong because installation timing is irrelevant to the causal claim. Choice E is wrong because other cities' interest has no bearing on this city's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-012",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "An independent bookstore launched a recurring monthly author event series, hosting local and visiting authors for readings and book signings. In the year since the series began, the store's total book sales increased by 26 percent. Store management concluded that the author event series caused the increase in book sales.\n\nQuestion:\nWhich of the following, if true, most weakens management's conclusion?",
+      "choices": {
+        "A": "During the same year, the store also began stocking a wider selection of bestselling titles and started offering free gift wrapping on all purchases, independent of the author event series.",
+        "B": "The author event series takes place on the first Thursday of every month.",
+        "C": "The bookstore sells both new and used books.",
+        "D": "Some customers left reviews praising the intimate atmosphere of the author events.",
+        "E": "Other independent bookstores have started similar author event series."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same year, the store also began stocking a wider selection of bestselling titles and started offering free gift wrapping on all purchases, independent of the author event series.",
+      "explanation": "Choice A weakens the conclusion by identifying alternative, sufficient explanations, a wider bestseller selection and free gift wrapping, for the increase in sales, undermining the attribution to the author event series specifically. Choice B is wrong because the scheduling detail is irrelevant to what caused the sales increase. Choice C is wrong because the mix of new and used books is irrelevant to the causal claim. Choice D is wrong because positive reviews about the events' atmosphere do not establish that the series caused the sales increase. Choice E is wrong because other bookstores' unrelated series have no bearing on this bookstore's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-013",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Ambiguity and equivocation",
+      "category": "Flaw",
+      "prompt": "An architect's contract with a client entitles the architect to a final design fee payment upon \"substantial completion\" of the building project. At the point when the building's structure, roofing, and exterior walls were finished but interior finishes, electrical fixtures, and plumbing fixtures remained unfinished, the architect argued that because the building's major structural elements were complete and the building was weathertight, \"substantial completion\" had been reached and the final fee was owed.\n\nQuestion:\nThe reasoning above is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "treats completion of the structural shell and weathertightness as equivalent to \"substantial completion\" as the parties likely intended that term, when the phrase could plausibly require that the building be suitable for its intended occupied use, a standard the unfinished interior, electrical, and plumbing work would not yet satisfy",
+        "B": "fails to specify how many months the construction project has been underway",
+        "C": "assumes that all construction contracts define substantial completion identically",
+        "D": "presumes that the client has approved the building's structural design",
+        "E": "fails to consider whether other architects have completed similar projects faster"
+      },
+      "correct": "A",
+      "correctAnswerText": "treats completion of the structural shell and weathertightness as equivalent to \"substantial completion\" as the parties likely intended that term, when the phrase could plausibly require that the building be suitable for its intended occupied use, a standard the unfinished interior, electrical, and plumbing work would not yet satisfy",
+      "explanation": "Choice A correctly identifies the flaw: the argument assumes structural completion and weathertightness alone satisfy \"substantial completion,\" but the term could plausibly require the building to be suitable for occupied use, a standard not yet met given the unfinished interior, electrical, and plumbing work. Choice B is wrong because project duration is not the source of the argument's logical gap. Choice C is wrong because whether other contracts define the term identically is irrelevant to what this specific contract requires. Choice D is wrong because the client's approval of the structural design is irrelevant to whether substantial completion has been reached. Choice E is wrong because other architects' project timelines are irrelevant to evaluating this specific contractual question.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-014",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Disagreement identification",
+      "category": "Point at Issue",
+      "prompt": "Admissions officer A: Our university's admissions rubric should weight the personal essay more heavily than it currently does, since data show that admitted students who scored highly on their personal essays had significantly higher four-year graduation rates than admitted students who scored highly primarily on standardized test scores alone.\nAdmissions officer B: The correlation between essay scores and graduation rates doesn't show that the essay should be weighted more heavily, because students who are already strong academic performers are the ones most likely to also write compelling, well-organized essays, meaning a high essay score is more likely a byproduct of overall academic strength than an independently decisive predictor of graduation worth weighting further.\n\nQuestion:\nOn the basis of their statements, Admissions officer A and Admissions officer B are committed to disagreeing about which of the following?",
+      "choices": {
+        "A": "Whether the correlation between essay scores and graduation rates shows that the personal essay should be weighted more heavily in the admissions rubric",
+        "B": "Whether admitted students who score highly on their personal essays tend to have higher graduation rates",
+        "C": "Whether students with strong academic performance tend to also write more compelling essays",
+        "D": "Whether graduation rate data for admitted students exists",
+        "E": "Whether standardized test scores are currently weighted in the admissions rubric"
+      },
+      "correct": "A",
+      "correctAnswerText": "Whether the correlation between essay scores and graduation rates shows that the personal essay should be weighted more heavily in the admissions rubric",
+      "explanation": "Choice A is the crux of their disagreement: Officer A takes the correlation as grounds for weighting the essay more heavily, while Officer B argues the correlation reflects underlying academic strength rather than an independently decisive factor. Choice B is wrong because both officers accept the underlying correlation as a fact; this is common ground. Choice C is wrong because this is Officer B's own explanatory claim, not something Officer A is shown to dispute. Choice D is wrong because neither officer disputes the existence of the graduation rate data itself. Choice E is wrong because neither officer's statement addresses the rubric's current treatment of standardized test scores specifically.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-015",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Principle application",
+      "category": "Principle",
+      "prompt": "Principle: A corporate whistleblower protection committee should not disclose the identity of an employee who has reported suspected misconduct unless the employee has given written consent to the disclosure.\n\nQuestion:\nWhich of the following judgments most closely conforms to the principle above?",
+      "choices": {
+        "A": "A committee declines to disclose the identity of an employee who reported suspected misconduct because the employee has not given written consent to the disclosure.",
+        "B": "A committee discloses the identity of an employee who reported suspected misconduct because the internal investigation has concluded, even though the employee has not given written consent.",
+        "C": "A committee discloses the identity of an employee who reported suspected misconduct because a senior executive has requested to know who filed the report, even though the employee has not given written consent.",
+        "D": "A committee discloses the identity of an employee who reported suspected misconduct because other employees have guessed who filed the report, even though the employee has not given written consent.",
+        "E": "A committee discloses the identity of an employee who reported suspected misconduct because the misconduct allegation was ultimately found to be unsubstantiated, even though the employee has not given written consent."
+      },
+      "correct": "A",
+      "correctAnswerText": "A committee declines to disclose the identity of an employee who reported suspected misconduct because the employee has not given written consent to the disclosure.",
+      "explanation": "Choice A conforms because the committee declines to disclose identity absent the written consent the principle requires. Choice B violates the principle because disclosure is based on an unrelated factor, the investigation's conclusion, despite the absence of written consent. Choice C violates the principle because disclosure is based on an unrelated factor, an executive's request, despite the same absence. Choice D violates the principle because disclosure is based on an unrelated factor, other employees' guesses, despite the same absence. Choice E violates the principle because disclosure is based on an unrelated factor, the allegation's outcome, despite the same absence.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-016",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Deductive reasoning",
+      "category": "Inference",
+      "prompt": "If an offshore oil rig's blowout preventer is inspected using an automated pressure-integrity monitoring system, fewer than 1 percent of seal degradation events go undetected before requiring emergency shutdown on average. The Kestrel Point platform has used an automated pressure-integrity monitoring system on its blowout preventer for the past five years, yet a regulatory audit found that approximately 9 percent of seal degradation events went undetected before requiring emergency shutdown during that period.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "The general relationship described between automated pressure-integrity monitoring systems and the rate of undetected seal degradation events does not hold without exception at the Kestrel Point platform.",
+        "B": "The Kestrel Point platform does not actually use an automated pressure-integrity monitoring system.",
+        "C": "The rate of undetected seal degradation events at the Kestrel Point platform will eventually fall below 1 percent.",
+        "D": "Other offshore platforms using automated monitoring systems have higher rates of undetected seal degradation than the Kestrel Point platform.",
+        "E": "The Kestrel Point platform operates in deeper water than other offshore platforms."
+      },
+      "correct": "A",
+      "correctAnswerText": "The general relationship described between automated pressure-integrity monitoring systems and the rate of undetected seal degradation events does not hold without exception at the Kestrel Point platform.",
+      "explanation": "Choice A must be true: since the stated conditions for the general rule were met at the Kestrel Point platform, yet the predicted rate did not hold, the relationship as generally described admits at least one exception there. Choice B contradicts the passage, which states the platform has used the system for five years. Choice C is unsupported speculation, since the passage gives no basis for predicting future rates, especially given the already-observed exception. Choice D is unsupported because the passage provides no data about other platforms. Choice E is unsupported overreach, since the passage does not establish a comparative ranking of water depth.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-017",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Evaluating evidence",
+      "category": "Evaluate",
+      "prompt": "A craft brewery is considering expanding its rotating \"pilot batch\" program, in which customers at its original taproom can sample and vote on experimental beer recipes before they are added to the regular lineup, to its two newer taproom locations, citing data showing that beers introduced through the pilot batch program at the original taproom have sold better on average than beers added without prior customer testing. Brewery management projects that expanding the pilot batch program to all taprooms will meaningfully increase overall beer sales.\n\nQuestion:\nIn evaluating brewery management's projection, it would be most useful to know which of the following?",
+      "choices": {
+        "A": "Whether the customer base at the original taproom, whose engagement with sampling and voting on experimental recipes may have contributed to the pilot batch program's success, is similar in composition to the customer base at the two newer taprooms",
+        "B": "How many experimental beer recipes have been tested through the pilot batch program so far",
+        "C": "How much it costs to brew a small batch of an experimental recipe",
+        "D": "Whether the newer taprooms are located in different cities than the original taproom",
+        "E": "Whether other breweries have implemented similar pilot batch programs"
+      },
+      "correct": "A",
+      "correctAnswerText": "Whether the customer base at the original taproom, whose engagement with sampling and voting on experimental recipes may have contributed to the pilot batch program's success, is similar in composition to the customer base at the two newer taprooms",
+      "explanation": "Choice A is most useful because the pilot batch program's success at the original taproom may depend on that location's especially engaged customer base; knowing whether the newer taprooms have a similarly engaged customer base directly tests whether the same benefit would transfer. Choice B is wrong because the count of recipes tested is a secondary detail not central to whether the program would succeed at new locations. Choice C is wrong because brewing cost bears on feasibility, not on whether sales would increase. Choice D is wrong because city location is a less precise version of the customer-composition question that A addresses directly. Choice E is wrong because other breweries' programs elsewhere do not address whether this brewery's own expansion would increase sales.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-018",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argument structure",
+      "category": "Argument Structure",
+      "prompt": "Some public health officials argue that intensive rat baiting campaigns are the most effective way to reduce rat populations in dense urban neighborhoods, since removing individual rats directly reduces the number present in a given block. Critics respond that rats from surrounding blocks simply migrate into baited areas to take advantage of the newly available food sources and burrows, meaning baiting does not actually reduce the overall rat population near a neighborhood but merely creates a temporary vacancy that is soon refilled, making the approach ineffective in the medium term. However, data from neighborhoods that have paired baiting with mandatory sealing of building foundations and securing of garbage storage, rather than baiting alone, show measurably sustained reductions in rat sightings, suggesting that the refilling effect critics describe diminishes significantly once the food sources and shelter attracting rats to the neighborhood are removed.\n\nQuestion:\nWhich of the following most accurately describes the role played by the claim that \"rats from surrounding blocks simply migrate into baited areas to take advantage of the newly available food sources and burrows\"?",
+      "choices": {
+        "A": "It is an objection raised against the public health officials' position, which the argument then qualifies by identifying conditions under which the refilling effect diminishes.",
+        "B": "It is the main conclusion the passage seeks to establish.",
+        "C": "It is evidence directly supporting the claim that baiting alone is the most effective solution.",
+        "D": "It is an assumption the public health officials rely on without providing supporting evidence.",
+        "E": "It is a claim the passage shows to be entirely false."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is an objection raised against the public health officials' position, which the argument then qualifies by identifying conditions under which the refilling effect diminishes.",
+      "explanation": "Choice A accurately captures the role: this claim is introduced as critics' objection to the officials' position, which the passage then qualifies by showing that pairing baiting with foundation sealing and garbage security reduces the refilling effect the critics describe. Choice B is wrong because the passage's main point concerns when the refilling effect diminishes, not this specific objection. Choice C is wrong because this claim actually cuts against, not supports, the case for baiting alone being most effective. Choice D is wrong because the claim is attributed to critics responding to the officials, not treated as an assumption of the officials' own argument. Choice E is wrong because the passage does not show the claim entirely false; it acknowledges the effect while identifying conditions under which it diminishes.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-019",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A chimney sweep company argues that relining a homeowner's chimney flue with a new stainless steel liner will substantially reduce the homeowner's risk of a chimney fire, since gaps and cracks in an aging flue liner are the leading cause of chimney fires among homes with wood-burning fireplaces, according to fire safety data.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "This homeowner's chimney flue currently has gaps or cracks significant enough to be a meaningful contributor to chimney fire risk.",
+        "B": "Stainless steel liners last longer than clay tile liners.",
+        "C": "Most homes with wood-burning fireplaces are located in cold climates.",
+        "D": "The chimney sweep company has relined chimneys in other homes in the past.",
+        "E": "Chimney fires are more common in winter than in summer."
+      },
+      "correct": "A",
+      "correctAnswerText": "This homeowner's chimney flue currently has gaps or cracks significant enough to be a meaningful contributor to chimney fire risk.",
+      "explanation": "Choice A is necessary: by the negation test, if this chimney's flue did not actually have significant gaps or cracks, relining it would not be expected to substantially reduce chimney fire risk, undermining the conclusion. Choice B is wrong because relative material longevity is irrelevant to the fire risk conclusion. Choice C is wrong because climate prevalence among other homes is irrelevant to this specific home's outcome. Choice D is wrong because the company's prior experience is irrelevant to the causal claim. Choice E is wrong because seasonal fire frequency generally is irrelevant to the argument's conclusion.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-020",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A veterinary clinic introduced an online appointment booking system, allowing pet owners to schedule appointments through a website rather than calling during business hours, replacing its previous phone-only scheduling. In the year since the system launched, the clinic's rate of client retention increased by 28 percent. Clinic management concluded that the online booking system caused the increase in client retention.\n\nQuestion:\nWhich of the following, if true, would most strengthen management's conclusion?",
+      "choices": {
+        "A": "During the same year, the clinic made no other changes to its veterinary staff, its examination fees, or its hours of operation.",
+        "B": "The online booking system sends automated appointment confirmation emails to clients.",
+        "C": "The veterinary clinic treats both dogs and cats.",
+        "D": "The booking system was launched ahead of the clinic's original planned rollout date.",
+        "E": "Other veterinary clinics have expressed interest in similar online booking systems."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same year, the clinic made no other changes to its veterinary staff, its examination fees, or its hours of operation.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as changes to staffing, fees, or hours, for the increase in client retention, supporting attribution to the online booking system specifically. Choice B is wrong because the confirmation email feature does not provide evidence ruling out alternative causes. Choice C is wrong because the range of animals treated is background information, not evidence bearing on causation. Choice D is wrong because rollout timing is irrelevant to the causal claim. Choice E is wrong because other clinics' unrelated interest has no bearing on this clinic's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-021",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "A specialty coffee roaster began sourcing its green coffee beans exclusively through direct-trade agreements with individual farms, replacing its previous practice of sourcing through a wholesale importer, and began marketing its products as \"direct-trade sourced.\" In the year since the change, the roaster's total sales increased by 17 percent. Company owners concluded that switching to direct-trade sourcing caused the increase in sales.\n\nQuestion:\nWhich of the following, if true, most weakens the owners' conclusion?",
+      "choices": {
+        "A": "During the same year, the roaster also began wholesaling its beans to a regional cafe chain and was featured in a widely read food and beverage magazine, independent of the sourcing change.",
+        "B": "Green coffee beans sourced through direct-trade agreements are harvested once per growing season.",
+        "C": "The farms involved in the direct-trade agreements have supplied other roasters in the past.",
+        "D": "The roaster produces both whole bean and ground coffee products.",
+        "E": "Direct-trade sourcing has become a popular marketing trend across the specialty coffee industry."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same year, the roaster also began wholesaling its beans to a regional cafe chain and was featured in a widely read food and beverage magazine, independent of the sourcing change.",
+      "explanation": "Choice A weakens the conclusion by identifying alternative, sufficient explanations, a new wholesale partnership and a magazine feature, for the increase in sales, undermining the attribution to direct-trade sourcing specifically. Choice B is wrong because harvest frequency is irrelevant to what caused the sales increase. Choice C is wrong because the farms' other business relationships are irrelevant to this roaster's sales. Choice D is wrong because product format variety is irrelevant to the causal claim. Choice E is wrong because the general popularity of the marketing trend does not address what specifically caused this roaster's sales increase.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-022",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Ambiguity and equivocation",
+      "category": "Flaw",
+      "prompt": "A graphic designer's contract with a startup client entitles the designer to a final payment upon delivery of the \"final version\" of the company's logo. The designer delivered a completed logo file in the agreed format within the contracted timeframe, but the file did not include the separate color-variant and monochrome versions that the client had specifically requested during their initial project scoping call be included as part of the same deliverable. The designer argues that because a completed logo file was delivered on time, the \"final version\" requirement was satisfied and full payment is owed.\n\nQuestion:\nThe reasoning above is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "treats delivery of a single completed logo file as equivalent to delivering the complete \"final version\" as the parties defined it, when the client's initial scoping call could plausibly have made the color-variant and monochrome versions required components of that same deliverable",
+        "B": "fails to specify what file format the logo was delivered in",
+        "C": "assumes that all graphic design contracts include color variants",
+        "D": "presumes that the client attended the initial scoping call",
+        "E": "fails to consider whether other designers include color variants in their standard packages"
+      },
+      "correct": "A",
+      "correctAnswerText": "treats delivery of a single completed logo file as equivalent to delivering the complete \"final version\" as the parties defined it, when the client's initial scoping call could plausibly have made the color-variant and monochrome versions required components of that same deliverable",
+      "explanation": "Choice A correctly identifies the flaw: the argument assumes the single delivered logo file alone satisfies \"final version,\" but the initial scoping call could plausibly have made the color-variant and monochrome versions part of that same defined deliverable, a reading under which the requirement was not yet satisfied. Choice B is wrong because the file format is not the source of the argument's logical gap. Choice C is wrong because whether other contracts generally include color variants is irrelevant to what this specific contract required. Choice D is wrong because the client's attendance is not disputed and is irrelevant to the flaw. Choice E is wrong because other designers' standard practices are irrelevant to evaluating this specific contractual question.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-023",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argumentative strategy",
+      "category": "Method of Reasoning",
+      "prompt": "City council member: The city should not relax its nighttime noise ordinance to allow outdoor live music venues to operate past 11 p.m., since the current cutoff time is specifically designed to protect the sleep of residents living in the dense residential blocks surrounding the entertainment district, and a later cutoff would not reliably preserve that protection. Venue owners' association representative responds that several nearby cities have already extended their nighttime noise cutoffs for outdoor live music venues, suggesting this is an accepted, reasonable policy. The council member replies that the policy being common in nearby cities does not establish that it achieves the specific residential-protection goals this city's ordinance was designed around, since the representative has not shown that those other cities' entertainment districts are surrounded by comparably dense residential blocks.\n\nQuestion:\nThe council member's reply to the venue owners' association representative proceeds by",
+      "choices": {
+        "A": "arguing that a policy being common elsewhere does not establish that the policy serves the same goals as those specific to this city's own ordinance",
+        "B": "presenting data showing that no nearby cities have extended their noise cutoffs",
+        "C": "arguing that the representative has a financial interest in extending the cutoff",
+        "D": "conceding that residential proximity does not matter but arguing the cutoff should remain for other reasons",
+        "E": "questioning whether nearby cities actually have live music venues"
+      },
+      "correct": "A",
+      "correctAnswerText": "arguing that a policy being common elsewhere does not establish that the policy serves the same goals as those specific to this city's own ordinance",
+      "explanation": "Choice A accurately describes the method: the council member argues that the representative's appeal to common practice in nearby cities fails to establish suitability here, since the representative has not shown those other cities' entertainment districts share this city's specific residential-density concerns. Choice B is wrong because the council member does not dispute the representative's factual claim about nearby cities' policies. Choice C is wrong because no discussion of the representative's motives occurs. Choice D is wrong because the council member maintains that residential proximity is relevant, rather than conceding otherwise. Choice E is wrong because whether nearby cities have live music venues at all is not disputed.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-024",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Flawed analogy",
+      "category": "Parallel Flaw",
+      "prompt": "A neighborhood bicycle repair shop launched an online booking system that allows customers to schedule repair appointments without calling the shop during business hours. In the following quarter, the shop's total revenue increased by 20 percent compared to the same quarter the previous year. The shop concluded that the online booking system caused the increase in revenue.\n\nQuestion:\nWhich of the following arguments contains a flaw most similar to the flaw in the argument above?",
+      "choices": {
+        "A": "A study found that bicycle repair shops with online booking systems tend to have higher average customer satisfaction ratings than shops without such systems. Analysts concluded that adding online booking systems causes higher satisfaction.",
+        "B": "A shoe repair shop introduced an online booking system for scheduling repairs, allowing customers to reserve drop-off times without calling during business hours, and the shop's total revenue increased by 23 percent over the following six months compared to the same period the previous year. The shop concluded that the online booking system caused the increase in revenue.",
+        "C": "A bicycle repair shop introduced a customer feedback survey, and the number of complaints about phone wait times dropped by 27 percent over the following year. The shop concluded that customer satisfaction with scheduling had improved.",
+        "D": "A bicycle repair shop launched an online booking system and simultaneously hired a second full-time mechanic with a large existing client following, and total revenue increased by 30 percent over the following year. The shop concluded that the online booking system alone caused the increase in revenue.",
+        "E": "A survey found that bicycle repair shop customers who book online report higher overall satisfaction than customers who book by phone. The shop concluded that all customers should be required to book online to increase their satisfaction."
+      },
+      "correct": "B",
+      "correctAnswerText": "A shoe repair shop introduced an online booking system for scheduling repairs, allowing customers to reserve drop-off times without calling during business hours, and the shop's total revenue increased by 23 percent over the following six months compared to the same period the previous year. The shop concluded that the online booking system caused the increase in revenue.",
+      "explanation": "Choice B matches the original's flaw: like the original, it introduces a single change, observes a subsequent improvement in a directly measured, non-proxy outcome relative to the same period a year earlier, and concludes the change caused the improvement without ruling out any alternative explanations, the same specific post hoc flaw as the original. Choice A is wrong because this argument extrapolates from a cross-sectional correlation across different shops to a causal claim, a different structure from the original's single-entity, before-and-after comparison. Choice C is wrong because this argument's flaw involves treating a change in self-reported complaints, a proxy measure, as equivalent to an actual change in satisfaction, a flaw not present in the original, which is based on a directly measured, objective outcome. Choice D is wrong because this argument explicitly acknowledges a second simultaneous change, the newly hired mechanic, and then misattributes the effect to only one of the two changes, a more specific flaw than the original's failure to consider any alternative explanation at all. Choice E is wrong because this argument generalizes from a correlation observed across subgroups into a universal prescription, a different structure from the original's single before-and-after causal inference.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-025",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Analogical reasoning",
+      "category": "Assumption",
+      "prompt": "A city argues that increasing the cleaning and water-cycling frequency at its public splash pad from once every two hours to once per hour during peak summer months will significantly increase overall attendance. They cite the experience of a comparable city's public splash pad, which increased its cleaning frequency in the same way and saw attendance increase by 30 percent within one year.\n\nQuestion:\nThe argument depends on which of the following assumptions?",
+      "choices": {
+        "A": "No factors specific to the comparable city's splash pad, and absent from this city's splash pad, were primarily responsible for the increase in attendance there.",
+        "B": "The comparable city's splash pad has more water features than this city's splash pad.",
+        "C": "Residents of this city are less interested in outdoor recreation than residents of the comparable city.",
+        "D": "This city's splash pad charges identical admission prices to the comparable city's splash pad.",
+        "E": "The comparable city's splash pad spent more on cleaning equipment than this city's splash pad is expected to spend."
+      },
+      "correct": "A",
+      "correctAnswerText": "No factors specific to the comparable city's splash pad, and absent from this city's splash pad, were primarily responsible for the increase in attendance there.",
+      "explanation": "Choice A is necessary: by the negation test, if factors unique to the comparable city's splash pad were actually responsible for its attendance increase, the inference that increasing cleaning frequency here will produce similar results would be undermined. Choice B is wrong because relative number of water features is not required for the comparison to support the conclusion. Choice C is wrong because relative interest levels between cities' residents are not required for the argument's inference to hold. Choice D is wrong because this is far stronger than necessary; the argument requires only that no relevant disanalogy undermines the comparison, not identical admission prices. Choice E is wrong because relative equipment spending is irrelevant to whether attendance will increase similarly.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-14-026",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Deductive reasoning",
+      "category": "Inference",
+      "prompt": "A regional theater consortium authorizes a rigging technician to serve as lead rigger on a production only if the technician has completed the consortium's advanced rigging safety course and has logged at least twenty supervised rigging installations. Technician Alvarado was authorized to serve as lead rigger on a production last month.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "Alvarado completed the consortium's advanced rigging safety course and logged at least twenty supervised rigging installations.",
+        "B": "Alvarado has worked in theater production for more than ten years.",
+        "C": "Alvarado's most recent supervised installation involved an automated fly system.",
+        "D": "The consortium has authorized other technicians to serve as lead rigger this year.",
+        "E": "Alvarado will serve as lead rigger on future productions."
+      },
+      "correct": "A",
+      "correctAnswerText": "Alvarado completed the consortium's advanced rigging safety course and logged at least twenty supervised rigging installations.",
+      "explanation": "Choice A follows validly: since authorization requires both completing the advanced rigging safety course and logging at least twenty supervised installations, and Alvarado was authorized, both conditions must have been satisfied. Choice B is unsupported because the passage does not specify how long Alvarado has worked in theater production. Choice C is unsupported because the passage does not address the nature of Alvarado's most recent installation. Choice D is unsupported because the passage describes only this specific authorization, with no information about other technicians. Choice E is unsupported because the passage does not indicate anything about future productions.",
+      "credits": 1
+    }
+  ]
+}

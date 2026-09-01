@@ -1,0 +1,526 @@
+{
+  "title": "LSAT Logical Reasoning Section 1 Practice Exam 06",
+  "section": "logical_reasoning_1",
+  "questions": [
+    {
+      "id": "LSAT-LR1-06-001",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A county government argues that requiring all electronics retailers to provide free in-store e-waste drop-off bins will substantially reduce the amount of electronic waste sent to county landfills, since surveys show that the primary reason residents cite for discarding old electronics in regular trash rather than recycling them is the inconvenience of finding a recycling location.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "Residents who cite inconvenience as their reason for not recycling electronics will regard in-store drop-off bins at electronics retailers as sufficiently convenient to change their disposal behavior.",
+        "B": "Electronics retailers will be reimbursed by the county for managing the drop-off bins.",
+        "C": "Most residents purchase new electronics from large retailers rather than small businesses.",
+        "D": "Electronic waste contains materials that can be recycled profitably.",
+        "E": "Other counties have implemented similar e-waste programs."
+      },
+      "correct": "A",
+      "correctAnswerText": "Residents who cite inconvenience as their reason for not recycling electronics will regard in-store drop-off bins at electronics retailers as sufficiently convenient to change their disposal behavior.",
+      "explanation": "Choice A is necessary: applying the negation test, if residents would not regard the in-store bins as sufficiently convenient, requiring them would not be expected to substantially change disposal behavior, defeating the conclusion. Choice B is wrong because reimbursement arrangements are irrelevant to whether the bins would change resident behavior. Choice C is wrong because where residents purchase electronics is irrelevant to whether they will use drop-off bins to dispose of old ones. Choice D is wrong because the profitability of recycling materials is irrelevant to the conclusion about landfill waste reduction. Choice E is wrong because other counties' programs have no bearing on whether this program will work here.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-002",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A logistics company began using freight drones to transport small packages between two of its regional distribution warehouses, replacing some truck transport. In the six months since, the average time between order processing and package arrival at the destination warehouse has decreased by 30 percent. Company analysts concluded that the switch to drone transport caused the decrease in transport time.\n\nQuestion:\nWhich of the following, if true, would most strengthen the analysts' conclusion?",
+      "choices": {
+        "A": "During the same six months, the company made no other changes to its warehouse staffing, order processing software, or truck routing between the two facilities.",
+        "B": "Freight drones can carry packages weighing up to 50 pounds.",
+        "C": "The two warehouses are located approximately 40 miles apart.",
+        "D": "Company employees received training on operating the freight drones.",
+        "E": "Other logistics companies have also begun testing freight drones."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same six months, the company made no other changes to its warehouse staffing, order processing software, or truck routing between the two facilities.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as staffing, software, or routing changes, for the decrease in transport time, supporting attribution to the drone switch specifically. Choice B is wrong because drone carrying capacity is irrelevant to the causal claim about transport time. Choice C is wrong because the distance between warehouses is background information, not evidence bearing on causation. Choice D is wrong because employee training is irrelevant to whether the drones caused the time decrease. Choice E is wrong because other companies' unrelated testing has no bearing on this company's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-003",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "A city passed an ordinance restricting construction noise to daytime hours only, citing homeowner complaints. In the two years since the ordinance took effect, average home sale prices in neighborhoods near active construction sites have increased by 8 percent. City council members concluded that the noise ordinance caused the increase in nearby home values.\n\nQuestion:\nWhich of the following, if true, most weakens the council members' conclusion?",
+      "choices": {
+        "A": "During the same two years, the city completed a new light rail extension with several stations near these neighborhoods, and citywide home prices in areas near new transit stations rose by a comparable amount.",
+        "B": "Some residents continued to file noise complaints even after the ordinance took effect.",
+        "C": "Construction companies were required to post the ordinance's hours at job sites.",
+        "D": "The ordinance applies to both residential and commercial construction projects.",
+        "E": "Home sale prices are recorded by the county assessor's office."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same two years, the city completed a new light rail extension with several stations near these neighborhoods, and citywide home prices in areas near new transit stations rose by a comparable amount.",
+      "explanation": "Choice A weakens the conclusion by identifying an alternative, sufficient explanation, proximity to new transit stations, for the increase in home values, undermining the attribution to the noise ordinance specifically. Choice B is wrong because continued complaints do not address the causal question about home values. Choice C is wrong because posting requirements are irrelevant to what caused the price increase. Choice D is wrong because the ordinance's scope of applicability doesn't provide an alternative explanation for the observed change. Choice E is wrong because who records the sale prices is irrelevant to the causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-004",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Statistical reasoning",
+      "category": "Flaw",
+      "prompt": "A cheese producer examined 150 wheels of its aged cheddar that received a top rating from a national cheese competition and found that 90 percent of them had been aged for at least 18 months. The producer concluded that aging cheddar for at least 18 months is a key factor in producing award-winning cheese.\n\nQuestion:\nThe producer's reasoning is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "fails to consider wheels of cheddar aged for at least 18 months that did not receive a top rating, or wheels aged less than 18 months that did, which would be necessary to establish that aging duration is actually correlated with award-winning quality",
+        "B": "fails to define what qualifies as a \"top rating\" in the competition",
+        "C": "assumes that all 150 wheels examined were produced using the same recipe",
+        "D": "presumes that the competition judges are impartial",
+        "E": "overlooks the possibility that some wheels were aged for longer than 18 months"
+      },
+      "correct": "A",
+      "correctAnswerText": "fails to consider wheels of cheddar aged for at least 18 months that did not receive a top rating, or wheels aged less than 18 months that did, which would be necessary to establish that aging duration is actually correlated with award-winning quality",
+      "explanation": "Choice A correctly identifies the flaw: the producer examines only wheels that already received a top rating, without any comparison to non-award-winning wheels of similar or different aging duration, so no actual correlation between aging duration and award-winning quality has been established. Choice B is wrong because an undefined rating threshold is not the argument's central structural flaw. Choice C is wrong because recipe uniformity is not shown to be relevant to the flaw being tested. Choice D is wrong because judge impartiality is irrelevant to the logical gap in the argument. Choice E is wrong because wheels aged longer than 18 months are not the source of the specific missing-comparison flaw.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-005",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Conditional logic",
+      "category": "Inference",
+      "prompt": "A municipal fleet safety board certifies an autonomous garbage collection truck model only if it passes both a pedestrian-detection test and a reverse-collision-avoidance test. Truck model J passed the pedestrian-detection test but was not certified by the board.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "Truck model J did not pass the reverse-collision-avoidance test.",
+        "B": "Truck model J will never be certified by the board.",
+        "C": "The reverse-collision-avoidance test is more difficult to pass than the pedestrian-detection test.",
+        "D": "Other truck models have been certified by the board.",
+        "E": "The board's certification standards are the strictest in the industry."
+      },
+      "correct": "A",
+      "correctAnswerText": "Truck model J did not pass the reverse-collision-avoidance test.",
+      "explanation": "Choice A follows validly: certification requires passing both tests, and since model J was not certified despite passing the pedestrian-detection test, it must have failed the reverse-collision-avoidance test. Choice B is unsupported because the passage describes the current situation, not a permanent outcome; nothing rules out future retesting and certification. Choice C is unsupported because the relative difficulty of the two tests is not addressed by the passage. Choice D is unsupported because no information about other truck models is given. Choice E is unsupported because no comparison to other safety boards is provided.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-006",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argumentative strategy",
+      "category": "Method of Reasoning",
+      "prompt": "Shareholder advocate: Corporations should be discouraged from using excess profits to repurchase their own stock, since this practice primarily benefits existing shareholders and executives holding stock options rather than funding long-term investments like research or employee wages. Corporate finance representative responds that companies conducting buybacks often simultaneously increase research spending, citing several large firms that did both last year. The advocate replies that this response conflates correlation with the buyback decision itself, since the representative's own examples are firms that had unusually strong profit growth that year, which independently allowed for both higher research spending and buybacks, meaning the buybacks and research increases likely share a common cause rather than one enabling the other.\n\nQuestion:\nThe advocate's reply to the representative proceeds by",
+      "choices": {
+        "A": "arguing that the representative's examples reflect a common underlying cause for both outcomes, rather than one outcome enabling the other",
+        "B": "presenting data showing that stock buybacks have declined industry-wide",
+        "C": "arguing that the representative's firms have a financial conflict of interest",
+        "D": "questioning whether the representative accurately identified which firms conducted buybacks",
+        "E": "proposing a legal restriction on how corporations may use profits"
+      },
+      "correct": "A",
+      "correctAnswerText": "arguing that the representative's examples reflect a common underlying cause for both outcomes, rather than one outcome enabling the other",
+      "explanation": "Choice A accurately describes the method: the advocate identifies that unusually strong profit growth independently enabled both buybacks and research spending in the cited firms, so the co-occurrence reflects a shared cause rather than buybacks funding research. Choice B is wrong because no data about industry-wide buyback trends is presented. Choice C is wrong because no discussion of the cited firms' financial conflicts of interest occurs. Choice D is wrong because the advocate does not dispute which firms conducted buybacks, only the causal interpretation of that fact. Choice E is wrong because no legal restriction is proposed in the reply.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-007",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Conditional logic",
+      "category": "Parallel Reasoning",
+      "prompt": "A runner cannot enter the elite marathon field unless she has completed a certified marathon in under 2 hours and 40 minutes within the past year. Runner Osei has not completed a certified marathon in under 2 hours and 40 minutes within the past year. Therefore, Osei cannot enter the elite marathon field.\n\nQuestion:\nWhich of the following arguments is most similar in its logical structure to the argument above?",
+      "choices": {
+        "A": "A student cannot enroll in the advanced seminar unless she has completed the prerequisite course with a grade of B or higher. This student has not completed the prerequisite course with a grade of B or higher. Therefore, she cannot enroll in the advanced seminar.",
+        "B": "A vessel cannot receive a seaworthiness certificate unless it passes a hull inspection. This vessel passed a hull inspection. Therefore, it will receive a seaworthiness certificate.",
+        "C": "A chef cannot compete in the finals unless she wins her regional qualifying round. This chef won her regional qualifying round. Therefore, she will compete in the finals.",
+        "D": "An applicant cannot receive the scholarship unless her essay scores above 90 points. This applicant's essay scored above 90 points. Therefore, she will receive the scholarship.",
+        "E": "A pilot cannot fly the aircraft unless she holds a current medical certificate. This pilot did not fly the aircraft. Therefore, she does not hold a current medical certificate."
+      },
+      "correct": "A",
+      "correctAnswerText": "A student cannot enroll in the advanced seminar unless she has completed the prerequisite course with a grade of B or higher. This student has not completed the prerequisite course with a grade of B or higher. Therefore, she cannot enroll in the advanced seminar.",
+      "explanation": "Choice A matches the original's structure: the necessary condition, completing the prerequisite with a B or higher, is denied, so the argument validly concludes the main claim, enrolling in the seminar, is also false, mirroring the original's valid modus tollens pattern. Choice B is wrong because it affirms that the necessary condition, the hull inspection, was met and invalidly concludes the vessel will receive certification, reversing the valid direction of inference. Choice C is wrong because it commits the same invalid pattern, affirming a necessary condition, winning the qualifying round, and treating it as sufficient to guarantee the outcome. Choice D is wrong because it again affirms that a necessary condition, the essay score, was met and treats it as guaranteeing the conclusion. Choice E is wrong because it denies the main claim and invalidly infers that the necessary condition is also false, a distinct fallacy, denying the antecedent, not found in the original argument.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-008",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Main point identification",
+      "category": "Main Point",
+      "prompt": "Museum directors sometimes sell, or \"de-accession,\" works from their permanent collections to fund new acquisitions, a practice that critics argue betrays the public trust placed in museums as stewards of cultural heritage held in perpetuity for future generations. Defenders of de-accessioning counter that museum collections are not static archives but working resources meant to serve current curatorial and educational goals, and that selling underused or duplicate works to acquire pieces that better serve those goals is consistent with, rather than a betrayal of, a museum's mission. This suggests that whether a particular de-accessioning decision betrays public trust depends not on the act of selling itself but on whether the proceeds are used to genuinely advance the museum's curatorial mission.\n\nQuestion:\nWhich of the following most accurately expresses the main point of the passage?",
+      "choices": {
+        "A": "Whether a particular de-accessioning decision betrays public trust depends not on the act of selling itself but on whether the proceeds are used to genuinely advance the museum's curatorial mission.",
+        "B": "Museums should never sell works from their permanent collections.",
+        "C": "Museum collections should be treated as static archives rather than working resources.",
+        "D": "Critics of de-accessioning have no legitimate concerns about museum practices.",
+        "E": "All museums currently use de-accessioning proceeds to fund new acquisitions."
+      },
+      "correct": "A",
+      "correctAnswerText": "Whether a particular de-accessioning decision betrays public trust depends not on the act of selling itself but on whether the proceeds are used to genuinely advance the museum's curatorial mission.",
+      "explanation": "Choice A restates the passage's central claim, matching its concluding sentence: the propriety of de-accessioning turns on how proceeds are used, not on the act of selling itself. Choice B is wrong because the passage does not argue museums should never sell works; it argues the practice can be consistent with a museum's mission under certain conditions. Choice C is wrong because this is the position the passage attributes to critics, which the defenders' view, and the passage's own conclusion, moves beyond. Choice D is wrong because the passage does not dismiss critics' concerns entirely; it reframes when those concerns are warranted. Choice E is wrong because no such universal claim about all museums' current practices is made.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-009",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Resolve the Paradox",
+      "prompt": "A software company launched a bug bounty program, paying independent security researchers for reporting previously unknown vulnerabilities in its products. In the two years since the program began, the number of vulnerabilities reported to the company has increased substantially, even though the company's internal security audits indicate that the overall number of vulnerabilities present in its software has decreased over the same period.\n\nQuestion:\nWhich of the following, if true, most helps to explain the discrepancy described above?",
+      "choices": {
+        "A": "The financial incentive offered by the bounty program has led many security researchers to actively search for and report vulnerabilities that they previously would have found but left unreported, or would not have searched for at all.",
+        "B": "The bug bounty program pays researchers based on the severity of the vulnerability reported.",
+        "C": "The company's software is used by millions of people worldwide.",
+        "D": "Security researchers who participate in the program must agree to a code of conduct.",
+        "E": "The company's internal security team has grown in size over the past two years."
+      },
+      "correct": "A",
+      "correctAnswerText": "The financial incentive offered by the bounty program has led many security researchers to actively search for and report vulnerabilities that they previously would have found but left unreported, or would not have searched for at all.",
+      "explanation": "Choice A resolves the paradox: increased reporting can result from a financial incentive drawing out previously unreported or undiscovered vulnerabilities, without any change in, or even alongside a genuine decrease in, the actual number of vulnerabilities present. Choice B is wrong because the payment structure based on severity does not explain the discrepancy between reported and actual vulnerability counts. Choice C is wrong because the size of the user base is irrelevant to explaining the discrepancy. Choice D is wrong because a code of conduct requirement does not explain why reports increased while actual vulnerabilities decreased. Choice E is wrong because internal team growth does not explain the increase in externally reported vulnerabilities.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-010",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "An agricultural technology company argues that converting a portion of a region's traditional field-based lettuce production to indoor vertical farming will significantly reduce the region's total water usage for lettuce cultivation, since vertical farming systems recycle water through closed-loop irrigation, using a fraction of the water per pound of lettuce that field-based irrigation requires.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "The total water consumed by vertical farming operations, including water used for purposes beyond irrigation such as climate control and system maintenance, does not offset the water savings achieved through closed-loop irrigation.",
+        "B": "Vertical farming requires less land area than field-based farming.",
+        "C": "Lettuce grown through vertical farming tastes the same as field-grown lettuce.",
+        "D": "Most consumers cannot distinguish between vertically farmed and field-grown lettuce.",
+        "E": "Vertical farming facilities can operate year-round regardless of season."
+      },
+      "correct": "A",
+      "correctAnswerText": "The total water consumed by vertical farming operations, including water used for purposes beyond irrigation such as climate control and system maintenance, does not offset the water savings achieved through closed-loop irrigation.",
+      "explanation": "Choice A is necessary: by the negation test, if water used for climate control and maintenance offset the irrigation savings, total water usage might not actually decrease, undermining the conclusion. Choice B is wrong because land area requirements are irrelevant to the water usage conclusion. Choice C is wrong because taste comparisons are irrelevant to the water usage claim. Choice D is wrong because consumer perception is irrelevant to the water usage conclusion. Choice E is wrong because year-round operation capability is irrelevant to whether total water usage decreases.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-011",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A state transportation department began using autonomous snowplows on a stretch of mountain highway prone to whiteout conditions. In the two winters since deployment, the number of snowplow-related accidents on that highway segment has decreased by 60 percent compared with the two winters before deployment. Department officials concluded that the autonomous snowplows caused the decrease in accidents.\n\nQuestion:\nWhich of the following, if true, would most strengthen the officials' conclusion?",
+      "choices": {
+        "A": "During the same two winters, the department made no other changes to the highway's guardrails, speed limits, or winter maintenance staffing, and regional snowfall levels were similar to the two previous winters.",
+        "B": "Autonomous snowplows use sensors to detect road conditions in real time.",
+        "C": "The highway segment is located at a high elevation.",
+        "D": "Autonomous snowplows cost more to purchase than conventional snowplows.",
+        "E": "Other states have expressed interest in autonomous snowplow technology."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same two winters, the department made no other changes to the highway's guardrails, speed limits, or winter maintenance staffing, and regional snowfall levels were similar to the two previous winters.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as guardrail, speed limit, staffing, or weather changes, for the decrease in accidents, supporting attribution to the autonomous snowplows specifically. Choice B is wrong because describing the sensor mechanism does not provide evidence ruling out alternative causes. Choice C is wrong because elevation is background information, not evidence bearing on causation. Choice D is wrong because relative cost is irrelevant to the causal claim. Choice E is wrong because other states' interest has no bearing on this highway's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-012",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "A technology company stopped requiring new employees to sign non-compete agreements, which had previously restricted employees from working for competitors for one year after leaving the company. In the year since the policy change, the company's voluntary employee turnover rate has decreased by 12 percent. Company executives concluded that eliminating non-compete agreements caused the decrease in turnover.\n\nQuestion:\nWhich of the following, if true, most weakens the executives' conclusion?",
+      "choices": {
+        "A": "During the same year, the company also implemented significant salary increases and expanded remote work flexibility for all employees, independent of the change in non-compete policy.",
+        "B": "Non-compete agreements have been challenged in court in several states.",
+        "C": "The company employs workers in multiple technical roles.",
+        "D": "Employees who left the company before the policy change cited various reasons for leaving.",
+        "E": "Competing companies in the industry still require non-compete agreements."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same year, the company also implemented significant salary increases and expanded remote work flexibility for all employees, independent of the change in non-compete policy.",
+      "explanation": "Choice A weakens the conclusion by identifying alternative, sufficient explanations, salary increases and expanded remote work flexibility, for the decrease in turnover, undermining the attribution to the non-compete policy change specifically. Choice B is wrong because legal challenges elsewhere are irrelevant to what caused this company's own turnover decrease. Choice C is wrong because the range of technical roles is irrelevant to the causal claim. Choice D is wrong because reasons employees left before the change do not address what caused the subsequent decrease. Choice E is wrong because competitors' policies have no bearing on this company's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-013",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Ambiguity and equivocation",
+      "category": "Flaw",
+      "prompt": "A home seller's disclosure form requires sellers to report any \"material defects\" they are aware of. Since the seller never received a written report from a licensed inspector identifying the foundation crack as a defect, the seller was not aware of any material defect and therefore did not violate the disclosure requirement by failing to mention the crack.\n\nQuestion:\nThe reasoning above is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "treats the absence of a formal written inspection report identifying a defect as equivalent to the seller's lack of awareness of that defect, when a seller could become aware of a defect through personal observation without any formal report ever being generated",
+        "B": "fails to specify how the term \"material defect\" is defined in the disclosure form",
+        "C": "assumes that all foundation cracks are material defects",
+        "D": "presumes that licensed inspectors are always accurate in their assessments",
+        "E": "fails to consider whether the buyer conducted an independent inspection"
+      },
+      "correct": "A",
+      "correctAnswerText": "treats the absence of a formal written inspection report identifying a defect as equivalent to the seller's lack of awareness of that defect, when a seller could become aware of a defect through personal observation without any formal report ever being generated",
+      "explanation": "Choice A correctly identifies the flaw: the absence of a written inspection report does not establish that the seller lacked awareness of the crack, since a seller could easily notice a foundation crack through ordinary personal observation, independent of any formal report. Choice B is wrong because the argument's flaw lies in equating lack of a report with lack of awareness, not in the definition of \"material defect\" itself. Choice C is wrong because the argument does not depend on all foundation cracks being material defects; the flaw concerns the awareness inference regardless of that classification. Choice D is wrong because inspector accuracy is irrelevant to the specific inferential gap being tested. Choice E is wrong because whether the buyer conducted an independent inspection has no bearing on the seller's own awareness.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-014",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Disagreement identification",
+      "category": "Point at Issue",
+      "prompt": "Planner A: The city should relax its building height restrictions downtown, since taller buildings would allow more housing units to be built on the same amount of land, helping address the current housing shortage without requiring the city to annex additional land.\nPlanner B: Relaxing height restrictions would not meaningfully address the housing shortage, because most of the housing units built in taller downtown buildings in comparable cities have been luxury units priced well above what would help residents currently struggling to find affordable housing.\n\nQuestion:\nOn the basis of their statements, Planner A and Planner B are committed to disagreeing about which of the following?",
+      "choices": {
+        "A": "Whether relaxing height restrictions would meaningfully address the current housing shortage for residents struggling to find affordable housing",
+        "B": "Whether the city currently has a housing shortage",
+        "C": "Whether taller buildings can be built on the same amount of land as shorter buildings",
+        "D": "Whether comparable cities have relaxed their own height restrictions",
+        "E": "Whether the city should annex additional land"
+      },
+      "correct": "A",
+      "correctAnswerText": "Whether relaxing height restrictions would meaningfully address the current housing shortage for residents struggling to find affordable housing",
+      "explanation": "Choice A is the crux of their disagreement: Planner A argues relaxing restrictions would help address the shortage, while Planner B argues the resulting units would primarily be luxury housing that would not meaningfully help struggling residents. Choice B is wrong because both planners accept that a housing shortage currently exists; this is common ground. Choice C is wrong because this physical claim is not disputed by either planner. Choice D is wrong because Planner A does not address what comparable cities have done with their own restrictions; only Planner B raises this. Choice E is wrong because neither planner's dispute centers on whether the city should annex land; Planner A mentions avoiding annexation as a benefit, but this is not the point of disagreement.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-015",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Principle application",
+      "category": "Principle",
+      "prompt": "Principle: A veterinarian should not recommend a costly elective medical procedure for an animal unless the procedure is likely to meaningfully improve the animal's quality of life or life expectancy, beyond what less costly alternatives would achieve.\n\nQuestion:\nWhich of the following judgments most closely conforms to the principle above?",
+      "choices": {
+        "A": "A veterinarian does not recommend a costly surgical procedure for a dog's minor ligament strain, since a less costly course of rest and physical therapy is expected to achieve a comparable improvement in the dog's mobility.",
+        "B": "A veterinarian recommends a costly surgical procedure for a cat's minor dental issue, even though a less costly cleaning procedure is expected to achieve a comparable improvement in the cat's dental health.",
+        "C": "A veterinarian recommends a costly specialized diet supplement for a rabbit's mild digestive upset, even though a less costly standard treatment is expected to achieve a comparable improvement in the rabbit's digestion.",
+        "D": "A veterinarian recommends a costly cosmetic procedure for a horse with no functional impairment, even though the procedure is not expected to improve the horse's quality of life or life expectancy beyond its current state.",
+        "E": "A veterinarian recommends a costly experimental therapy for a bird's minor feather condition, even though a less costly standard treatment is expected to achieve a comparable improvement in the bird's condition."
+      },
+      "correct": "A",
+      "correctAnswerText": "A veterinarian does not recommend a costly surgical procedure for a dog's minor ligament strain, since a less costly course of rest and physical therapy is expected to achieve a comparable improvement in the dog's mobility.",
+      "explanation": "Choice A conforms because a less costly alternative achieves a comparable outcome, and the veterinarian appropriately declines to recommend the costlier procedure. Choice B violates the principle because the costly procedure is recommended despite a less costly alternative achieving a comparable outcome. Choice C violates the principle for the same reason: a comparably effective, less costly alternative exists, yet the costly option is recommended. Choice D violates the principle because the procedure is recommended even though it is not expected to meaningfully improve quality of life or life expectancy at all. Choice E violates the principle because a comparably effective, less costly alternative exists, yet the costly option is recommended.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-016",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Deductive reasoning",
+      "category": "Inference",
+      "prompt": "If a city enforces street-sweeping parking restrictions strictly, illegally parked cars are towed within one hour of the posted sweeping time on average. Oakview has enforced its street-sweeping parking restrictions strictly for the past eight years, yet illegally parked cars in Oakview are towed, on average, only after four hours.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "The general relationship described between strict enforcement of street-sweeping restrictions and towing time does not hold without exception in Oakview.",
+        "B": "Oakview does not actually enforce its street-sweeping restrictions strictly.",
+        "C": "Oakview's towing time will eventually decrease to one hour.",
+        "D": "Other cities that enforce street-sweeping restrictions strictly have longer towing times than Oakview.",
+        "E": "Oakview's tow truck fleet is smaller than those of other cities."
+      },
+      "correct": "A",
+      "correctAnswerText": "The general relationship described between strict enforcement of street-sweeping restrictions and towing time does not hold without exception in Oakview.",
+      "explanation": "Choice A must be true: since the stated conditions for the general rule were met in Oakview, yet the predicted towing time did not hold, the relationship as generally described admits at least one exception there. Choice B contradicts the passage, which states that Oakview has enforced the restrictions strictly for eight years. Choice C is unsupported speculation, since the passage gives no basis for predicting future towing times, especially given the already-observed exception. Choice D is unsupported because the passage provides no data about other cities. Choice E is unsupported overreach, since the passage does not establish a comparative ranking of tow truck fleet sizes.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-017",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Evaluating evidence",
+      "category": "Evaluate",
+      "prompt": "A nonprofit organization is considering expanding its community fridge program, which places free, publicly accessible refrigerators stocked with donated food in a few neighborhoods, to ten additional neighborhoods, citing a pilot analysis showing that neighborhoods with community fridges reported a decrease in reported food insecurity compared with neighborhoods without them. Organization leaders project that expanding the program will meaningfully reduce food insecurity citywide.\n\nQuestion:\nIn evaluating the organization leaders' projection, it would be most useful to know which of the following?",
+      "choices": {
+        "A": "Whether the pilot neighborhoods' community fridges remained consistently stocked with food throughout the pilot period",
+        "B": "How much the community fridges cost to purchase and install",
+        "C": "Whether the pilot neighborhoods are located in urban or suburban areas",
+        "D": "How many volunteers currently help maintain the community fridges",
+        "E": "Whether other nonprofit organizations operate similar programs in other cities"
+      },
+      "correct": "A",
+      "correctAnswerText": "Whether the pilot neighborhoods' community fridges remained consistently stocked with food throughout the pilot period",
+      "explanation": "Choice A is most useful because the projected citywide benefit depends on the fridges reliably providing food, something the pilot's outcome data alone doesn't confirm; if pilot fridges were inconsistently stocked, the observed decrease in food insecurity might not reflect the fridges' full intended function, and consistent stocking may be harder to sustain across ten new neighborhoods. Choice B is wrong because cost bears on feasibility, not on whether the program would reduce food insecurity. Choice C is wrong because urban versus suburban location is a secondary consideration relative to the untested stocking-reliability question. Choice D is wrong because current volunteer counts are a secondary detail less central than whether stocking was actually reliable. Choice E is wrong because other organizations' programs elsewhere do not address whether this city's own expansion will reduce food insecurity.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-018",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argument structure",
+      "category": "Argument Structure",
+      "prompt": "Some marine biologists argue that ocean acidification, caused by increased absorption of atmospheric carbon dioxide, poses a severe threat to commercial shellfish populations, since acidification impairs the ability of larval shellfish to form protective shells. Industry representatives respond that shellfish farms in several regions have maintained stable harvest yields despite measurable increases in local water acidity, suggesting the threat may be overstated. However, closer examination reveals that the farms cited by industry representatives have adopted water buffering techniques, which artificially raise the pH of water within their farming enclosures, techniques not available to wild shellfish populations outside such controlled environments. This suggests that stable yields at buffered farms do not indicate that acidification poses less of a threat to shellfish generally, particularly wild populations lacking such interventions.\n\nQuestion:\nWhich of the following most accurately describes the role played by the claim that \"shellfish farms in several regions have maintained stable harvest yields despite measurable increases in local water acidity\"?",
+      "choices": {
+        "A": "It is an objection raised against the marine biologists' position, which the argument then qualifies by identifying a relevant difference between buffered farms and wild populations.",
+        "B": "It is the main conclusion the passage seeks to establish.",
+        "C": "It is evidence directly supporting the claim that acidification poses a severe threat to shellfish.",
+        "D": "It is an assumption the marine biologists rely on without providing supporting evidence.",
+        "E": "It is a claim the passage shows to be entirely false."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is an objection raised against the marine biologists' position, which the argument then qualifies by identifying a relevant difference between buffered farms and wild populations.",
+      "explanation": "Choice A accurately captures the role: this claim is introduced as industry representatives' objection to the biologists' position, which the passage then qualifies by explaining that buffered farms are not representative of wild, unbuffered populations. Choice B is wrong because the passage's main point is that stable yields at buffered farms do not undermine the acidification threat to shellfish generally, not this specific claim about stable yields. Choice C is wrong because this claim actually cuts against, not supports, the case that acidification poses a severe threat. Choice D is wrong because the claim is attributed to industry representatives responding to the biologists, not treated as an assumption of the biologists' own argument. Choice E is wrong because the passage does not show the claim entirely false; it acknowledges the stable yields while explaining why they do not generalize to wild populations.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-019",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Necessary vs. sufficient conditions",
+      "category": "Assumption",
+      "prompt": "A regional transit authority argues that extending its light rail line by ten miles into a growing suburban area will significantly increase overall system ridership, since a recent survey found that a majority of suburban residents in that area said they would use light rail for their daily commute if a station were within walking distance of their home.\n\nQuestion:\nWhich of the following is an assumption required by the argument?",
+      "choices": {
+        "A": "A majority of the suburban residents who said they would use light rail for their daily commute will actually do so once a station is built within walking distance of their home.",
+        "B": "The light rail extension will cost less than building additional highway lanes.",
+        "C": "Most suburban residents in the area currently commute by car.",
+        "D": "The transit authority has successfully completed light rail extensions in the past.",
+        "E": "Suburban residents in the area have higher average incomes than urban residents."
+      },
+      "correct": "A",
+      "correctAnswerText": "A majority of the suburban residents who said they would use light rail for their daily commute will actually do so once a station is built within walking distance of their home.",
+      "explanation": "Choice A is necessary: by the negation test, if the surveyed residents' stated intentions did not translate into actual ridership behavior, the conclusion that ridership will significantly increase would fail. Choice B is wrong because relative construction costs are irrelevant to the ridership conclusion. Choice C is wrong because current commute methods are not required to be known for the argument's inference to hold. Choice D is wrong because past project completion is irrelevant to whether this specific extension will increase ridership. Choice E is wrong because relative income levels are irrelevant to the ridership conclusion.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-020",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Strengthen",
+      "prompt": "A city required all dockless rental bicycle companies to park bikes only within designated painted corrals on sidewalks, rather than allowing bikes to be left anywhere. In the six months since the requirement took effect, the number of pedestrian complaints about sidewalk obstructions has decreased by 40 percent. City officials concluded that the corral requirement caused the decrease in complaints.\n\nQuestion:\nWhich of the following, if true, would most strengthen the officials' conclusion?",
+      "choices": {
+        "A": "During the same six months, the city made no other changes to sidewalk width, pedestrian signage, or bicycle rental company operations in the area.",
+        "B": "Dockless bicycle companies charge a small fee for each rental.",
+        "C": "The painted corrals are marked with bright yellow paint.",
+        "D": "The city has multiple dockless bicycle rental companies operating within its limits.",
+        "E": "Other cities have considered similar corral requirements."
+      },
+      "correct": "A",
+      "correctAnswerText": "During the same six months, the city made no other changes to sidewalk width, pedestrian signage, or bicycle rental company operations in the area.",
+      "explanation": "Choice A strengthens the conclusion by ruling out alternative explanations, such as sidewalk, signage, or operational changes, for the decrease in complaints, supporting attribution to the corral requirement specifically. Choice B is wrong because rental fees are irrelevant to the causal claim about complaints. Choice C is wrong because paint color is irrelevant to whether the requirement caused the decrease. Choice D is wrong because the number of companies operating is irrelevant to the causal claim. Choice E is wrong because other cities' considerations have no bearing on this city's own causal claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-021",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Causal reasoning",
+      "category": "Weaken",
+      "prompt": "A corporation began purchasing carbon offset credits, which fund projects such as tree planting intended to counterbalance the corporation's own greenhouse gas emissions. After one year of purchasing these credits, the corporation announced that its net carbon footprint had decreased by 25 percent as a result of the offset purchases.\n\nQuestion:\nWhich of the following, if true, most weakens the corporation's claim?",
+      "choices": {
+        "A": "A substantial share of the offset credits purchased by the corporation came from forest preservation projects that would have preserved the same forests even without the corporation's purchase, since the land was already protected by existing conservation easements.",
+        "B": "The corporation's total greenhouse gas emissions from its own operations increased slightly during the same year.",
+        "C": "Carbon offset credits are traded on a regulated marketplace.",
+        "D": "The corporation's carbon offset purchases were reviewed by a third-party certification body.",
+        "E": "Tree planting is one of several methods used to generate carbon offset credits."
+      },
+      "correct": "A",
+      "correctAnswerText": "A substantial share of the offset credits purchased by the corporation came from forest preservation projects that would have preserved the same forests even without the corporation's purchase, since the land was already protected by existing conservation easements.",
+      "explanation": "Choice A weakens the claim by showing that a substantial share of the purchased credits represent no genuine additional carbon benefit, since the underlying preservation would have occurred regardless of the purchase, undermining the claim that the purchases themselves produced a real 25 percent reduction. Choice B is wrong because an increase in the corporation's own emissions is mathematically consistent with a net decrease driven by sufficiently large offsets, so it does not directly undermine the specific claim about the offsets' effect. Choice C is wrong because how credits are traded is irrelevant to whether they represent genuine emissions reductions. Choice D is wrong because third-party review, if anything, supports rather than undermines the credibility of the claim. Choice E is wrong because the range of methods used to generate credits generally is irrelevant to evaluating this specific claim.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-022",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Ambiguity and equivocation",
+      "category": "Flaw",
+      "prompt": "An escape room company defines \"expert-level\" difficulty as a room with an escape rate below 20 percent among experienced escape-room groups, meaning groups that have successfully completed at least five other escape rooms previously. One of the company's rooms had an overall escape rate of 15 percent last year across all groups that attempted it. The company classified the room as expert-level based on this figure.\n\nQuestion:\nThe reasoning above is most vulnerable to criticism on the grounds that it",
+      "choices": {
+        "A": "treats the escape rate among all groups that attempted the room as equivalent to the escape rate specifically among experienced groups, when the company's own definition of expert-level applies only to the latter, narrower category",
+        "B": "fails to specify how many groups attempted the room last year",
+        "C": "assumes that all groups attempted the room under identical conditions",
+        "D": "presumes that escape room difficulty is the primary factor in customer satisfaction",
+        "E": "fails to consider whether the room's theme is appealing to customers"
+      },
+      "correct": "A",
+      "correctAnswerText": "treats the escape rate among all groups that attempted the room as equivalent to the escape rate specifically among experienced groups, when the company's own definition of expert-level applies only to the latter, narrower category",
+      "explanation": "Choice A correctly identifies the flaw: the company's own definition of expert-level applies specifically to experienced groups, but the classification is based on the escape rate among all groups, which likely includes many inexperienced groups whose lower success rate does not necessarily reflect the room's difficulty for experienced groups. Choice B is wrong because the total number of groups is not the source of the specific definitional mismatch being tested. Choice C is wrong because uniformity of conditions is not the source of the argument's logical gap. Choice D is wrong because customer satisfaction is not addressed by or relevant to the classification argument. Choice E is wrong because theme appeal is irrelevant to whether the difficulty classification is properly justified.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-023",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Argumentative strategy",
+      "category": "Method of Reasoning",
+      "prompt": "Financial aid director: Our university's financial aid formula, which calculates a family's expected contribution primarily based on income, systematically underestimates the financial need of families with significant medical debt, since medical debt reduces a family's actual disposable income without being reflected in the income-based calculation. Budget officer responds that incorporating medical debt into the formula would be impractical, since verifying the amount and legitimacy of medical debt claims would require the university to review sensitive medical records, raising both privacy and administrative concerns. The director replies that this objection assumes verification would require reviewing detailed medical records, but many peer universities already incorporate medical debt into their aid formulas using only a borrower's total reported debt balance from major credit bureaus, without any review of medical records or diagnoses.\n\nQuestion:\nThe director's reply to the budget officer proceeds by",
+      "choices": {
+        "A": "proposing that a less invasive verification method than the one the budget officer assumes is necessary would address the officer's concern",
+        "B": "conceding that reviewing medical records would be necessary but arguing the privacy concerns are overstated",
+        "C": "arguing that the budget officer has no legitimate concern for student privacy",
+        "D": "presenting data showing that few families have significant medical debt",
+        "E": "questioning whether peer universities actually incorporate medical debt into their formulas"
+      },
+      "correct": "A",
+      "correctAnswerText": "proposing that a less invasive verification method than the one the budget officer assumes is necessary would address the officer's concern",
+      "explanation": "Choice A accurately describes the method: the director identifies that the budget officer's objection rests on an assumption about what verification requires, and cites peer universities' use of credit bureau debt balances, a less invasive method, to show the concern can be addressed without reviewing medical records. Choice B is wrong because the director does not concede that reviewing medical records is necessary; the reply disputes that necessity directly. Choice C is wrong because the director does not challenge the legitimacy of the officer's privacy concern, only the assumption about what verification requires. Choice D is wrong because no data about the prevalence of medical debt is presented. Choice E is wrong because the director cites peer universities' practice as an established fact supporting the reply, not as something in question.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-024",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Flawed analogy",
+      "category": "Parallel Flaw",
+      "prompt": "A self-storage facility introduced an online reservation system that allows customers to rent units without visiting the facility in person. In the following quarter, the facility's occupancy rate increased by 10 percent compared to the same quarter the previous year. Facility management concluded that the online reservation system caused the increase in occupancy.\n\nQuestion:\nWhich of the following arguments contains a flaw most similar to the flaw in the argument above?",
+      "choices": {
+        "A": "A study found that self-storage facilities with online reservation systems tend to have higher average customer satisfaction ratings than facilities without such systems. Analysts concluded that adding online reservation systems causes higher satisfaction.",
+        "B": "A car rental company introduced an online booking system that allows customers to reserve vehicles without calling an agent, and the company's vehicle utilization rate increased by 16 percent over the following six months compared to the same period the previous year. The company concluded that the online booking system caused the increase in vehicle utilization.",
+        "C": "A self-storage facility introduced a customer feedback survey, and the number of complaints about the reservation process dropped by 25 percent over the following year. Facility management concluded that customer satisfaction with the reservation process had improved.",
+        "D": "A storage facility introduced online reservations and simultaneously lowered its monthly rental rates, and occupancy increased by 20 percent over the following year. Facility management concluded that the online reservation system alone caused the increase in occupancy.",
+        "E": "A survey found that self-storage customers who use online reservations report higher overall satisfaction than customers who reserve by phone. The facility concluded that all customers should be required to use online reservations to increase their satisfaction."
+      },
+      "correct": "B",
+      "correctAnswerText": "A car rental company introduced an online booking system that allows customers to reserve vehicles without calling an agent, and the company's vehicle utilization rate increased by 16 percent over the following six months compared to the same period the previous year. The company concluded that the online booking system caused the increase in vehicle utilization.",
+      "explanation": "Choice B matches the original's flaw: like the original, it introduces a single change, observes a subsequent improvement in a directly measured, non-proxy outcome relative to the same period a year earlier, and concludes the change caused the improvement without ruling out any alternative explanations, the same specific post hoc flaw as the original. Choice A is wrong because this argument extrapolates from a cross-sectional correlation across different facilities to a causal claim, a different structure from the original's single-entity, before-and-after comparison. Choice C is wrong because this argument's flaw involves treating a change in self-reported complaints, a proxy measure, as equivalent to an actual change in satisfaction, a flaw not present in the original, which is based on a directly measured, objective outcome. Choice D is wrong because this argument explicitly acknowledges a second simultaneous change, the rate reduction, and then misattributes the effect to only one of the two changes, a more specific flaw than the original's failure to consider any alternative explanation at all. Choice E is wrong because this argument generalizes from a correlation observed across subgroups into a universal prescription, a different structure from the original's single before-and-after causal inference.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-025",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Analogical reasoning",
+      "category": "Assumption",
+      "prompt": "A city council argues that expanding the number of late-night liquor permits available for craft cocktail bars in the arts district from five to fifteen will significantly increase evening foot traffic and revenue for other businesses in the district. They cite the experience of a comparable city's arts district, which expanded its own late-night liquor permits for craft cocktail bars by a similar amount and saw evening foot traffic for neighboring businesses increase by 30 percent within eighteen months.\n\nQuestion:\nThe argument depends on which of the following assumptions?",
+      "choices": {
+        "A": "No factors specific to the comparable city's arts district, and absent from this city's arts district, were primarily responsible for the increase in evening foot traffic there.",
+        "B": "The comparable city's arts district has more total businesses than this city's arts district.",
+        "C": "Residents of this city are less interested in nightlife than residents of the comparable city.",
+        "D": "This city's arts district has identical operating hours to the comparable city's arts district.",
+        "E": "The comparable city's permit expansion generated more tax revenue than this city's planned expansion is expected to generate."
+      },
+      "correct": "A",
+      "correctAnswerText": "No factors specific to the comparable city's arts district, and absent from this city's arts district, were primarily responsible for the increase in evening foot traffic there.",
+      "explanation": "Choice A is necessary: by the negation test, if factors unique to the comparable city's arts district were actually responsible for its increase in foot traffic, the inference that a similar expansion will produce similar results here would be undermined. Choice B is wrong because relative business counts are not required for the comparison to support the conclusion. Choice C is wrong because relative nightlife interest between cities' residents is not required for the argument's inference to hold. Choice D is wrong because this is far stronger than necessary; the argument requires only that no relevant disanalogy undermines the comparison, not identical operating hours. Choice E is wrong because relative tax revenue generated is irrelevant to whether the expansion will increase foot traffic similarly.",
+      "credits": 1
+    },
+    {
+      "id": "LSAT-LR1-06-026",
+      "section": "Logical Reasoning",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Deductive reasoning",
+      "category": "Inference",
+      "prompt": "The city's public works department schedules a pothole for priority repair only if the pothole is reported through the city's online portal and measures at least six inches in diameter. The pothole on Elm Street was scheduled for priority repair last week.\n\nQuestion:\nWhich of the following can be properly inferred from the passage?",
+      "choices": {
+        "A": "The pothole on Elm Street was reported through the city's online portal and measures at least six inches in diameter.",
+        "B": "The pothole on Elm Street was reported by more than one resident.",
+        "C": "The pothole on Elm Street is located near a school.",
+        "D": "The city's public works department has repaired other potholes on Elm Street in the past.",
+        "E": "The online portal is the most commonly used method for reporting potholes."
+      },
+      "correct": "A",
+      "correctAnswerText": "The pothole on Elm Street was reported through the city's online portal and measures at least six inches in diameter.",
+      "explanation": "Choice A follows validly: since priority repair requires both that the pothole was reported through the online portal and that it measures at least six inches in diameter, and the Elm Street pothole was scheduled for priority repair, both conditions must have been satisfied. Choice B is unsupported because the passage does not require multiple reports, only that a report was made through the portal. Choice C is unsupported because the passage provides no information about the pothole's proximity to a school. Choice D is unsupported because the passage describes only this specific pothole, with no information about repair history on Elm Street. Choice E is unsupported because no comparison of reporting method popularity is established.",
+      "credits": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>LSAT Logical Reasoning Exam Simulator</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brandbar">
+      <img id="logo" class="logo-small" alt="Logo" />
+      <div>
+        <div id="brand" class="brandname"></div>
+        <div class="brandnote">Exam Simulator</div>
+      </div>
+    </div>
+
+    <nav class="nav">
+      <span id="timer" class="timer hidden"></span>
+      <a class="navlink" href="#" id="backLink">Back</a>
+    </nav>
+  </header>
+
+  <main class="container">
+
+    <!-- RUNNER -->
+    <section id="runnerPanel" class="page">
+      <h2 id="title">Loading…</h2>
+      <p id="desc" class="helper"></p>
+      <p id="metaLine" class="helper"></p>
+
+
+      <div class="panel" style="margin-top:14px;">
+        <div id="progress" class="progress"></div>
+<p id="itemPart" class="helper" style="margin-bottom:6px;"></p>
+<p id="itemInstruction" class="helper" style="margin-bottom:14px;"></p>
+<div id="prompt" class="prompt"></div>
+
+        <div id="choices" class="choices"></div>
+
+        <div class="row" style="margin-top:14px;">
+          <button id="prevBtn" class="btn btn-secondary">Previous</button>
+          <button id="nextBtn" class="btn btn-secondary">Next</button>
+          <button id="finishBtn" class="btn">Finish</button>
+        </div>
+      </div>
+    </section>
+<!-- RESULTS -->
+    <section id="resultsPanel" class="page hidden">
+      <h2>Results</h2>
+      <p id="scoreLine" class="helper"></p>
+      <p id="timeLine" class="helper"></p>
+
+      <div id="review" class="review"></div>
+
+      <button id="homeBtn" class="btn" style="margin-top:14px;">Back to Home</button>
+    </section>
+
+  </main>
+
+  <script src="common.js?v=3"></script>
+  <script src="runner.js?v=10"></script>
+</body>
+</html>
+
